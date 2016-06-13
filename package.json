@@ -1,0 +1,16 @@
+{
+  "name": "memebot",
+  "version": "0.0.0",
+  "description": "memes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "botkit": "~0.2.0",
+    "googleapis": "~8.0.0",
+    "google-auth-library": "~0.9.8"
+  }
+}
