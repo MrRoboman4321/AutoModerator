@@ -1,10 +1,15 @@
+
 var slackbot = require('slackbots');
 var sqlite3 = require('sqlite3').verbose();
 var db = new sqlite3.Database('memebot.db');
 var calendar = require('./calendar.js');
+var fs = require('fs');
+
+token = JSON.parse(fs.readFileSync("token.json")).token;
+console.log(token);
 
 var bot = new slackbot({
-    token: 'xoxb-49262453889-vwbBSCPbIFTtLCcin8gJBHVy', // Add a bot https://my.slack.com/services/new/bot and put the token
+    token: token, // Add a bot https://my.slack.com/services/new/bot and put the token
     name: 'automoderator'
 });
 var timeStart = 0;
