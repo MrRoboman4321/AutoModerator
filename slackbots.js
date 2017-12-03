@@ -1,9 +1,10 @@
-
 var slackbot = require('slackbots');
 var sqlite3 = require('sqlite3').verbose();
 var db = new sqlite3.Database('memebot.db');
 var calendar = require('./calendar.js');
 var fs = require('fs');
+var execSync = require("child_process").execSync;
+var firstline = require("firstline")
 
 token = JSON.parse(fs.readFileSync("token.json")).token;
 console.log(token);
@@ -50,10 +51,10 @@ bot.on('message', function(data) {
           room = getUserById(data.user);
           roomType = "d";
         }
-        if(data.text.indexOf("automoderator") != -1 || data.text.indexOf("<@U1F7QDBS5>:") != -1) {//If I have been mentioned
+        if(data.text.indexOf("automoderator") != -1 || data.text.indexOf("<@U1F7QDBS5>:") != -1 || data.text.indexOf("am")) {//If I have been mentioned
             console.log("Mentioned!");
             message = data.text.split(" ");
-            if(message[0] == "!automoderator" || message[0] == "<@U1F7QDBS5>:") {//Its a command
+            if(message[0] == "!automoderator" || message[0] == "<@U1F7QDBS5>:" || message[0] == "!am") {//Its a command
                 message[1] = message[1].toLowerCase();
                 if(message[1] == "help") {
                     postMessage("Currently available commands are: help, version, uptime, suggest", room, roomType);
@@ -83,7 +84,12 @@ bot.on('message', function(data) {
                             }
                         });
                     });
-                } else if(message[1] == "link" && message[3] != "key") {
+                } else if(message[1] == "markov") {
+					execSync("python markov.py " + message[2].toString() + " " + message[3].toString() + ".txt");
+					fs.readFile("line.txt", 'utf-8', function(err, res) {
+						postMessage(res, room, roomType);
+					});
+				} else if(message[1] == "link" && message[3] != "key") {
                     if(message[2] == "calendar" || message[2] == "google") {
                         db.serialize(function() {
                             db.get("SELECT * FROM users WHERE name = ?", user, function(err, row) {
