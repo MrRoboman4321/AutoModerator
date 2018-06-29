@@ -52,9 +52,9 @@ bot.on('message', function(data) {
           roomType = "d";
         }
         if(data.text.indexOf("automoderator") != -1 || data.text.indexOf("<@U1F7QDBS5>:") != -1 || data.text.indexOf("am")) {//If I have been mentioned
-            console.log("Mentioned!");
+            console.log(data);
             message = data.text.split(" ");
-            if(message[0] == "!automoderator" || message[0] == "<@U1F7QDBS5>:" || message[0] == "!am") {//Its a command
+            if(message[0] == "!automoderator" || message[0] == "<@UBGMPTN4V>" || message[0] == "!am") {//Its a command
                 message[1] = message[1].toLowerCase();
                 if(message[1] == "help") {
                     postMessage("Currently available commands are: help, version, uptime, suggest", room, roomType);
