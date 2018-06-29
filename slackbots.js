@@ -85,7 +85,7 @@ bot.on('message', function(data) {
                         });
                     });
                 } else if(message[1] == "markov") {
-					execSync("python markov.py " + message[2].toString() + " " + message[3].toString() + ".txt");
+					execSync("python3 markov.py " + message[2].toString() + " " + message[3].toString() + ".txt");
 					fs.readFile("line.txt", 'utf-8', function(err, res) {
 						postMessage(res, room, roomType);
 					});

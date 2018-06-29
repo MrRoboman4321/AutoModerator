@@ -1,0 +1,1357 @@
+No problem, I helped with our swerve in 2009 and I have been a swerve enthusiast ever since. I'm down to give some insight on whatever you're researching.  
+Thank you though 
+Not right now but I might later, I'm just doing research on the swerve train stuff.
+Sup fam, do you have some questions I could try and help answer?
+Hi
+<@U1F0P4FA5> commented on <@U5M1PPYNA>’s file <https://skunkworksteam1983.slack.com/files/U5M1PPYNA/F7WMLB6RY/20171107_205953.jpg|20171107_205953.jpg>: <@U5M1PPYNA> This is <@U5HDV9682>, <@U5HDV9682> this is <@U5M1PPYNA>. <@U5M1PPYNA> is working on the swerve drive, <@U5HDV9682> is an alumn of Skunk Works
+<@U1F0P4FA5> commented on <@U5M1PPYNA>’s file <https://skunkworksteam1983.slack.com/files/U5M1PPYNA/F7WMLB6RY/20171107_205953.jpg|20171107_205953.jpg>: <@U5HDV9682> I think <@U5M1PPYNA> and the rest of drive base will be able to see your comments here
+Also, <!channel>, I'm thinking today is just a work day with no conference room meetings. Remember that for Tuesday each group should have pros and cons of their ideas and a recommended mechanism. If you have finished with that, you may want to try to come up with numbers to support your thinking, do research on Chief Delphi (about the mechanism, not the game!), or do more detailed drawings of how specific parts will fit together (CAD without the computer). Does that sound good?
+<@U27TQ5U7K> Can you post your stuff?
+<@U5M1PPYNA> uploaded a file: <https://skunkworksteam1983.slack.com/files/U5M1PPYNA/F7WMLB6RY/20171107_205953.jpg|20171107_205953.jpg> and commented: There's a lot more that should be on there and I still need to justify the points but this is what I got out of today so far
+<@U1F0BGMLN> uploaded a file: <https://skunkworksteam1983.slack.com/files/U1F0BGMLN/F7XPL3WGP/image_uploaded_from_ios.jpg|Tube stuff>
+Ok
+<!channel> Can everyone post pictures of what they worked on today for mock build season? 
+<@U1F0P4FA5> uploaded a file: <https://skunkworksteam1983.slack.com/files/U1F0P4FA5/F7XPHB4K1/image_uploaded_from_ios.jpg|Image uploaded from iOS>
+<@U1F0P4FA5> uploaded a file: <https://skunkworksteam1983.slack.com/files/U1F0P4FA5/F7XPHADUP/image_uploaded_from_ios.jpg|Image uploaded from iOS>
+<@U1F0P4FA5> uploaded a file: <https://skunkworksteam1983.slack.com/files/U1F0P4FA5/F7WQX5XBP/image_uploaded_from_ios.jpg|Basic Mechanisms> and commented: Two options for drive base, a number for tube
+<https://youtu.be/1pwIq-kLJXE>
+
+AndyMarks new partner, Transcends is working on this... 
+So let us have like 10~20 min
+I think tube group might need a bit to decide
+<!channel> Follow up on agenda: Will people be ready to start discussing options they have found? We don't need to know what we want to use, just what options there are and basically what they look like
+<@U1F09GL5S> uploaded a file: <https://skunkworksteam1983.slack.com/files/U1F09GL5S/F7VNKJ4MN/image_uploaded_from_ios.jpg|Image uploaded from iOS>
+<@U1F09GL5S> uploaded a file: <https://skunkworksteam1983.slack.com/files/U1F09GL5S/F7WCE0HS6/image_uploaded_from_ios.jpg|Image uploaded from iOS>
+<@U1F09GL5S> uploaded a file: <https://skunkworksteam1983.slack.com/files/U1F09GL5S/F7XEU5ZQF/image_uploaded_from_ios.jpg|Image uploaded from iOS> and commented: Can I get feedback on this drive base we're cutting today? Slack me directly please for feedback/questions.
+Okay <!channel>, for the agenda tomorrow I'm thinking:
+Gen. Meeting-7:00: Improve systems flowchart &amp; get general picture of robot (meeting)
+7:00-8:00: More work on fleshing out mechanisms
+Note that this does not include time for finishing letters, as those are homework.
+Sound good?
+Ok cool thanks
+Did those come thru? Last time it looked like they did but now it shows they didn't 
+<@U1F0P4FA5> uploaded a file: <https://skunkworksteam1983.slack.com/files/U1F0P4FA5/F7V12L4HY/image_uploaded_from_ios.jpg|Mech Groups!>
+<@U1F0P4FA5> uploaded a file: <https://skunkworksteam1983.slack.com/files/U1F0P4FA5/F7UU91TGT/image_uploaded_from_ios.jpg|Final KPPs &amp; Flowchart!>
+<@U1F0P4FA5> uploaded a file: <https://skunkworksteam1983.slack.com/files/U1F0P4FA5/F7UB84ZKJ/image_uploaded_from_ios.jpg|Tube!>
+<@U1F0P4FA5> uploaded a file: <https://skunkworksteam1983.slack.com/files/U1F0P4FA5/F7V12HESE/image_uploaded_from_ios.jpg|Tube!>
+Yeah... I tried to upload two photos from the initial meeting and they failed. Lemme try again
+Or anyone for that matter...
+Hey izzie did you happen to take a picture of the tube group planning stuff?
+<@U1F0P4FA5> uploaded a file: <https://skunkworksteam1983.slack.com/files/U1F0P4FA5/F7V7SSHPY/image_uploaded_from_ios.jpg|Mechanism Groups (Ben is with Tube)>
+<@U1F0P4FA5> uploaded a file: <https://skunkworksteam1983.slack.com/files/U1F0P4FA5/F7TMEF4QY/image_uploaded_from_ios.jpg|Final KPPs and Initial Flowchart Thing>
+I pointed out the major concerns to you tonight. Look at those issues objectively and see if you can come up with alternatives that might address them. Mostly, you want to establish a base line of expected performance so you can have a place to collect data for validation. When testing you'll be able note expected and unexpected behavior. That will give you a place to start For further iterations. For a different  perspective and point of view, I highly suggest posting your design on chief delfi and ask for feedback. There are a lot of FIRST mentors and engineers on there that love to help out with student  designs. Some will probably have direct experience with the H drive style that can give pretty good insight on pros and cons. My peeps are old and cranky. Apologies, but I'll spare you from that experience. Chief Delpi will offer you much more constructive advise.
+<@U3EHQTKBP> if you could tell me all the details and issues that the engineers that you met with pointed out about my drive base that'd be great. I want to make it the best I can and learn all the way through. Also if you could put me in contact with them directly, so I can really talk to them and work out a viable solution to each problem addressed and learn the most, that'd be great! I'm always looking for the most feedback as possible. Thanks in advance 
+<@U1F0P4FA5> uploaded a file: <https://skunkworksteam1983.slack.com/files/U1F0P4FA5/F7U8A50CB/image_uploaded_from_ios.jpg|Tube stuff!>
+<@U1F0P4FA5> uploaded a file: <https://skunkworksteam1983.slack.com/files/U1F0P4FA5/F7TQRH4UR/image_uploaded_from_ios.jpg|Tube Stuff!>
+<@U1F0P4FA5> uploaded a file: <https://skunkworksteam1983.slack.com/files/U1F0P4FA5/F7TJYMMLY/image_uploaded_from_ios.jpg|Drive Base Discussion Drawings>
+<@U1F0P4FA5> uploaded a file: <https://skunkworksteam1983.slack.com/files/U1F0P4FA5/F7V5B0C94/image_uploaded_from_ios.jpg|Strategy/KPPs>
+Hey <!channel> here's what I'm thinking for an agenda:
+6:30-6:45: Finish KPPs
+6:45-7:00: Split into mechanism groups
+7:00-8:00: Concept Work/Prototyping
+Sound good?
+<@U3EHQTKBP> uploaded a file: <https://skunkworksteam1983.slack.com/files/U3EHQTKBP/F7TG01GKU/detecting_mistakes_in_engineering_models.pdf|Detecting mistakes in engineering models> and commented: Some nice light reading
+<https://goo.gl/forms/kotb9gPQsRKsyCcL2>
+<!channel> Don't forget to fill out the survey by the meeting tomorrow! So far I have nine responses
+*geared, my b lul. It's early.
+<@U2A68KU8K> What is this gear for in ft/s?
+yeah np
+Yeah yeah, cool. Thanks fam. 
+yeah no problem but heres some pics with the COM that you wanted earlier. Good luck
+I will look it over. 
+I've got a materials science quiz at 8:00 tomorrow morning, can I hit you back later? 
+<@U5HDV9682>
+<@U2A68KU8K> uploaded a file: <https://skunkworksteam1983.slack.com/files/U2A68KU8K/F7R404KFA/pasted_image_at_2017_10_29_08_42_pm.png|Pasted image at 2017-10-29, 8:42 PM>
+<@U2A68KU8K> uploaded a file: <https://skunkworksteam1983.slack.com/files/U2A68KU8K/F7R7ZV4TT/pasted_image_at_2017_10_29_08_42_pm.png|Pasted image at 2017-10-29, 8:42 PM>
+<@U2A68KU8K> uploaded a file: <https://skunkworksteam1983.slack.com/files/U2A68KU8K/F7SKSHNH4/pasted_image_at_2017_10_29_08_41_pm.png|Pasted image at 2017-10-29, 8:41 PM>
+<@U2A68KU8K> uploaded a file: <https://skunkworksteam1983.slack.com/files/U2A68KU8K/F7R7ZNYKT/pasted_image_at_2017_10_29_08_41_pm.png|Pasted image at 2017-10-29, 8:41 PM>
+<@U2A68KU8K> uploaded a file: <https://skunkworksteam1983.slack.com/files/U2A68KU8K/F7SKSE70E/pasted_image_at_2017_10_29_08_40_pm.png|Pasted image at 2017-10-29, 8:40 PM>
+<@U2A68KU8K> uploaded a file: <https://skunkworksteam1983.slack.com/files/U2A68KU8K/F7R3ZN1GQ/pasted_image_at_2017_10_29_08_40_pm.png|Pasted image at 2017-10-29, 8:40 PM>
+<@U2A68KU8K> uploaded a file: <https://skunkworksteam1983.slack.com/files/U2A68KU8K/F7RT9JWN9/pasted_image_at_2017_10_29_08_40_pm.png|Pasted image at 2017-10-29, 8:40 PM>
+I know my cad skills improved greatly after i built what i made because i was able to see my faults and understand how to improve them
+Yes i am slightly concerned but that is why we need to build it and test it. Thats the point of this. Not only would it be a good thing to test and see if its a viable drive base in the future but if we made it in the preseason it would be a great way for freshman and sophomores to get hands on and understand why things are done the way they are, instead of me just telling them to do it that way and they'll understand later.
+<@U2A68KU8K> I like your train of thought for #6, are you worried at all about a jack of all trades, master of none scenario?
+1. It increases maneuverability without decreasing friction between ground and wheel. It allows us to easily align with the pegs when needed and get out of a pin easily, but also allows us to push other robots around and have maximum control if/when required
+2. The trade off is that its more complex and has more moving parts which increases risk of break. The however to this is that an it is designed to be interchangeable and an entire side can be taken off easily or just one wheel set so we can have extra laying around and quickly fix it. The pnuematics all will have springs in them so that if they fail they will defualt to coulsons because that is what i see us using more but we can customize that from what the driver wants because the wheel sets and pneumatics are easily changed.  
+3. The weight is roughly 45 lbs 
+4. I haven't calculated the cost yet
+5. Yes there are other ways to align on a peg but that isnt the only goal of this drive base. It is again to get out of pins and have a full range of motion as well as align with a peg.
+6. The benefits of this drive base is that it takes all the best qualities of others and puts them together. Maneuverability of a swerve or mechinum, speed and control of a 6 cim coulson tank drive, agility of omni. My entire goal of this was to make a drive base that encompassed all the perks of other drive bases so that it would be viable in games like steamworks and logomotion
+Meaning, for example you mentioned earlier about being able to move left or right to place a gear. Can that same problem get solved by a simpler mechanism at the end effector level.
+what do you mean in number 5 <@U3EHQTKBP>
+i never undid the 6 cim but the middle one is just for corrections. if we decided we would heavily rely on it then it could be tested but i thought we wanted the acceleration and torque
+Let's all block out some time on Tuesday to discuss this drive base.
+
+Be prepared to answer a few of these questions:
+
+1. What problem does it solve?
+2. What are the tradeoffs?
+3. What is the weight?
+4. What is the cost?
+5. Can the problem you are trying to solve be achieved at the effector level?
+6. What are the benefits of this drive train over other types?
+I'm curious why you went back to 6 CIM <@U2A68KU8K> 
+ All wheels are powered they're belted together
+yeah
+Oh right, you can drive the outer omnis... yeah you could do that
+Or even just less cheese in back and more cheese in front
+but only a small amount
+while you are translating
+you drive the "drive" omnis into it
+Couldn't some mass be added to the back of the robot to pull the COM back?
+yeah, I don't see any possible compensation from a control system perspective
+got it
+yeah
+So the pneumatics switch between omnis and colsons on the perimeter, while the 3(?) in the middle as the bar in h stay in contact the entire time (works because they're omnis)
+sure, ok
+not paytons
+yeah, that's just one from the internet
+this flips back and forth from the colson and the omni with a piston
+the red is the rubber of the colson?
+<@U1F0QEL0Z> uploaded a file: <https://skunkworksteam1983.slack.com/files/U1F0QEL0Z/F7RQDMJ3E/pasted_image_at_2017_10_29_07_44_pm.png|Pasted image at 2017-10-29, 7:44 PM>
+it'd be a pretty cool juke to spin and translate around a robot
+Lemmie picture you up hold on
+rip
+oh
+If we can drive colsons and omnis at the same time, we could compensate with a little bit of twist around center of drivebase rotation
+No, that's the thing with his drive base
+Do the omnis and colsons touch the floor at the same time?
+Actually what's the diameter of the omni
+As in the ones on the butterfly, but I don't think it's that bad if they are only 4 inch omni's
+Not eli, but yeah that possible, but there is only so much fine control you can get with omni wheels
+I think that you might be able to compensate in programming if it was too crazy, am I right <@U1F1ETJM7>?
+Exactly.
+If its centered then the Omanis should pull it in a line. If it's off then it'll be on an arc
+Elaborate on pull, I think you are on the right track.
+Yeah kind of because you want to see how much it will pull
+Do you understand why I might want to look at that?
+If it's close it is nbd.
+It's very close but a little off sadly
+What I was going to look at was the distance between where the slide wheels contact the ground and the COM.
+All good 
+I feel it yo, my b.
+Oh yeah I can't do that because it's in a360 but it's on the very tip of the mini cim motor axel 
+And the orthographic view point is nice for 2D analysis because it keeps things parallel and perpendicular.
+COM is Center of Mass.
+Oh, my b yo.
+ What do you mean 
+Can you show COM and make the view type orthographic?
+<@U2A68KU8K> uploaded a file: <https://skunkworksteam1983.slack.com/files/U2A68KU8K/F7RNKD7C2/pasted_image_at_2017_10_29_06_57_pm.png|Pasted image at 2017-10-29, 6:57 PM>
+one sec im moving them around for an actual drive base this is just a concept and stand alone
+<@U1F0P4FA5> pinned a message to this channel.
+Hey <@U2A68KU8K>, can you hook me up with a topdown view of your drivebase with COM shown?
+oh lol he doesn't look like Franco actually
+For example, us getting to the finals of girls gen :pogchamp:
+<https://www.facebook.com/Twitch/videos/1014047928671896/>
+And the explanation from TwitchHQ.
+Original video.
+<https://www.youtube.com/watch?v=G5CGm6zPFE8>
+One sec fam, I gothcu
+But who is PogChamp?
+PogChamp
+I bet that too
+I bet it's Franco
+No idea, it gets spammed in chat when a streamer does something really cool lol
+<@U5BS3Q282> You've been spotted!
+Who is it? It looks like Franco
+It's not franko btw, its from Twitch lol
+Please fill out by Tuesday!
+<https://goo.gl/forms/nisU35AHU4UasZGC3>
+sure
+sure
+But <!channel> do you want to vote?
+I thought it looked like will scnaith lmaooo
+Is it Franco? Looks like Franco
+Who is that sticker of?
+Anyways, do people want more time for nominations or do they want to vote right now?
+Don't forget preseason!
+can we please do the sixth one in January?
+Rollin bowlin???
+Bowlin(g)???
+id vote #6 tbh
+airsoft/paintball, laser tag, bowling, dodgeball, overwatch, and cading a robot together
+What are they 
+And one of them I think is unlikely to pass
+6, but only 5 serious ideas
+how many different ideas have been submitted?
+Okay, <!channel>, are you guys ready to vote on design team bonding activities, or do you all want more time for nominations?
+Okay, cool, figured that out! Freshmen/sophomores should let me know if there are more sophomores/freshmen I have forgotten to add to this channel
+exaclty <@U1F0QEL0Z>
+it just makes them copy things
+I mean the biggest thing you can get out of doing the early chapters, is figuring out how to do easy stuff really quickly
+the book doesnt
+it doesnt teach correct pratices
+yeah i look over chapter 6-8 and if anything is wrong ill correct or send them back to the right chapter
+Yeah, it's a little boring, but we should make sure you have the correct practices down
+yeah that's a good idea tucker. from my memory of the CAD book, if you can do chapters 6-12 efficiently then 1-6 is pretty redundant.
+then do it
+if there is something you don't know
+i'd say look through it
+Idk, <@U2A68KU8K> what do you think?
+I started at chapter 6 for a class b/c I've done a bit of CAD before, but I could do them if you'd like
+What about 1-5?
+I've done chapters 6-12
+Have you started the CAD book?
+:+1:
+But you are free to stay if you want to
+Both teams are above capacity
+Yeah and if you are self-selecting design isn't the way to go :laughing:
+Yeah sorry I meant that
+sorry if it came across that way :/
+Just self-selection
+Oh lol, they weren't I thought
+whoa
+I just switched from programming because they were kicking people out
+lol he can answer now if he's checking slack <@U7NQFDYBS>
+<@U7NQG5GTS> has joined the group
+<@U7NQFDYBS> has joined the group
+<@U7R0YELFQ> has joined the group
+Was he a new freshman entirely or did he just switch to design team on Thursday or was he lost?
+Ian just came to thursday so idk what we want to do there
+Rachel
+Jack
+Caleb
+Asa
+Anthony
+Ian???
+Then theres two more
+Yeah, I'm trying to figure out who the freshmen are for the stuff in the design training thread and so I can add them as soon as they get slack
+theres a lot of kids who arent on slack yet
+<@U2A68KU8K>
+that's a payton thing, I think he knows them the most
+<@U7NQFRW8Y> has joined the group
+Hey <!channel> which freshmen do I still need to add to the design team channel?
+I will once my internet starts working
+updoot, gimmie that fruit
+I did
+por favor
+please
+Okay
+add us
+can you please add us?
+What does that all mean?
+yo
+^^^
+same
+yeet
+Hey <!channel> I made a separate channel to organize training freshmen/sophomores, so we don't clog up the design slack with all of that business. If you are a junior, senior, or honorary junior or senior, let me know if you want to be added to that channel
+Oh yeah
+Probably at least someone with keys to school
+Does the mentor for extra time have to be the coach?
+Let's see how quickly we can get going with the designs for everything else, and if we can possible get more time from our mentors. Maybe advisory board reps should push for a coach that is willing to put in extra hours
+I think it's a cool project, we just have to integrate it into the mock build season, which is ridiculously easy. Just have a formal design review, some documentation, and then I think we can start building it like in real build season, but I think it might have to be done on extra time. I don't know.
+i think it would be an over all great project to have
+<@U2A68KU8K> Found it!
+you have to @-p without the dash
+yeah sure that too?
+Btw I still don't know how to search your name Payton
+I think the point would be to push ourselves in preseason so we can handle complicated systems in build season if necessary 
+but i still think itd be a good thing to test out. I tried to make a drive base that was a combination of all other drivebases capabilities and range of motion and still be practical
+yeah thats true
+Hard to maintain just means more moving parts to break and repair
+i wouldn't say harder to maintain like its a bad thing but no one really has practice with pneumatics besides maybe programmers? i think itd be a good way to teach all the new freshman and sophomores and have another drivebase out of the norm. it wouldve been really useful this last year for aligning with the peg and gear drop so i still think itd be a good idea to test out
+The difference is the mechanism in the middle to allow it to go side to side
+Just harder to build and maintain
+basically slippery but the omnis drive also
+So mecanum but better
+also makes it easy to get out of pinning and still be able to push others around
+allows you to go forward and backwards but also side to side for aligning with some type of peg or gear drop
+Funky, what does it let you do?
+You upload it to Chief Delphi to make it public
+It has pnumatics to shift between omni and colson
+<@U2A68KU8K> uploaded a file: <https://skunkworksteam1983.slack.com/files/U2A68KU8K/F7RJADY75/pasted_image_at_2017_10_29_12_10_pm.png|Pasted image at 2017-10-29, 12:10 PM>
+And maybe, but if it isn't anything new (ie swerve or Omni or something) then we have 2x2016 +2x2017 + slippery + totebot
+Upload to a public db or something?
+also <@U1F0P4FA5> my name is now searchable youre welcome
+yes i will upload before build season but would it be helpful if you had that to program with?
+I know for programming we have to make the code Public if we want to reuse it, which is why we do that
+I know the main intent of this is to learn design better and that's great, but if you're also planning on using the designs you make now during build season (even if it's only in parts) then there are rules regarding that
+Someone should read up on the rules regarding using material from times outside of build season during build season
+Especially robots with pneumatics
+<@U1F1ETJM7> would this be useful for programming to have more robots?
+I doubt it. It would be something I would of have the freshmen work on building after they were shop certified so they get real experience. It always helps to build something so they know why to design it that way 
+Possibly, depending on the complexity of the components that we decide to build.
+Yeah, I imagine if we could get more people on it it would be good shop practice, I just don't see where it fits in schedule. Maybe we will find extra time?
+Although I am and will continue to push to build this because it would be a great prototype for a real drive base 
+Design***
+Okay, yeah I was only questioning the word "build"
+Sorry for the confusion
+Yes
+Yes everything is staying in cad but we are using my pre designed drive base 
+You're welcome 
+And Payton how am I supposed to tag u in anything with that crazy username? :laughing:
+Yeah, but there is a section saying build drive base, and it was my understanding everything was staying in cad, esp since I didn't see any time for build on the schedule from Thursday
+yes, that was my understanding as well
+I thought we were using mine? 
+We're using a pre-designed drive base
+Oh, I just noticed the build drive base part under us. When did we plan on doing that?
+<@U27TQ5U7K> uploaded a file: <https://skunkworksteam1983.slack.com/files/U27TQ5U7K/F7SNWEU6T/img_3551.jpg|Mock Build Season Goals>
+<@U27TQ5U7K> uploaded a file: <https://skunkworksteam1983.slack.com/files/U27TQ5U7K/F7RMXM4F6/img_3550.jpg|Pre-Build Season Plan>
+Cool thx!
+Yes, I will
+<@U27TQ5U7K> @ Payton (what is his username I can't find it) can you post the picture/do you have it?
+I believe Pavid has one
+Hey <!channel> did we have a picture from the day we decided what we were doing with sophomores and freshmen?
+<@U27TQ5U7K> uploaded a file: <https://skunkworksteam1983.slack.com/files/U27TQ5U7K/F7QMHMANP/image_uploaded_from_ios.jpg|Mock Build Season>
+Hi <@U7QQTJRN1>!
+<@U7QQTJRN1> has joined the group
+Yay lmao bro
+K
+It's embarrassing 
+Jack change your photo
+Thx!
+We are almost done
+I can
+<!channel> Can someone let me know when Lego sorting is over?
+<!channel>
+<https://goo.gl/forms/Snq8v5WqSnpYVRjc2>
+Woo suggest team bonding activities!
+<!channel> 
+Okay, I'm not sure how long we will be sorting Legos on Thursday, but assuming everyone helps out and gets it done by 7, I'm thinking we spend half an hour on setting ground rules for MBS and then another half hour on resetting our schedule. Sound good?
+<@U7QG71DP1> has joined the group
+<@U7LGS4HA4> has joined the group
+So maybe we are looking at
+7:00-7:15: Talk to Mr. Smith?
+7:15-7:25: Team-Bonding?
+7:25-7:30: Results of survey
+7:30-8:00: Start on MBS ground rules and schedule, finish on Thursday
+Oh right I forgot about that
+Isn't it voting today? I was expecting that ordeal to take most of the meeting
+I know this is late, but this is what I was thinking for an agenda for tonight:
+6:30-6:45: Talk to Mr Smith?
+6:45-6:55: Team-Bonding?
+6:55-7:00: Mock Build Season Game Decision
+7:00-8:00: Ground Rules for Mock Build Season &amp; Schedule (Girls may/may not have to leave for Girls Gen prep)
+Does that sound all right to everyone?
+That’s too
+I meant the survey she couldn't complete
+^
+She hasn't decided whether she's moving to marketing yet, if I understand correctly
+Wait, are u referring to preseason project game survey or other design survey or something else? 
+You can still complete it, everyone has until Tuesday
+I haven’t decided yet. I’ve been busy all weekend so I was unable to complete the survey. Sorry.
+LETS WATCH SPIDER-MAN 
+Design team bonding idea: Watch all of the marvel movies lol
+ok
+Davin doesn't use slack much. 
+Engineering ops
+Is Davin on this channel? One of the ways it would affect electrical would be by giving design practice for motor, battery, sensor etc. placement
+I don't know that mock build would help or hinder us immediately, and besides more time for programmers during build I don't see it directly affecting us. If there's something I'm missing please, point it out
+Sure
+I don't know enough to hold an opinion, I'm guessing you mean about mock build?
+You want me to add you to the list eli? Btw when people respond I'm filling in your name spot on that list.
+That'd be nice
+I think that elevator mechanisms will be important this year, and even if I'm wrong it's still good to give the whole design team a refresher on elevator mechanisms. So I think a mock build season would be a good idea, and the restricted time frame is a good idea because as a subteam, we need to learn to be faster so we can hand off our mechanisms to other subteams like electrical and programming. During build season, we shouldn't reject good ideas or designs based on the fact that it would take too long to do, so we need that practice to shake off the rust and be prepared for the real build season and not give the programmers a few minutes to test out the code on the comp bot.
+<@U1F0KHF71> 
+I want to do the mock build season. I believe Anna has moved to marketing 
+Just reply to that message if you want, or don't you do you.
+So here's a list of what people have said they want to do 
+Payton: drive bases and helping freshmen
+Henry: I have no clue, I think you wanted to help out with scouting more because of how many kids were on it, but I'm not quite sure if that's true or not
+Harrison: you wanted to work on solidworks, and you also were doing drive train stuff with Isaac
+Isaac: not sure was working with Harrison
+Izzie: systems engineering template and mock build season
+Angelina: mock build season
+Victor: doesn't want to be constrained by time, wants the team to work quicker think the mock build season will promote that.
+David: you've been working on getting the team to function, don't know what you want to do preseason
+Thomas:you said mock build season would take too much time, thinking about smaller projects
+Tucker: I wanted to work on the mock build season and doing the system engineering stuff, as well as math
+Anna: I haven't talked to you in two weeks so I have no clue
+
+If there is anyone else, I assumed you were either working with the freshman or I had no idea what you wanted. Basically, I think if we boil it down to the base things of what we want, then it will be a lot easier to accommodate everyone. If you had the "I don't know" under your name or if what I put down wasn't really descriptive it'd be nice to have a public place so that we all know what we want.
+So, to reiterate, everyone needs to fill out the preseason project survey. We may need to spend some time on Tuesday addressing concerns, but regardless we still need to move forward if we want to have a productive preseason. Here's the link again! <https://goo.gl/forms/AQ0OiEIilEePkju13>
+I would still suggest that everyone shows up to the subteam meeting on Tuesday
+Okay, we could plan something
+A team sport for the full design build team 
+Full team thing?
+We need our own team bonding. Maybe airsoft or soccer or a full team thing. 
+How would you know that it would be shut down? And, again, how would you suggest to build trust if you feel you can't even have a conversation? And, again, I understand there are team-wide bonding plans underway
+I was helping the freshman and sophomores, who a lot of people have seemed to forget about. My voice wouldn't be heard because everyone in that room would shut me down. I'm not going to name names but there are people who I don't feel comfortable suggesting things around. We fix this by all talking it about and team bonding!!$
+So show up to the subteam meeting. Why do you feel like your voice wouldn't be heard, and if that is how you feel, how do you really suggest that we all begin to trust each other?
+I know personally, I don't feel like my voice would be heard by the people in the meeting. Yes I know it's a full team thing but we need it especially! We're the biggest sub team and have the argent divide! And the elephant is that there is a divide! Not a little one, a large one right down the middle. 
+And what is the elephant in the room?
+1. If students wanted to address it, why didn't they attend the subteam meeting?
+2. Team bonding is not a subteam issue, I understand there are team-wide plans underway.
+I have 2 concerns. 1. Our sub team is divided in half and broken. We don't listen or respect each other in the way that we should. It feels like an us against them type thing. 2. Because 1 is an issue, we won't have a successful mock build season and it will be a waste of our time. If everyone doesn't work together, and at this state, I don't see that happening, we won't make it work. Solution: 1. fix the divide by addressing the elephant in the room then talking it out. 2. Team bonding. 3.   Make us trust each other again, a combination of 1 and 2. 
+Sorry, what were your concerns? You have asked if build season is the best idea, and I addressed that. Other than that, I have only heard an argument for why having a full subteam meeting is somehow a bad idea
+Izzie, I've brought my concerns to the table to the table many times. I even did today! And that's what this entire conversation has been about but instead of really talking it out and debating, you seem to have closed up and get defensive when I'm trying to talk this out. You haven't seemed to consider the other side yet. I've heard people say it before and I know I have but if we don't feel like we get our voices heard then the only way we could've protested is by just not going. And I'm sorry that it was that way, but again, it shows a larger problem that needs to be addressed. 
+Nobody brought their concerns to the table. They just chose not to show up, or decided the subteam preseason project wasn't worth their attention
+You're right, but also wrong. If half the team walks out because they don't feel likes a good idea, and you don't address their feelings as to why they think that, you're not catering to everyone. Now sure if one person walked out, yeah, that's wrong, but if half the team does, maybe there's some bigger issues that need to be addressed. 
+Walking out on a meeting is not conducive to teamwork
+How were the people participating in the preseason project in the wrong?
+You're half right, everyone was in the wrong. See we all need to sit down and actually talk about a viable solution to moving forward. See the thing is though, the people who left feel like they are going to have a better impact leaving that meeting then staying. But the people in the meeting feel the same way! We need to fix the team, talk it out, do some team bonding, make us trust each other again! We cannot pretend like there's no divide. We need to become one unit again, not two who don't want to work together 
+And what do you suggest to fix that divide? All students were supposed to be at the preseason project meeting, but they made the decision not to work as a team. This cannot be happening going forward, but it is hardly the fault of the people that followed their responsibilities to the subteam
+No but we're all kids. We need to stop looking at this entire thing like a business and more like a team! We are kids! This is about having fun. I haven't had fun this season yet. Feelings the hostility between us isn't fun or business professional. If we don't trust each other we will fail. Moving forward in the state that we are in is very dangerous to our success. I don't know if you noticed it, or maybe it was just me, but most of the people in the meeting for the mock build season were kids that wanted to leave the school with 1983 while the kids who weren't in there were the ones who had stayed. So there's an obvious split. When you have half the design build team not wanting to do something, yet you think everyone will do it and you plan that way, it insures nothing but failure. Fix the subteam. It's the only option we have to make us work together 
+That doesn't mean we can't all be professional about it
+Because we haven't mended our relationships from the split. 
+And why is it split in half?
+See that's the thing, I don't see us working together. The design team is broken and split in half and moving forward like nothing is wrong is one of the worst ways we can respond to this 
+It will only turn out like super bot if we all don't work together
+And then design time
+After that we can have our kickoff
+We only need one more planning meeting
+I see this turning out just like super bot, we sit in meetings and talk for 4 weeks and never actually do anything 
+And it is the best use of our time because we can practice our design process and basically do a test run
+I am working on getting us more meetings and longer meetings. Wilson seems open to the idea and I hear Smith may be able to get us in without her being there
+So you're telling me that you think in 14 meetings that are 2 hours, we can make an entire robot and that a such a short "build season" is a good use of our time? 
+Hey <!channel> there are only five responses on the survey! This is your chance to have a say in what we are working on in the preseason, so make sure to fill it out ASAP!
+I swear that is the same url but now it works
+Ta-da! <https://goo.gl/forms/AQ0OiEIilEePkju13>
+Idk where it went wrong
+Sorry trying to fix it
+try harder
+404 not found
+Okay, nvm, here's the survey! Everyone needs to fill it out by the NEXT MEETING so that we can move forward with our mock build season. Please make an informed decision.
+<http://goo.gl/forms/AQ0OiElilEePkju13|goo.gl/forms/AQ0OiElilEePkju13>
+<@U1FA2S7PY> has joined the group
+<@U1F6AR1NF> <@U1F0QEL0Z> <@U1F0BGMLN> <@U1FA2S7PY> @ anyone I might have forgotten
+Anyone remember cons on logomotion?
+<!channel> Head's up before too many people go to bed: Survey coming regarding mock build season in next half hour
+Design meeting starting at 6:50 in conference room! <!channel> 
+ok that would be a lot to let them know of at once lol
+Idk about Smith, Wilson is
+And is Mr. Smith?
+Is Wilson aware of the mock build season?
+Once the numbers are in place for how preseason hours correspond to two weeks of build season, then comes the explanation of mentor support and the importance of everyone cading in the same room and taking the time to get this project right so we don't screw up real build season
+Yeah, I know. But as support for why we need more time. Why is Wilson's favorite question
+just showing them a calendar as to why isn't probably going to cut it
+no need to convince me, I'm just trying to figure out how to allow it to appeal to Wilson and/or Mr. Smith to make it happen
+Well both
+Sorry preseason
+The point of build season is to learn, and the best way to do that is thru the mentors
+Yeah, of course. Any help we could get would be great so we can make sure our designs are good
+I don't think the entire team would be able to make an extra meeting, so I'm kinda going off the assumption it would be design + others (maybe)
+Your own
+You mean from other subteams or from our own?
+do you guys need other mentor support at the extra meetings?
+my bad
+well there we go
+oh
+I'll buy into it. 
+Into more meetings
+Into what? A calendar?
+I doubt the mentors will buy into that tbh
+I'll develop a calendar to show to her to make a case for more meetings
+Yeah, I mean if the students voice's matter...
+We could meet in between school and robots, but that cuts into dinner and homework time. Idk how we will get Wilson to let us come in an extra day if she won't let us stay till 8:30, but we should def push for that
+We should also start looking to add in the extra time we missed, whether we work out of school more, or we come in on Wednesdays or something like that. Probably discuss this on Thursday.
+Yes
+<!channel> I'm thinking Thursday is the day to choose our competition and set ground rules, meaning people should come to the meeting with at least a vague understanding about what each previous game was about so we can choose. Does that sound right?
+<@U1F0P4FA5> uploaded a file: <https://skunkworksteam1983.slack.com/files/U1F0P4FA5/F7KTN6B50/image_uploaded_from_ios.jpg|Image uploaded from iOS>
+I would note that I think they should be encouraged to do most of this outside of robotics meetings so that time in meetings can be spent in some sort of shadowing situation with older students working on the mock build season
+Yes, I like that idea
+yeah an end date with a recommended pace to get the chapters done in that timeframe 
+That's a good idea, I just thought 2 chapters a week might be a good basis because they all might be at different chapters in the book
+Putting an end date on when they should have it done would be my choice, but do what ever you think is best
+I agree but I also think it's important to have assignments and a timeline. The book can be a bit more flexible 
+Yes 
+I'd say not requiring certain chapters a week would be best so they don't feel like the have a massive commitment on top of everything, how little it may be.
+Does that sound ok?
+do we have their emails though?
+Ok, I can do a rough draft email and let you all check it then I will try to send it by 8 tonight
+This is <@U1F0P4FA5>, I think 2 chapters a week is fine
+2 chapters a week isn’t too bad if they also work on it during robotics meetings
+What would you say is a reasonable workload for them regarding the book?
+I mean I don't really have a say, but I'd say go ahead.
+For example, "try to do 2 chapters a week" or something
+I also think it might be a good idea to implement a timeline 
+i totally agree
+I know I just think it's a good idea to send a follow up email to make sure they stay on track.
+I just think that it would be a good idea to send them an email saying "hey this is how you can continue to work on the book while we figure stuff out further"
+I know some of them have been working at home
+Getting them on the book could just buy us some time to get stuff done
+Oh no I totally agree with that
+But I think having more stuff for them to do after the book also needs to get done
+I think that's going to have to happen, as I see it, they have no direction on anything going forward.
+Tucker- I think it might be a good idea to remind the Freshman on Design that they are able to get Autodesk installed on their computers and they should continue to be working on the book while meetings are not in session. Do you think an email should be sent out? I would be happy to do so
+The library is in the a360 under part's library -&gt; Skunk Part's library
+Hey guys so I've started working on the parts library in A360, which got me thinking, It's October 15th and because of the stuff that's been going on we haven't been able to work on any projects at all. I think we all need to have a meeting at some point soon to discuss and consolidate a path forward for the design team. Getting back on track with the mock-build season and figuring out a plan to teach the freshman is the main things that we need to get done. If we decide that it's too late to the the mock-build season, coming up with a new plan of action is going to be paramount. Looping back to the library, I've found that vex put all their gears into a nice folder, except they are all named with the part numbers, not the names of what they are, I.E "217-5893" -&gt; "82 Tooth 1/2 Inch Hex Gear". I think If people could help out with changing the names for right now that would be great. Also adding onto the library would be sweet.
+Team I will not be able to make it for the next 2 weeks.  I am transitioning projects right now and it is taking up extra time.  
+Hey <!channel>, so it looks like more regular preseason work will begin on Monday. I'm thinking the Fusion360 conversation will be pretty short, as will the prototyping conversation, but then we can get into the specifics of our design process for the mock build season. Just a heads-up so we can get back on schedule. Any thoughts?
+Hey team I will not be able to make it to any of the meetings tonight.  I'm working late tonight.
+yeah, true
+Yeah, it can. It's probably better to do it sooner rather than later. It just probably won't be absolutely necessary until the mock build season begins
+That's fair. I mean it isn't a big deal to ask Mr. McLaughlin to put inventor on your laptop tomorrow so it can be ready for next meeting
+Good point... In the future I will suggest that we get Mr. McLaughlin to install Inventor on school laptops. Otherwise, Fusion360 has a in-browser platform. We shouldn't have to deal with that yet though because the mock build season isn't supposed to start until the second week of October. 
+If the 4H meeting is being held out of school, how will some people get into preseason work without school desktops for CAD?
+We have a location at the school if anyone wants to stick it out as well :wink:
+No worries I'll be looking out for the official communication then.  That's too bad it played out like that. 
+There are a few options going around
+We are still working on that. I just did a survey among students to get an idea of how many people we need the location to be able to hold
+Where is the 4h meeting being held? I haven't gotten an email on this yet.
+Anyways, do you guys think it would be a good idea to have half an hour to an hour to get back into our preseason work?
+Ok make that clear thanks 
+Yeah, there are. I'm talking about the 4H meeting
+There is
+Is there not two separate meetings? 
+Wdym 
+Wait did I miss something? 
+Hey <!channel>, I am wondering if you all think it will be worthwhile spending time at the meeting tomorrow doing subteam work. Based on our preseason calendar we should be having conversations about the design process and strategy we will use in our mock preseason
+As an aside you all should be very proud about how you are handling this situation.  I have been very impressed with your professionalism and democracy.  Very well done.  
+Their modeling is intended for preparing an imported model for analysis.  Such as defeaturing threads and other small stress concentrations.  Or splitting surfaces to apply loads in a particular area or region. Or simplifying a model by splitting it along symmetry lines.  It does not have some of the more advanced modeling features that inventor or solid works has.  This would be used to post process inventor models so that we could run more complicated fea on them.  
+Looks like when you use Ansys it also comes with a new modeling program like inventor or solidworks called SpaceClaim
+That would probably do the trick.  
+<http://www.ansys.com/academic/free-student-products>
+Looks like I lied, Ansys does have free stuff
+We could ask for an educational discount?
+Ooo Ansys. That's expensive software though.
+Solid works uses a similar system that can probably only get us 88% aswell.  for some more advanced stuff we can look into getting Ansys or some other professional analysis software. In addition we can go over some of the more advanced mathematic solutions to common problems.  
+Works
+Solid
+Really good math
+Where should we get the other 20%?
+I'll be working on some stress analysis stuff and see what inventor can help us do. It is pretty limited it seems in inventor.  However it can probably do 80% of what we need to do.  
+Running a bit late ill be there at 630
+Yeah its gonna be huge
+Oh really?
+Nathan is joining design
+hi
+<@U1F0W3FFC>
+Hi Nathan
+<@U1F0W3FFC> has joined the group
+Accuracy depends on a lot of input parameters, proper mesh type and sizing, proper fixturing, and loading. It's a semester long course in college. 
+Stress test analysis in inventor is not very accurate, if you have Solidworks you should try it on there. I can help you with that after school if you want.
+<@U2A68KU8K> uploaded a file: <https://skunkworksteam1983.slack.com/files/U2A68KU8K/F76FFP96G/image_uploaded_from_ios.jpg|Cheese pt 2> and commented: I'll stress test later after I knock out some homework but i got it cut and rounded and it looks hot and I think should hold pretty good. We'll find out later tho
+Ohhh and do some math like how much force will be applied when it smashes into another robot going 10 ft/s
+If you stress test it I can help explain the stress concentrations. 
+Yo, that cheese is not bad. 
+You should do some stress tests on that
+Yeah it is! I love cheesing!
+<@U2A68KU8K> uploaded a file: <https://skunkworksteam1983.slack.com/files/U2A68KU8K/F76HSP885/image_uploaded_from_ios.jpg|Cheese me> and commented: Cheering is so much fun :joy::upside_down_face::face_with_rolling_eyes:
+Yeah I remember.
+Payvid and Anna have agreed too (correct me if I'm wrong)
+Ok cool
+Yeah I have that set up already
+So tommorrow is just kids, we should probably have some people come in early to set up some cad models
+Ok that makes sense
+Yeah
+The final check-in in December?
+We haven't decided which specific day to have our final check-in, just which week. If we do that on the Tuesday instead of the Thursday, we could devote Thursday to splitting up the work and having the full design team compile the parts library (i.e. you have motors, she has pneumatics, he has bearings, washers, etc.)
+So with that, should the parts library be moved to a home project (higher chance of not getting done) or should we spend a meeting doing that at some other point?
+Now more than ever, learning fusion is very important.
+Okay, as we will not be meeting until Thursday it would be good if people practice Fusion on their own, so we have some tiny amount of fusion knowledge before the new kids come on.
+Top kek 
+<@U1F0QEL0Z> uploaded a file: <https://skunkworksteam1983.slack.com/files/U1F0QEL0Z/F755H7D7Y/w2dmelkev5mz.png|w2dmelkev5mz.png>
+Everyone will approach this with an open mind
+Oh goodie
+Okay <!channel> everyone should get fusion 360 installed on their laptops by next Tuesday because new kids aren't coming until Thursday, so we should use Tuesday as a CAD practice day
+Yeah I get what you mean.
+No, if we use google calendar I wanna organize it first. I'll probably try to put it in sheets or something tho (sheets is more fun)
+That on a Google calendar yet?
+<@U1F0P4FA5> uploaded a file: <https://skunkworksteam1983.slack.com/files/U1F0P4FA5/F72SRTGQ0/image_uploaded_from_ios.jpg|Preseason Calendar>
+Is that on the drive?
+Yeah, Izzie said she did.
+Did someone take a picture of the schedule that we wrote out.
+<@U1F0QEL0Z> uploaded a file: <https://skunkworksteam1983.slack.com/files/U1F0QEL0Z/F73HN6LEQ/9_14_17_6_16_pm_office_lens__1_.jpg|9_14_17 6_16 PM Office Lens (1).jpg>
+<@U1F0QEL0Z> uploaded a file: <https://skunkworksteam1983.slack.com/files/U1F0QEL0Z/F72S8N0E4/9_14_17_6_16_pm_office_lens__2_.jpg|9_14_17 6_16 PM Office Lens (2).jpg>
+Also <!channel> think about what to tell new kids about the team and about design 
+<@U1JM7GF7E> The idea is that you guys come up with ideas. <@U1F0QEL0Z> You are going to need to define that a bit more clearly. Is the Dr. Pepper coming from a fridge? How does robot see fridge?
+A robot that gives me Dr.pepper when ever I want
+Give us ideas
+I don't think quadcopters would be the most applicable to robots, but they could help your CAD skills
+BAD WORDS
+Nvm fuck quadcopters
+Can we make quadcopters
+<!channel> We should also consider how to incorporate cooperation between mechanical, electrical, and programming into our preseason projects. Even if it's just in CAD, we can at least consult with Davin on how our designs look from an electrical standpoint.
+Okay <!channel> for the next meeting everyone should be thinking about preseason projects. Your project ideas should support following good design practices and learning cleaner CAD. Keep in mind we probably will not be able to build most projects, but it should still have some value. On Thursday we can then discuss what we want to do with our preseason and on what timeline.
+Seems probably too lucrative for our team
+I'm not sure
+So where do we win it or make it?
+It's about $1,000,000,000/gram so we might nit be able to buy it, but we can synthesize it with friendship and compassion.
+How expensive is pure happiness? We need to budget for that.
+I like it. Have you considered adding feet for added stability? Other than that you can fill out the form and get it reviewed by Franco and cut!
+Pure happiness
+What's it made of?
+<@U1F0QEL0Z> commented on <@U1F0QEL0Z>’s file <https://skunkworksteam1983.slack.com/files/U1F0QEL0Z/F72ABK7LM/0530171338_hdr.jpg|0530171338_HDR.jpg>: Please delete this
+<@U1F0QEL0Z> commented on <@U1F0QEL0Z>’s file <https://skunkworksteam1983.slack.com/files/U1F0QEL0Z/F72ABK7LM/0530171338_hdr.jpg|0530171338_HDR.jpg>: That sucks
+<@U1F0QEL0Z> uploaded a file: <https://skunkworksteam1983.slack.com/files/U1F0QEL0Z/F72ABK7LM/0530171338_hdr.jpg|0530171338_HDR.jpg> and commented: How's my part looking?
+<!channel> Hey everyone! Before the meeting today, you should all be thinking about what you want us to accomplish as a subteam this year.
+Idk what you needed, but for the robot I would have just downloaded the assembly file, which has most of the other files included
+Weird. I don't need it anymore but access is great if I can keep it. 
+Just redownload it, it's really finniky sometimes it will work, sometimes not
+The folder
+The directory?
+And in the alerts section it says "Downloading 100%..."
+Tried to download the 2017 buildseason directory, it took a while and downloaded an empty download.zip file
+ok
+got the invite, thanks.
+Cool.
+it's all web based now
+Do I need vault installed along with inventor or can I access it through a web client and download it that way?
+just be careful when useing it
+yes it does have that
+Version control software
+anyways, my dad is gonna have to approve you so hold on a bit
+vcs?
+Vcs right? Or similar?
+ok, so I'm going to share you with the A360 drive (like google drive but for autodesk) you might need to make an account. It may just send you an email with a portal to view it, I can't remember which one it does.
+<mailto:benevedeselias@gmail.com|benevedeselias@gmail.com>
+<@U1F1ETJM7>
+what is your email?
+Autodesk Synthesis is holding an information session tomorrow that Davin and I are going to. Can I get a copy of the Autodesk inventor files from 2017? We're bringing code as well. 
+Lucky for you the force calculation for that is the same your fluid is just different.  There are some other considerations (as it may be heavy to take all that hydralic fluid with you)
+Oh yeah hydraulics will lift that no problem.  The stored  energy from high pressure pneumatic systems for that would start to get a little dicey.  
+Yes, a large building, 8 m across, 12 from floor to top of ceiling
+lol <@U1F0QEL0Z> 
+Lit
+something like this?
+<@U1F0QEL0Z> uploaded a file: <https://skunkworksteam1983.slack.com/files/U1F0QEL0Z/F6GNT4M5H/mars_landscape_3d_model_fbx_obj_blend_mtl_220e7b37-3d60-430f-8a89-adcfc023cb32.png|mars_landscape_3d_model_fbx_obj_blend_mtl_220e7b37-3d60-430f-8a89-adcfc023cb32.png>
+You can certainly use hydraulics for moving large buildings.  If we are talking skyscraper size then we have to talk about some serious tank treads
+Like a large building? 
+
+I'm imagining a Martian dome colony moving over rough terrain.... am I far off? 
+I'm not sure, I've never worked with either before so I wouldn't know if the application would restrict the use of either
+Can you use hydraulics? You will be able to get much higher forces out of hydraulics and it will be much safer.
+I was looking at Martian habitats. The pneumatics-swerve had been used on the fairly large pressurized Martian rovers designed by NASA, but this would be much larger than those
+a truck?
+Okay, thanks for the help! <@U5BS3Q282> As it turns out, project I was working on was larger than a car
+Also to give you an idea you can lift some crazy high loads with pneumatics and hydraulics. I use pneumatics to actuate valves at anywhere from 2000psi to 200psi.  It all just depends on what pressure your system can operate at.  Because of the low pressures for robotics your forces are limited by the size of the piston required.  For instance at 200psig (I think this is the limit for robots...) you need a piston diameter of 2.52in to give you 1000lbf.  Unless your designing a robot the size of a car that's probably enough to do whatever you want. 
+Solid works is awesome everything you need and nothing you don't.
+
+ <@U1F0P4FA5> I saw you were working on some pneumatics for rough terrain.  <http://www.engineeringtoolbox.com/pneumatic-cylinder-force-d_1273.html>
+
+There is a link to a quick guide for calculating pneumatic forces on pistons.  I'm not sure exactly what your application is but you may consider looking into passive suspensions.  Active suspension  like what your talking about is super cool. <https://en.m.wikipedia.org/wiki/Active_suspension>
+
+However passive suspensions can get the job done if you are looking to move fast over bumps.
+
+What ever you decide like Tucker pointed out the swerving part has to happen either before the suspension so the whole suspension swerves or after the suspension so the wheels swerve on the end of the suspension.  
+
+Looks like a cool concept! Good luck!
+Okay cool
+so yeah, it seems to work fine
+I installed it in one install
+That's interesting. So we can download both, we just have to run it twice?
+like making a lego book, but for your parts, so someone can build and manufacture your stuff
+it's for making documentation and books for parts and tools
+I'm not sure, I think it's more of a "WOW LOOK AT OUR FEATURES", but it might be useful
+I'm currently using the CAD serial number, but what's composer?
+Oh awesome! (I'm a little l8 to the party, but it's exciting to hear we will be able to learn more advanced software.)
+Same
+I've been using solidworks for a while now if people have questions. 
+Ok thanks
+Your name is on the shared list.
+Am I shared with it? I thought I was
+It's in the design team folder now... solidworks codes
+Ok thank you
+I'll put the email with all of the instructions and codes in the gdrive 
+Can you send your dads email please. I don't have it
+Yo that's whats up
+Hey guys, so before the end of the season I talked to coach about getting setup with the free licences of solidworks for our team. They sent us a code for 10 licences so we can now start using solid works. Probably only be useing it for personal use, and not during build season, but it's a cool tool to have access to. If you are interested email or text my dad and he can get you that info.
+<https://youtu.be/ZJKDY4tc3-s>
+It depends on the region where the drive base has to operate... That may be a little bit of an unknown, and the area might be flat but tilted itself
+You could also look into a suspension system on just the wheels, not the whole module, if the changes you're trying to take up are relatively small. 
+Payton hit the nail on the head. 
+Just remember, it working pressure multiplied by cross sectional area. If you write it out with the units you'll see how they cancel and give you force. 
+I think that helps a bit
+Thanks Payton for the maths
+Oh that's pretty close to what I need 
+<@U1F0QEL0Z> uploaded a file: <https://skunkworksteam1983.slack.com/files/U1F0QEL0Z/F6DMG4GD8/081029-chariot-module-02.jpg|081029-chariot-module-02.jpg> and commented: Like this
+What if you just rotate around the piston
+Diameter of the cylinder squared times the psi of whatever tank your using. In our case it is 200 psi compressor. So basically if you had a 2 in diameter then you would square it so 4 then multiply by 200psi so 800 lbs of lifting for that one cylinder 
+You can't do that style of lift with a coaxial swerve module. 
+Yeah 
+Payton can help you size some cylinders though. 
+Just gotta expand the base
+So you can make the design they did with pnumatics, but you have to take a lot of care with how you are supporting and powering the swerve.
+That would be a bad day
+Minus the falling over
+Tucker with the relic. 
+Like that?
+<https://youtu.be/5MgdGtwQQIo>
+You said uneven terrain. So you make your adjustments, then lock in, then what happens next? 
+What do you mean?
+What happens once you start moving and the terrain changes? 
+No I don't
+So variable pitch
+To calc the diameter you'll need for the cylinder
+I'm not sure... I basically want to make a drive base level on really uneven terrain then have it lock in place
+Are you trying to do continuously variable adjustments, or discreet? 
+For the weight?
+Do you know the calculations 
+Idk if it's possible to lift that much weight...
+Very
+Um....
+Um ok so how heavy
+It's not a robots project
+I want to adjust the amount these wheels drop under a swerve drive base
+What are you trying to accomplish? 
+
+
+Hey, I was wondering if I could get some help with pneumatics. I haven't used them before, so I have no idea where to start
+I'm not doing a summer project, I'm too busy with my internship.
+Possibly, I haven't started on a single thing in cad yet, so I'm not sure. I am sure that if I just work on it and burn it out, it can get into assembly before school.
+Cool, do you think you will get to an assembly phase before school starts?
+Hey, I just wanted to check in with how people are doing with summer projects. I feel like we haven't talked in a while. I'm done with my background reaserch, starting to work on doing some preliminary cad work for my swerve drive. Haven't talked to programming yet, so I'll have to do that at some point. I'll post my background research later (driving right now) if anyone wants to look at it.
+Good notebook skills are highly marketable.  It is a good habit to start early.  You'll need it for your professional careers. Good engineers and scientists keep every detail recorded somewhere. So that when you need to know what mine in Africa that titanium that failed came from you have that somewhere.  It sounds silly but someday you'll know what I'm talking about. 
+Yeah engineering notebooks are great no matter what tool you guys use.  It should track every idea, decision, equations, sources for info, cad concepts, concept sketches, etc.  You never know what details will become important in a project. It is important to write it all down somewhere so that someone else can trace your steps.
+I feel it. 
+I think I'll start tracking in September then, and if people choose to continue CAD projects from the summer into robotics season then they can show what they did over the summer
+You made a good point about them being personal projects. 
+Don't let me dictate what you do dooder. I'm just giving my opinion, you get to call the shots. 
+I could make a spreadsheet in the Google drive and ask people to self-report their projects
+Yeah, I think so.
+When in actuality, a lot could be happening without a proposal ever being submitted. 
+I think that it may appear like no work is being done later on if you don't get many proposals, you know what I mean? 
+I hadn't planned on tracking those since they are somewhere in between robotics project and personal project. I suppose they would need to be tracked if that is what people are using for their fall preseason projects tho
+I guess I would ask how, or if, you plan to keep up with pure cad projects? Since they'll never be proposed for prototyping. 
+I can follow your logic there. 
+Well I was thinking that once a proposal gets turned in it is very clear that it is an official project, not just an idea, and it is easier to track because in order to get that proposal approved other people have to be notified
+grandmasterizzie: I think it just depends on when you want to start tracking. I don't think it's inherently better to start after a prototyping proposal compared to initial investigation, or vice versa. 
+Yeah, that's pretty much where we are right now. I could just ask people on slack and then compile a spreadsheet from there, but that'll probably miss a couple of people who don't check it regularly
+grandmasterizzie: I feel it yo. I guess what I was after was a one stop shop if I wanted to check in on what people were working on. Right now I feel like the only way to know is to ask everyone individually. 
+Okay cool
+Yeah, I just made an account. I'll ask you for any more info I need, I think I'll just wait until I get to that point.
+Well, if you go to <http://overleaf.com|overleaf.com> you could try to sign in. In the past I just shared the documents with people using a link, so u may have not created an account
+I remember using it, I just don't have any of the log-in information for that, or any idea of how to get to it.
+It uses latex
+<@U1F0QEL0Z> It's the documentation website we used during build season. When people are ready for documentation I can create a template
+Not too sure if that was meant for build season, or if it could be adapted to prototyping
+I'm not too familiar with Overleaf, So If you could DM me some info on that, that would be great. I just looked in the google drive and saw the "documentation guidelines" Doc
+Well, once people start prototyping they can record results and the initial steps of the project in Overleaf, like we've done in the past. These files can be exported to PDFs after project completion and accumulated somewhere, along with the engineering notebooks from the past two years. Where, I don't know yet. It could be a360 or the google drive
+Kind of, I think the initial aspect of it was to make sure people knew what they were doing without willy nilly going in and hacking things together. I'm sure we can make it so that we track them through the process. I know we have a design review checklist that is also in the google drive. We also talked about writing down stuff in an engineering journal through A360, but I'm not too sure how far along we are with that.
+So the intent is to initiate tracking once prototype proposal has been submitted?
+As far as I know, no projects have been officially proposed yet. Everyone's still doing initial paperwork
+not yet
+Is there a spreadsheet or something tracking proposed projects and their owners/status? 
+Done
+On it
+Could someone share the Google drive with me thanks.  <mailto:Fspadoni807@gmail.com|Fspadoni807@gmail.com>
+Np
+Cool. Thanks Izzie. 
+We will only have meetings as needed
+As far as I know, we aren't having any more regular meetings
+Is there a meeting tonight, or are we dunzo with official ones for the remainder of the school year? 
+Looks all right. Some kids are doing other projects too, other than working with the STEAMWORKS robot
+you should be able to see those sheets
+google drive
+yeah, if you are shared with the google
+Excellent that sounds like a good plan.  I am excited to see what the team comes up with this summer.  Thanks for the update
+we have the systems in place to start creating a schedule, we've decided that we aren't going to be building a new robot from the ground up, but instead going to looking into more designs to make the current robot better. We have a prototype check-list that every student has to fill out if they want to start creating something that they have been researching. We also talked about what we are doing for pre-season next year. Izzie can probably fill you in on any questions you have. I think I might have missed something. so someone correct or confirm what I have said. <@U1F0P4FA5> <@U5BS3Q282>
+Just got back from vacation.  Looks like you guys have been busy.  Have plans for the summer fleshed out? And are you guys still meeting Tuesdays and Thursdays? 
+They changed their name the year after because Xerox gave bonus funding to go to worlds after they won Vegas. 
+Error code xero used to be error code 1425. They made those in Vegas after alliance selection. 
+<@U1F0QEL0Z> uploaded a file: <https://skunkworksteam1983.slack.com/files/U1F0QEL0Z/F5VFMQ4N5/img_20170619_120538.jpg|IMG_20170619_120538.jpg> and commented: Oh man
+ok
+I can help you find more specific stuff too if it comes up Tucker. 
+If anyone else need help with sourcing background stuff just hit me up. 
+ez money
+nike +ipod integration
+heelys
+Some vintage memes right there. 
+too kek
+that thread
+Yeh, I got the kek
+Shoe wheel was lit. There used to be a robot in the kick off animation with shoe wheels, that post was a parody. 
+:neutral_face:
+I was a shitter. My writing was so bad lol.
+<https://www.chiefdelphi.com/forums/showthread.php?t=80252>
+I'm reading all your old posts
+kk
+<@U1F0QEL0Z> pinned a message to this channel.
+Another old one Tucker. 
+<https://www.chiefdelphi.com/forums/showthread.php?t=70320&amp;highlight=kingKrab>
+When I used to be a pleb like you kids. 
+Its young dave
+This thread is also evidence of how shit a writer I used to be. Those sentences are making me cringe lol. 
+<@U1F0QEL0Z> pinned a message to this channel.
+<https://www.chiefdelphi.com/media/photos/32518>
+This is a relic. Evan posted in here before I met him at WPI. Mind the dust. 
+No, anything works.
+Anything specific? 
+Kk, I'm still digging through chief delphi. If you got any links for good threads I'd be down with that
+Let me me know if you need help sourcing old examples fam. 
+I'm writing one up on swerve drives, still doing research and figuring things out.
+Is anyone working on prototype project requests? I'm just curious since I couldn't make the last two meetings. 
+Okay, this looks more detailed than what I found. I'll try that
+<@U1F0QEL0Z> pinned a message to this channel.
+NOTE TO ALL USERS, IF YOU HAVE AN ISSUE WITH COMPUTER STUFF THAT YOU DON'T UNDERSTAND, FIND THE LOG FILE AND COPY PAST IT INTO GOOGLE. 
+My Google Fu is strong. 
+This is the correct answer
+Maybe this? 
+<https://forums.autodesk.com/t5/installation-licensing/microsoft-visual-c-redistributables-preventing-the-installation/td-p/6904557>
+Why not?
+Why not?
+I guess the real question is why then lol
+#PavidAtItAgain
+#PavidAtItAgain
+They are prob together?
+Then say send it
+They both type it
+How do you guys type the same thing at the same time?
+You need to download more ram.
+You need to download more ram. 
+Just don't go clicking on ads or going to shady websites when you do
+Try the anti virus
+Which you should have now
+Ok, so the one you want it visual c++ 2013 x64
+I've uninstalled and reinstalled every version of visual c++
+That or try installing visual c 2013 x86 or x64 whatever your system is and then run the install again
+Maybe disable your anti virus and run the install again
+Maybe, I'm not sure
+So I think what's going on is your anti virus sees that it's trying to install the visual c++ and freaking out
+<@U1F0P4FA5> uploaded a file: <https://skunkworksteam1983.slack.com/files/U1F0P4FA5/F5VGCH5HR/image_uploaded_from_ios.jpg|Image uploaded from iOS> and commented: Here's the log
+If your computer is a 32 bit and inventor 2018 is only 64 bit then it won't work
+Or look at it your self
+Take a pic of the installation log file
+And only one version is available
+Yeah I have enough space
+Did you check that you downloaded a compatible version with your laptop?
+Have you tried turning it off an on again?
+Have you tried turning it off and on again?
+You have enough space on your hard drive?
+<@U1F0P4FA5> uploaded a file: <https://skunkworksteam1983.slack.com/files/U1F0P4FA5/F5WD20ELW/image_uploaded_from_ios.jpg|Image uploaded from iOS> and commented: Anyone know what to do here? It appears to be related to Microsoft Visual C++
+They should probably have designs in CAD, but the designs don't need to pass through a peer review and they don't need to be cheesed or integrated with anything else
+To what level do you anticipate prototypes to be "designed" prior to proposal? 
+I would say that some rough geometry should be created before prototyping so that the prototypes are realistic with whatever space the eventual design has, but a more strict master geometry would come after experimentation, before a more final design
+When would rough CAD, like geometry, fit into the timeline with regard to the prototyping proposal? 
+Thanks. 
+Just a sec
+Yeah sure
+Izzie can you invite me to the Google drive? <mailto:Dave.j.mclaughlin@gmail.com|Dave.j.mclaughlin@gmail.com>
+Anyone who's interested should also take a look at a potential peer review form, and add in suggestions
+Np
+Awesome, thank you!
+Anyone who wants to do a summer project: there are now project proposal forms in the google drive folder. One is for prototyping, and one is for final assembly. Summer meetings will not happen without this completed, as it proves that you have gone through the initial phases of the vex engineering design process
+I mean like the very first thing to show what your idea is before you build anything, and when your ready to make the proof of concept then you design it with wood. I guess that first step is optional
+Then it does have to be designed in wood
+This could probably be done by having more than one sketch for the master robot geometry
+uribe0areo: ye
+Wouldn't that first prototype just be the proof of concept?
+<@U1F0QEL0Z> what do you mean? Wouldn't it just be 30 (if u r looking at it exactly)
+<http://curriculum.vexrobotics.com/curriculum/intro-to-engineering/what-is-the-engineering-design-process>
+For people who are interested, here are the links to the NASA Systems Engineering Handbook and the Vex Engineering Design Process: <https://www.nasa.gov/sites/default/files/atoms/files/nasa_systems_engineering_handbook.pdf>
+uribe0areo: uribe0areo:  We need to look at how one specific part works along with how it works with the other robot components as well as alone. For example: the turret worked okay on its own but when put in the assembly we realized it had to be moved over because the Bento Box was in the way and it wouldn't have a full 180 degrees of motion.
+uribe0areo: This should include the paperwork that Izzie is working on along with a presentation (design review) that ensures that the designer of the part/assembly has made design decisions that are backed up by quantitative data instead of the qualitative data.
+It's also critical to think about the why in the context of the previous meta/rules. How/What is easy to glean, the why takes much more digging.
+uribe0areo: Design a full wooden prototype that includes components such as bearings and it will probably be powered by hand drills, keep in mind it will evolve into a sheet metal prototype
+Another way to explore is to research past robots, such as 2006, to see what past winners did, and think about how you can take that idea or concept and apply it to this year's game to create your own idea.
+uribe0areo: Designing your initial proof of concept doesn't have to be designed in wood, but keep in mind your first prototype has to be in wood to test the proof of concept.
+On the fly communication
+I'd ask Bella about it, but I don't know how lights would convey any more information than is already conveyed in driver's meetings
+It's something that we have to understand as part of the problem, not directly important, but something to think about when designing. Maybe light signals to alert other teams? 
+Okay. Idk if this will be a part of the problem addressed by robot updates tho
+All of those things, there was a match at worlds where us and our alliance partner were fighting over a gear on the ground. If we establish quick methods of communicating with other teams for that situation, It can easily be established for the rest. The rest being lanes, placeing of gears, and retrieval stations. We already do this before matches, but we need to look into simplifying and adapting this so that it works a majority of the time, or at least more so then it does now.
+What do you mean by which gear? Which lift? Which retrieval station?
+One main thing we need to do is communicate with the other teams in our alliance on who is going for which gear during the match.
+Okay. So first part of problem definition is we need a guaranteed ranking point. Do we need to add anything in about gears? We are pretty good when the robot doesn't break down
+One thing that we could explore is the exact amount of balls that we need to get from the hopper on top of our load to get the 40 kpa. This should also include equations for accuracy.
+And the best way to do that is in auto
+To say the obvious, we need to get a ranking point every match. 
+uribe0areo: So what are we thinking for our problem? Generally our robot does not score enough match/ranking points
+astroleonardx: Is this supposed to be the start of a thread?
+Live like Larry
+*ITERATE*
+*TEST*
+*IMPLEMENT*
+*PRESENT*
+*REFINE*
+*CHOOSE*
+*IDEATE*
+*DEFINE*
+*EXPLORE*
+*UNDERSTAND*
+Put it here
+This message was deleted.
+Okay, can everyone share what they worked on today?
+<@U5MMM4HB7> has joined the group
+<@U5NTUE2CE> has joined the group
+It's chill yo. 
+I don't want to take too much of your time
+DM me fam. 
+I'll just wait in person, I might send you an email later.
+Why, want to whiteboard something for you? 
+Ok
+I mean... Maybe? I have some shit I have to accomplish this evening. 
+I assume you are...
+Are you coming in tonight?
+I see
+You can slam shift those without much concern. 
+Yup. Dog gears. 
+So those are like the shifters on slippery?
+I'm looking it up now
+Do you know what I'm talking about? 
+For FRC you just use a dog gear. 
+I guess I haven't looked at a clutch yet
+You manually​ get the shafts close by changing RPM l, then the clutch does the rest. 
+Ok
+A synchronizing mechanism would be a clutch of sorts the brought the two shafts to similar speed before transfering power completely. Like in a manual transmission is a car. 
+Would you have both sets of gear move while they are both spinning?
+Because I've actually been thinking of that exact thing in my head. What are the synchronizing mechanisms?
+And yes Tucker. It's why you use a dog gear for FRC. More robust without a synchronizing mechanism. 
+Properly utilizing a PTO requires a lot of foresight and a truly integrated design. I'd say it is most certainly non-trivial to properly implement. 
+Don't you run into problems when shifting with that? Gear not being alighed while for is being applied
+Yeah that's cool
+<@U5HDV9682> uploaded a file: <https://skunkworksteam1983.slack.com/files/U5HDV9682/F5PMW3VJR/image010.jpg|image010.jpg>
+That's really cool, and something we should keep in mind with the chezy champs robot.
+Here's a simple one with a sliding shifter shaft and multiple gear ratios. 
+It allows you to use one power source for multiple outputs. 
+A simple PTO can work just like a two speed transmission. With the dog engaged on one side one mechanism, shift the dog gear to the other side and drive the other mechanism. 
+Kind of, I would like to know more though
+Do you know how a two speed shifter with a dog gear works? 
+I know what it is, I don't really know how it works/ how to make one
+Do you know how a PTO works?
+cool
+They use a PTO victor. 
+Repost. 
+Stale meme Tucker. 
+U wot
+Same with 254
+Just like 254. 
+1678 CAD model is out, looks like they have their shooter geared to their climber
+I wasn't sure
+Okay cool
+I believe the whole team is going to the ptsa meeting
+I'm going to go at least check it out
+I think the whole team is?
+Yes, I am.
+I am, yes.
+Hey, so I'm hearing that a lot of the mentors will probably be at the PTSA meeting tomorrow. Are you guys planning on attending that meeting?
+New lesson: don't edit assemblies as you're uploading them
+How's the drive base going? <@U2A68KU8K> <@U27TQ5U7K> 
+Cool, anyone else?
+I worked on the design for the double shooter, I completed a proof of concept, or an initial design without motors, which was basically the shooter merged with the indexer, and I need to work on integrating the second shooter, which should be easy
+Okay, updates? Today Angelina and I worked on mounting a motor to the hopper prototype and building the transition from the hopper to the indexer
+<@U5M1QEQ22> has joined the group
+<@U5M1PPYNA> has joined the group
+<@U1JM7GF7E> has joined the group
+Yeah I plan on watching all of them
+Check out the designing a robot with sketches one.
+Yah lol
+And he said he was going slow 
+Yeah the guy made a west coast in less than an hour
+The Google sheets one is pretty cool 
+I have not watched that many, but the guy who makes them is wicked smart.
+They are pretty good
+Yeah I think I've watched like 6
+973 has the most readily available content like this. The videos are pretty dope right?
+Are there any more teams that do stuff like this, I think combining different videos to make a plan for the new kids would be good.
+Snap rings are not that great IMO. They can fail pretty easily if put in poor loading conditions.
+Ok
+Very similar.
+you can check out e-clips too.
+It's interesting
+One thing I was thinking we could use snap rings is not on the ends of shafts, but in the middle for spacing
+Pretty much the only good thing about hex bearings is that you can put a hex shaft through them. :stuck_out_tongue:
+Hex bearings are not that dope.
+They also tended to make the ends of the shafts rounds, and not use hex bearing, why do you think they would do that
+but yah. I like our solution.
+groove*
+I would think our solution is a bit more robust and easier to make
+Yeah thats how they were doing it
+I think our solution is more robust, but I would have to look at theirs again.
+You turn a small grove into the shaft and then push the snap ring over. Since the ID of the ring is smaller than that of the shaft, it stays in the grove.
+Snap ring uses a grove on the shaft iirc.
+Hey dave, so I was watching those videos, and he was talking about the shafts for a west coast drive, we use a bolt that screws into the shaft instead of what they use (a snap ring) what is the benefits of either?
+They are pretty solid. 
+I will in a bit
+Not yet, we ate Mexican so I had to be one with the Mexican
+You watch the RAMP videos? 
+I'd be down, but again I have a now 7 hour car ride
+I know you would, I've been playing for like 2 months
+You wanna throw down?
+Tucker I would dump on you at SC2.
+Basically any esports game
+And heros of the storm
+And SC2
+And over watch
+And dota
+I do
+Anyone play league?
+Particularly this step by step imgur almbu. <http://imgur.com/a/Qeuu7>
+<https://www.chiefdelphi.com/forums/showthread.php?t=158443&amp;highlight=belly+pan>
+Take a look at this thread if you want more information about belly pan stuff.
+lit af fam 100 dank.
+<https://www.greybots.com/videos.html>
+Did you accept my contact request.
+If you can block by email <mailto:benevedeselias@gmail.com|benevedeselias@gmail.com>
+WHAT IS YOUR SKYPE USERNAME SO THAT I CAN BLOCK YOU
+:disappointed:
+THIS IS FOR DESIGN ONLY
+NO ELI
+any chance I can get in on the call? Just interested in learning more about what's goin on, won't contribute much
+no worries
+Skype is being lame, one sec.
+not sure...the email is <mailto:rcfan102@gmail.com|rcfan102@gmail.com>
+What is your username fam?
+yeah it's opening up rn
+Tis a vera a dank
+David you online?
+Gonna ramp
+Idk... You should be able to find me by <mailto:izzietorres@yahoo.com|izzietorres@yahoo.com>
+Izzie what is your skype name?
+Have you watched the 973 RAMP videos Tucker?
+I'm online
+I loled.
+I just want something to listen to in my 8 hour car ride
+You trying to put me on record fam? :stuck_out_tongue:
+If you guys are doing Skype you should record it
+Ok thanks
+Do you have anymore questions while I make this example?
+I'll still post the picture for you Tucker.
+kk cool.
+Lemme turn on my computer
+IDK homie, it's not a requirement. As long as you want lol.
+I can skype. For how long?
+Henry I can see you lurking here too. :stuck_out_tongue:
+Izzie do you want to get in on the call too?
+kk.
+sure give me like 2 minutes
+I can Skype or TeamSpeak if you want to talk more about these details while I CAD,
+yeah I am
+David are you at home?
+Ok
+One sec, I can CAD up an example.
+So cheese it like squares then extrapolate the triangles from them?
+The way you get to triangles is by making squares first, with sides parallel to the desired diagonals, and then connecting the square across the center, bisecting it into to isosceles triangles.
+No, I was a big proponent of triangles
+And triangles are fine Tucker.
+Sometimes having those diagonals is not feasible, due to other geometry, or a weird resulting truss pattern, but that kinda thing is what you should shoot for.
+Ok, so either don't use triangles, or make the triangles into hexagons first
+That makes sense
+Ideally, you want a straight line of members connecting the opposing corners. That way, when the frame tries to turn into a diamond (I usually call this "parallelograming") one of the lines acts in tension, and the other compression.
+Exactly.
+Yeah, and the joints not being linear would allow that to happen 
+The belly pan being designed to take up shear forces and turn them into tensile and compression loads is what helps prevent the rectangular drive base from becoming a rhombus.
+The objective of the belly pan is nuanced, but one of the chief objectives is to provide rigidity and resistance to shearing forces across the drive rails.
+Can't really draw it because I'm on the phone
+That's close. If the truss members are not co-linear a bending moment will be created at each joint if a force is applied along the axis of the first member.
+Doesn't it just make the joints where they all come together have forces from all side being tension compression. And torque being applied from a vertical perspective?
+Think about what Franco said about axial stresses on Thursday.
+Why were they only experiencing those two?
+Yup.
+yeah tension and compression
+Remember when we drew the bridge truss on the board? Each member of the truss only was experiencing one of two forces, or you remember what those forces were?
+Not 100% sure but maybe the joint is being twisted? or is that sheer force?
+Kinda? Why do you think that it is torsion? What is being twisted?
+Does it create torsion at the connection point creating weakness?
+Why is that bad?
+Bingo.
+That the struts are not co-linear and instead keep offsetting?
+Elaborate, I think you are on the right track.
+That the struts are all leading to two points instead of one?
+Nope.
+Is it the elongated shape of the shape where the struts connect? 
+Izzie?
+Tucker do you see it?
+What's the other half.
+That's half of it.
+That'
+Is it that the strusses aren't the same width?
+Yes, they induced significant stress concentrations. I'm looking for something more subtle though.
+The four cuts along the perimeter of the base...aren't those significant weak points? 
+There is some dope stuff here, but also some not so dope stuff.
+Anyone want to talk about this truss pattern that Payton used on his H-Drive?
+My b fam.
+It's a figure of speech, didn't mean to trigger.
+<@U5HDV9682> uploaded a file: <https://skunkworksteam1983.slack.com/files/U5HDV9682/F5KFVF8J0/image.png|TrussExample>
+*and girls
+Happy Memorial Day boys.
+Yeah please correct me if I'm wrong
+Or does anyone want to give some input here?
+Thanks Tucker, can anyone corroborate these are in the correct order?
+Shooting 1 climbing 2 gears 3 drive train 4
+
+You feel me?
+3.
+2.
+1.
+What about in descending numerical order?
+Gears we didnt talk about too much
+I don't have the exact ones, but I think the most we got was shooting, didnt have real numbers, maybe 5 balls per second. Drive train we said we wanted to go 12 feet/second and climbing we wanted to be able to climb in 4-5 seconds
+Ill check
+Does someone have the KPP's in order of importance?
+So Payton and I talked for a little bit about what the priorities are for this design, but it seemed a bit hazy in some aspects.
+Then last year
+Just making sure
+More so
+Will be considered
+Not even close to that
+I don't know where we are in the design process but id like to remind that there should be more space this time for the Rio and peripherals (navx), and on a more stable platform
+You have the vertical conveyor for the shooter vertical, try making it at a shallow angle towards the back of the robot.
+I think. I'm not sure exactly what you mean tho 
+Would that help make the hopper a bit bigger?
+It doesn't?
+Why does the wall behind the shooter for the balls to roll up have to be vertical?
+<@U2A68KU8K> uploaded a file: <https://skunkworksteam1983.slack.com/files/U2A68KU8K/F5JT2M1FE/image_uploaded_from_ios.jpg|Less hopper space but it works>
+Dank, Does it look better with the collector as it's own assembly?
+I got it. Third times the charm
+Not a bad exercise.
+Might have to rebuild it from ground up.
+maxhot16
+Ok
+Kk gimme like 5 mins. 
+I can Skype now if you want 
+So what's the plan boys lol
+Kk
+nvm it doesn't matter it's all good
+???
+For the new one though we did that one collaboratively so it doesn't really matter
+I mean I made it and he came along and helped me refine it so I can tell you all the reasoning
+You don't have to if you have other stuff you want to do dooder lol.
+Um sure 
+I'm going to talk to David then. I'll be home in like 10 mins if you want to talk now. 
+Ok so when do we want?
+
+It's chill fam. No biggie. 
+Un im probably leaving in an hour so idk if I'll be back by then
+Dope. David said he'd be home at like 6:15. You want to shoot for then Payton? 
+Yeah. David and I made it 
+I'll be home from work in like 30-45 mins. Does anyone want to Skype, or TeamSpeak or something and go through the geometry? It looks pretty decent, but I could use some clarification on a few things.
+David do you have a screen cap that shows dimensions? 
+Thanks fam. 
+Do you want a screen cap too though?
+It's in FRC &gt; 2017 Post Season &gt; H-Drive &gt; Master Geometry 
+Victor can you link me a screen cap of the geometry you're using for the double wheel shooter and associated hopper? I'm having some trouble finding it on A360 mobile. 
+Hot af
+<@U1F0QEL0Z> uploaded a file: <https://skunkworksteam1983.slack.com/files/U1F0QEL0Z/F5J6H36SV/img_20170526_125145.jpg|IMG_20170526_125145.jpg> and commented: Typing
+I connected with <mailto:victorcurrent@outlook.com|victorcurrent@outlook.com>
+Okay, I officially have five people connected to calbot. If anyone else has connected their email, please let me know which one
+thx
+
+grandmasterizzie: I used <mailto:tuckerdrew@hotmail.com|tuckerdrew@hotmail.com> for the email
+And tell me what email you used
+And then verify their email addresses
+Yeah, so everyone should type in: /calbot connect <mailto:email@address.com|email@address.com>
+<@U1F0P4FA5> you were talking about a slack bot integration for doing that kind of thing, could you give more info on that? Or just tell me the name and I'll figure it out.
+<mailto:Dave.j.mclaughlin@gmail.com|Dave.j.mclaughlin@gmail.com>
+Hey Dave what's your gmail?
+Hey, if everyone could figure out really quickly the exact dates that they will be unavailable this summer, that would be great
+*power curves*
+That's something we have been working on with these prototypes. I know that in my group we are using real motors and handing it over to programmers, but we haven't looked too much into what gearbox should be used
+I think that we should start to differentiate between a proof of concept and a prototype. A prototype should be representative of a mechanism that could go onto a robot with some refinement. IMHO prototypes should use the actual motor and a representative gearbox for the application. Spinning things with a drill is proof of concept level. The more refined the prototype, the better the data it will yield. 
+I think the idea with the geometry was that while it is necessary to do some basic sketches for prototyping to make the prototypes accurate, the actual master geometry would come at the beginning of the design phase
+BTW... 254, 118, 33 and many other teams make their younger members go through this same vex curriculum... just like we started to do last year.
+Chiming in here... don't forget that a primary goal with this project is to establish an engineering design process that can be used during build season and beyond. I see Dave's inquiries as trying to see what steps you are taking in this process... the process that was taught to the Freshman and current Sophmores is a great starting point. They have to prove they fully understand it with a presentation just to make it on the FRC team. Current Juniors should learn it too. If everyone is following the same process, communication goes so much better. With a few modifications, it can be used effectively for this project. Like it was said in class... We can make iterations to our process from project to project to make it better. Add in some sound engineering practices and you guys should be able to make some killer robots every time. <http://curriculum.vexrobotics.com> look at section 1.3. Don't let the cool factor of what you are doing get in the way of good engineering design processes and practices.
+Okok, that sounds more like what I hoped you be after. 
+and eliminated a design that was too large
+We sketched out the sizes of other pieces to make sure it would fit
+I think our prototypes are focused with adjustability in mind
+Oh, I understand. Our geometry has been constrained to fit in the robot volume, leaving room for other components
+I understand having the two separate groups, I can follow the thinking there. What I'm concerned about is that prototyping may lose value if the prototypes are not built with realistic constraints. 
+Since we are including a drive base and gear collector 
+I believe our team may need more master geometry than we have at the moment, I'll talk to my team about that 
+The two prototyping groups' geometries don't match up because they are for significantly different robots. We will be making a final geometry once we have decided which mechanisms we are using
+That's good, I think that shows improving communication. What about in CAD though? No working geometry is a little concerning, that is how problems started last year. 
+Well, we have the design team in two separate groups, but we have been updating each other constantly and providing feedback
+Independent from one another. In a void. 
+What do you mean by in a vacuum?
+Are your prototypes being developed in vacuum? I guess what I'm after is what steps you're taking to mitigate the integration problems that cropped up last season. 
+too
+yeah that to
+My team is working on talking with programming and electrical closely so that they are integrated in the design so they can have what they want, and also we're talking very close to each other so we know what the others are doing.
+We have discussed Kirby's idea for a new way of doing the master geometry, but we haven't come up with a definite plan
+I think that that is a good goal, did you discuss how you're going to achieve it? 
+We discussed how we didn't do system integration that well last year, so we want to try to do it better for this bot
+Not much. To the extent that we know we want systems to be better integrated
+When you guys had the discussion about last year's robot, did you discuss system integration?
+And also yeah we're going to probably build the drivetrain that Payton made and test it to see if it is useful for this year's game
+Payvid is David and Payton btw
+In the original meeting we wanted to keep most of the drive base the same, but I understand Payvid has made another drive base design
+What about the drivetrain? 
+The climber is probably going to be the most similar component between the original bot and the superbot. The shooter will be similar if we go with a turret, but it will be iterated on. If we go with a double shooter, it will be entirely new
+We had a discussion about what happened with this year's robot, and some designs are being iterated on for the new robots
+Is there a post mortem being done on the robot design from this year? Is that design being iterated on at all? 
+At the moment, we are prototyping two different robots, which is why design team is halved. One team is designing around making a double fixed shooter, one around a turret.
+Sorry for being a bit behind, I got home a few weeks ago and have been getting started at work. Could some one bring me up to speed on what's going on? 
+We talked about it in a group
+For ours, based off size of fuel and robot volume
+How is the geometry for the prototypes being determined? 
+There's a general 3D model master geometry for ours but it's not super accurate at the moment, it needs to be updated if we want to use it
+There are sketches in random places, but it's all for prototyping purposes, with nothing final
+Right now we are in the prototyping phase
+Is there new master geometry for the "super robot" ? I've not been on A360 in a while. 
+Ah@
+We can use it now. Last night inventor wouldn't open on desktop computers
+Opening?
+Breaking news: autodesk inventor opening in fifth period CAD class. Robotics students should be able to use it tomorrow at robotics meeting.
+Cool!
+Haha I expect some sharing to happen.  I hope to cover all the basics of these subjects  as well as CAD and FEA before the season starts next year over the summer and during the pre season.  
+And also thanks Franko!
+Awesome! Thank you very much
+Dibs
+<@U5BS3Q282> uploaded a file: <https://skunkworksteam1983.slack.com/files/U5BS3Q282/F5HENR9PC/20170523_204901.jpg|20170523_204901.jpg> and commented: Hey guys I left some books in Steele' s room if you're curious.  
+
+Machineries handbook is good for a general explanation of a topic.  It has standard geometry and accepted mechanism equations.
+
+Mechanical engineering design is good for a more in-depth study of mechanisms
+
+Dynamics is good for making dynamic models of forces and positions in rigid body systems.
+
+Mechanics of materials is an introduction to stress analysis using hand calculations
+
+Statics Is an introduction to static structural loads determining reaction loads and loads in trusses
+
+Materials Science is and introduction to materials science you guys probably only care about the chapters on mechanical properties but there is some other interesting stuff there too.
+<@U5HDV9682> has joined the group
+This is specifically why he puts individual licenses on laptops, but it should be up by sometime today apparently
+You can get a free student license for a personal laptop online 
+Can he get the licenses on laptops? It's late in the year, but laptops still work for inventor, and anyone with a personal computer should be able to get an educational license
+Cool thanks, I'm talking to McLaughlin rn about the desktop computers. It may not be something he can fix because the server is district wide
+Let me know if you think there should be a change
+Here's a link to the documentation outline for prototyping (as requested)!
+<https://docs.google.com/document/d/1xafAsY5wWT9Ku762NQkulOqanvwRlnoJCFtExcmLQV0/edit?usp=sharing>
+The original deadline, the drivebase will be done and tested, the gear collector will be assembled and at least started testing, and shooter will probably be close to be done, but I'm being really conservative about my estimates and being the devil's advocate
+What about by the original deadline? I'm still not entirely sure when robotics ends
+Oh yeah, I don't think it's impossible, but if we do have the materials then by that time we'll probably be in the testing phase 
+I thought we didn't have enough materials for the drive base
+The drive base might be ready for testing, gear collector is probably going to get to assembly by then, and I don't know about the shooter, probably in the final designing phase to assure reliability. David can talk about the extendable hopper and ball collector.
+What about assembly and testing? Prototype-level
+Preliminary design work will most likely be done by then. If the desktop computers aren't going to work for more than today then that might mess stuff up
+So I'm not sure, but I've been hearing that the last meeting is either Thursday or next Thursday, meaning we can't do the PDR on June 8. Do people think they could have data and documentation before June 1? At least preliminary stuff
+Tucker is no longer in our group, and Dave and Franko looked at Payton's drive base, and that's all I can say with certainty, but Payton and David did some more work on their jobs.
+Redesign and integration of the drive base sides making everything compact. Soon working to get the hopper to be part of that  
+Henry continued design work on the roller floor with the thought of integrating with the drive base, he also worked a bit on the gear collector, and he's thinking about electronics to go underneath the roller floor
+Well, what do u know about what they got done?
+For our half, I worked on designing a prototype gear collector that collects from the top and also the floor. I also started initial design work on the shooter. I can talk for Payton, David, and Henry if they want
+Okay, so what got done today? I know that for the prototurret we attached the snowflake to an axle in the middle of our hopper base, raised the hopper base to leave space for a motor, designed a motor mount, and proceeded on cading out how motor mounts would work on an actual design.
+Nvm, got it
+Anyone not doing anything?
+With the hopper structure, we have the circular base cut out and the top of the the rectangular section. We have the snowflake which would go in the circular base, and plan on attaching motors on Tuesday. 
+<@U1F0GLE9M>  Yeah I've had to redo a lot of stuff because I haven't so that's always a first when I can. 
+<@U2A68KU8K>  Make sure you constrain things to the origin or origin planes whenever you can
+Yeah I agree, we'll work on it, maybe tomorrow I can create some Google docs for us to document what progress each person did that day 
+Angelina and issac are mainly working on that 
+<@U1F0GLE9M> I know the feeling after making the Hdrive. Deleted one piece and didn't have a robot 
+Work in progress
+<@U1F0KHF71> Where did we get with the hopper structure?
+Well you need a lot of time for data collection in a lot of different areas.
+Yup, I mean we have Henry the Data Dude who will help with documentation and incorporating the data
+Exactly that
+We have one prototype cut out and ready to be put together and tested by Tuesday (if all goes well)
+Also keep in mind that since you guys are taking on more prototypes, you will need to do a lot more testing, and handle a lot more documentation
+Ye tru
+Same tho
+Ah
+Yeah I meant after cad if necessary for assembly 
+I don't need extra meetings, I need more time out of school with my Computer
+If necessary we could try to meet extra days to meet the deadline. Coming in for extra time should probably start to be normal for design/build anyway
+How long do you guys estimate for assembly? We have 5 meetings left, at least one of which should be for docs and at least one for data collection
+Noice af
+Also climber
+Hood will be done, feeding needs to be integrated
+<@U1F0GLE9M> uploaded a file: <https://skunkworksteam1983.slack.com/files/U1F0GLE9M/F5FDLS7DY/image_uploaded_from_ios.jpg|FloorCollector.stonetablet>
+Cool, including the motorized hood and feeding mechanism?
+I plan to start integrating the shooter next week (includes getting it down by then)
+<@U2A68KU8K> uploaded a file: <https://skunkworksteam1983.slack.com/files/U2A68KU8K/F5G8E6MQX/image_uploaded_from_ios.jpg|When you make everything adaptive off of one piece>
+Also Henry started some initial CAD for the floor roller, he found some materials he wanted to get for it
+:letterm2: :lettere2: :lettere: :letterm: :lettere2: :letterd: 
+:checkem: 
+Yeah that'd be good Payton, and I also started some work on a gear collector from the floor and from the station but the geometry didn't work so I'll have to rethink it
+Yeah. I know I don't have all holes put in and the pneumatics shown aren't the correct ones. If anyone wants to mark up and make notes of what I have now it would be helpful to get a fresh set of eyes on it. 
+okay so a preliminary design review on Tuesday for the H-drive?
+The drive base will hopefully be done by then so I'll run it through you guys for nit picking then bowlin 
+Working on extending hopper and ball collector. I'll work on it this weekend and try to finish it up by Tuesday
+Also, what do you guys plan to do next time <!channel> 
+Started fixed shooter 
+Drop colson H-drive on A360. Almost done just needs pneumatics and talon placement 
+Hey, so can we get another update? At least one representative from each prototyping group please
+<@U5BS3Q282> I invited you to A360 with the email you sent me. 
+What is your email?
+Awesome work guys! Im sorry I didnt stop by I got stuck in a parent meeting but it sounds like you guys didn't miss me. Could I get invited to the A360 project to see what you guys have been working on?
+Its hard to explain without pictures but I can upload it later if need be
+Between Harrison and I, we got done several iterations of the shape of the spiny pieces. We have 4 different designs that hold 6, 7, 8, and 9 balls as well as one design that has the cone incorporated in it with plans of making each out of different materials. I think that's something like 5-6 different designs? I also made one that has a different shape at the end.
+Hey, can we all do quick status updates? Today the turret group did a basic master geometry, caded the center spinny pieces for the bottom of the hopper, caded some potential center cone shapes, and began constructing the basic hopper structure.
+<!channel> 
+Quick reminder...remember to bring your white game shirts along with your reflection tomorrow night
+<!channel> Everyone working on prototypes, PLEASE make a folder in A360 with everything that you have already for your group, you can do that in the "2017 post season projects" folder. I'm fairly sure that A360 can take any file format, which is really helpful when you have projects like this. Thanks.
+Bruh
+Yeah
+Chezy Champs get blue banners?
+<@U1F408NA0> uploaded a file: <https://skunkworksteam1983.slack.com/files/U1F408NA0/F5D5074UD/screenshot_2017-05-12-18-32-51.png|Screenshot_2017-05-12-18-32-51.png>
+PS Take pictures
+Exactamente
+good idea which will also ensure that we document our process as we are prototyping
+If we are presenting we should also have at least started documentation so that we have already put our prototype explanations into words before trying to explain to everyone else.
+Si senior
+well we want to get clear quantitative data to make an informed decision so have our prototype needs to be completely built and the results recorded
+Yeah I know, I want to talk to them about what we want to get done by then, who's going to do what, and where we want to be when we finish 
+That's like 7 meetings
+Hmm I'll have to discuss that with my group
+and we want to finish prototypes before the summer
+Yeah, because we only have two school-year meetings after that
+Oh you mean after the prototypes are finished and tested?
+Probably also a group discussion about the results of each prototype, since some prototypes won't progress to the full design phase
+yeah that works Victor
+Sounds good. let's set that as a tentative date and work towards that. and maybe a quick powerpoint presentation with results??
+Probably a full presentation and explanation on literally everything we plan to do and why we plan to do that.
+What does a full pdr entail?
+Hey, what do people think about doing a PDR (Preliminary Design Review) for the prototypes on June 8?
+<@U27TQ5U7K> uploaded a file: <https://skunkworksteam1983.slack.com/files/U27TQ5U7K/F5BUDQCAV/image_uploaded_from_ios.jpg|Double-Fixed Shooter Brainstorm>
+<@U1F408NA0> uploaded a file: <https://skunkworksteam1983.slack.com/files/U1F408NA0/F5CFP1A66/20170511_203659.jpg|20170511_203659.jpg>
+<@U1F408NA0> uploaded a file: <https://skunkworksteam1983.slack.com/files/U1F408NA0/F5CDJ16RZ/20170511_203702.jpg|20170511_203702.jpg>
+Si senior
+Eso sería bueno
+<@U1F408NA0> uploaded a file: <https://skunkworksteam1983.slack.com/files/U1F408NA0/F5DAC2R71/20170511_203705.jpg|20170511_203705.jpg>
+i have the brainstorm from the double fixed shooter if you want it
+<@U1F408NA0> uploaded a file: <https://skunkworksteam1983.slack.com/files/U1F408NA0/F5BUDJ925/20170511_203706.jpg|20170511_203706.jpg>
+¡Gracias!
+Si
+Hey Victor, wanna post the pic of the turret brainstorm here?
+*click*
+*beep*
+Please leave a message at the beep
+The slack you have reached is unavailable
+Im sorry
+Hello
+<@U5BS3Q282> has joined the group
+<@U1F1ETJM7> has joined the group
+Design team meeting in conference room
+<https://clips.twitch.tv/RelatedCuriousMacaroniHumbleLife>
+3 ranking points my dude 
+Jesus Christ, Cheesy Poofs didnt go for gears at all <https://youtu.be/aPm-q_wOyTs>
+Keep working on floor pickup bb
+Not really 
+Is there anything that needs to be done tonight?
+I think we might be able to get away with leaving the turret in the hopper 
+Okay. I think its worked well have a bunch of people cutter the parts, just needs to be a bit more organized 
+There's the spinner again
+Ideally we'd be able to work in complete parallel i.e. team A works on the assembly of the comp bot and team B works on hopper v2 via the practice bot
+<https://www.youtube.com/shared?ci=m1JF9nm7BSg>
+Hey didya guys see this
+Yeah
+I was also planning on also including Kirby's piece since it was nearly ready to go today. 
+Don't think so at this time
+I'm gonna spend maybe two-three before going to robots in order to make some of those changes to the curve, the supports, and the ramp. Is there anything else major that should be edited?
+I feel quite strongly that the assembly not being properly really hindered the hopper's performance
+Don't know if there's gonna be enough time to do all the assembly, code deployment, and that though
+I won't be able to make it during the day tomorrow but I really think we should TRY to make hopper v2 and see if the iterative improvements made any difference
+Oh actually the preview is not done generating so just wait 
+Yeah :sleepy:
+Gotta pack and go Benton 
+Yeah, but its blank and wont show the model
+Can you open it at all? 
+It looks like it didnt upload correctly to A360
+Haha well done waking up early to do this
+It's when I woke up you should worry about 
+Oh I went to bed at 11
+How long did you stay up?
+Benton*
+Lit fam
+Holy shit that looks great!!! Good job team and Ben 
+<@U1F0GLE9M> uploaded a file: <https://skunkworksteam1983.slack.com/files/U1F0GLE9M/F3ZUCM77B/image_uploaded_from_ios.jpg|Image uploaded from iOS>
+Here's our robot without the hopper. We've got a ways to go, but good job everyone this looks fantastic!
+Hahahaha! 
+<@U3P9XBMJA> uploaded a file: <https://skunkworksteam1983.slack.com/files/U3P9XBMJA/F3UNEDE8J/_.jpg|"\Help_Me_Ken\Help_Me_Ken\"> and commented: I was looking at the vault backup and found this
+Much dank, many noice
+Stinkwerkz :newtonskunk: 
+#dankworks
+<@U1F0GLE9M> uploaded a file: <https://skunkworksteam1983.slack.com/files/U1F0GLE9M/F3UQEP49J/image_uploaded_from_ios.jpg|Image uploaded from iOS>
+<@U1F0GLE9M> uploaded a file: <https://skunkworksteam1983.slack.com/files/U1F0GLE9M/F3VD1KUQ7/pasted_image_at_2017_01_21_15_29.png|Pasted image at 2017-01-21, 15:29>
+Dank
+<@U27TQ5U7K> uploaded a file: <https://skunkworksteam1983.slack.com/files/U27TQ5U7K/F3SA81CH0/master_sketch.jpg|master sketch>
+<@U1F0QEL0Z> has joined the group
+<@U3EHQTKBP> has joined the group
+<@U1F0GLE9M> uploaded a file: <https://skunkworksteam1983.slack.com/files/U1F0GLE9M/F3RJK7P5Z/image_uploaded_from_ios.jpg|Image uploaded from iOS>
+Teams
+254's 2014 build season by day
+<https://www.team254.com/category/frc/2014/>
+Team 610 design guides, pretty good
+<http://team610.com/wp-content/resources/Design%20TutorialsRev7.pdf>
+<@U1F0GLE9M> uploaded a file: <https://skunkworksteam1983.slack.com/files/U1F0GLE9M/F3PEHEGQN/image_uploaded_from_ios.jpg|Image uploaded from iOS>
+Kenny is a hero and put all of the important dimensions into one picture if you would like to think about design ideas
+<https://youtu.be/GCjBx3TXB6Y>
+Great series of videos for CADing west coast drive from 973
+<@U3P9XBMJA> has joined the group
+Can everyone fill this out for Mr. Bowlin
+<https://goo.gl/forms/DmpYbKIkZeKEZOts1>
+<@U1F408NA0> uploaded a file: <https://skunkworksteam1983.slack.com/files/U1F408NA0/F3DUV9AJK/screenshot_2016-12-10-20-55-37.png|Noice>

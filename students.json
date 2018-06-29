@@ -1,6 +1,1681 @@
 [
 {
   "type": "message",
+  "user": "U7PBR1J4B",
+  "text": "Was Nigel counting?",
+  "edited": {
+    "user": "U7PBR1J4B",
+    "ts": "1512157555.000000"
+  },
+  "ts": "1512157543.000587",
+  "timestamp": 1512157543000,
+  "isoDate": "2017-12-01T19:45:43.000Z"
+},{
+  "type": "message",
+  "user": "U7PDTAFNE",
+  "text": "`Lmaooooo",
+  "ts": "1512153559.000277",
+  "timestamp": 1512153559000,
+  "isoDate": "2017-12-01T18:39:19.000Z"
+},{
+  "type": "message",
+  "user": "U7QAUH4ES",
+  "text": "Whoops.....",
+  "ts": "1512153552.000514",
+  "timestamp": 1512153552000,
+  "isoDate": "2017-12-01T18:39:12.000Z"
+},{
+  "type": "message",
+  "user": "U1F1NQKAN",
+  "text": "<@U1F0P4FA5> and I came up with it :+1::skin-tone-3:",
+  "ts": "1512107671.000095",
+  "reactions": [
+    {
+      "name": "parrotparty",
+      "users": [
+        "U2A68KU8K",
+        "U1F408NA0",
+        "U1F0BJN5U",
+        "U1F1ETJM7",
+        "U1F0P4FA5",
+        "U5M1Q2ZJT",
+        "U1F09HT4N",
+        "U7NQFDYBS",
+        "U7PF8BHTN",
+        "U1F0QEL0Z",
+        "U7PE9838S",
+        "U7PDTAFNE",
+        "U5NTUE2CE",
+        "U1F0M8ZTP"
+      ],
+      "count": 14
+    },
+    {
+      "name": "partyparrot",
+      "users": [
+        "U2A68KU8K",
+        "U1F408NA0",
+        "U1F0BJN5U",
+        "U1F1ETJM7",
+        "U1F1395TK",
+        "U1F0P4FA5",
+        "U5M1Q2ZJT",
+        "U1F09HT4N",
+        "U7NQFDYBS",
+        "U1F0QEL0Z",
+        "U7PE9838S",
+        "U7PDTAFNE",
+        "U5NTUE2CE",
+        "U1F0M8ZTP"
+      ],
+      "count": 14
+    },
+    {
+      "name": "ok_hand",
+      "users": [
+        "U7PF8BHTN",
+        "U1F0QEL0Z",
+        "U1F0P4FA5",
+        "U7PE9838S",
+        "U5NTUE2CE"
+      ],
+      "count": 5
+    }
+  ],
+  "timestamp": 1512107671000,
+  "isoDate": "2017-12-01T05:54:31.000Z"
+},{
+  "type": "message",
+  "user": "U1F1ETJM7",
+  "text": "what a spicy name",
+  "ts": "1512107634.000065",
+  "timestamp": 1512107634000,
+  "isoDate": "2017-12-01T05:53:54.000Z"
+},{
+  "type": "message",
+  "user": "U7PF8BHTN",
+  "text": "Right. Ok thanks",
+  "ts": "1512107583.000166",
+  "timestamp": 1512107583000,
+  "isoDate": "2017-12-01T05:53:03.000Z"
+},{
+  "type": "message",
+  "user": "U7PBR1J4B",
+  "text": "Newkidzontheblock <@U7PF8BHTN>",
+  "edited": {
+    "user": "U7PBR1J4B",
+    "ts": "1512107567.000000"
+  },
+  "ts": "1512107555.000005",
+  "timestamp": 1512107555000,
+  "isoDate": "2017-12-01T05:52:35.000Z"
+},{
+  "type": "message",
+  "user": "U7PF8BHTN",
+  "text": "Is there a underclassmen channel? Just wondering",
+  "ts": "1512107538.000087",
+  "timestamp": 1512107538000,
+  "isoDate": "2017-12-01T05:52:18.000Z"
+},{
+  "type": "message",
+  "user": "U1F1ETJM7",
+  "text": "did you get it back?",
+  "ts": "1512107310.000073",
+  "timestamp": 1512107310000,
+  "isoDate": "2017-12-01T05:48:30.000Z"
+},{
+  "type": "message",
+  "user": "U2AB9BZDG",
+  "text": "I have good reason to believe that it was Nigel Barnett ",
+  "ts": "1512101227.000010",
+  "timestamp": 1512101227000,
+  "isoDate": "2017-12-01T04:07:07.000Z"
+},{
+  "type": "message",
+  "user": "U2AB9BZDG",
+  "text": "Someone took my laptop. Please return it immediately",
+  "ts": "1512101140.000182",
+  "timestamp": 1512101140000,
+  "isoDate": "2017-12-01T04:05:40.000Z"
+},{
+  "type": "message",
+  "user": "U2A68KU8K",
+  "text": "it was to get everybodys input so far only 2 freshman and 1 sophmore has responded",
+  "ts": "1512079529.000284",
+  "timestamp": 1512079529000,
+  "isoDate": "2017-11-30T22:05:29.000Z"
+},{
+  "type": "message",
+  "user": "U1F408NA0",
+  "text": "Well it was kind of linking the survey in this channel with the wombold meeting",
+  "ts": "1512079434.000415",
+  "timestamp": 1512079434000,
+  "isoDate": "2017-11-30T22:03:54.000Z"
+},{
+  "type": "message",
+  "user": "U2A68KU8K",
+  "text": "omg do this in upperclassmen not student",
+  "edited": {
+    "user": "U2A68KU8K",
+    "ts": "1512079349.000000"
+  },
+  "ts": "1512079339.000249",
+  "timestamp": 1512079339000,
+  "isoDate": "2017-11-30T22:02:19.000Z"
+},{
+  "type": "message",
+  "user": "U1F1ETJM7",
+  "text": "If she isn't, then we have other things to talka bout",
+  "ts": "1512079319.000684",
+  "timestamp": 1512079319000,
+  "isoDate": "2017-11-30T22:01:59.000Z"
+},{
+  "type": "message",
+  "user": "U1F1ETJM7",
+  "text": "Wombold is defining the wombold meeting",
+  "ts": "1512079314.000146",
+  "timestamp": 1512079314000,
+  "isoDate": "2017-11-30T22:01:54.000Z"
+},{
+  "type": "message",
+  "user": "U1F408NA0",
+  "text": "She's not saying to ignore the problem, either define the wombold meeting as being a place to talk about whatever you want or set specific points about what to talk about. That was my point with the meme about I don't know what the meeting is about, Bella explained that its about whatever whoever has a problem with, and that's cool, it would just be nice if someone said that here. Which I guess I just did.",
+  "ts": "1512079287.000402",
+  "timestamp": 1512079287000,
+  "isoDate": "2017-11-30T22:01:27.000Z"
+},{
+  "type": "message",
+  "user": "U1F0M8ZTP",
+  "text": "Ignoring problems won’t solve them, but if it isn’t a major issue then we won’t need to talk about it",
+  "edited": {
+    "user": "U1F0M8ZTP",
+    "ts": "1512079247.000000"
+  },
+  "ts": "1512079191.000384",
+  "timestamp": 1512079191000,
+  "isoDate": "2017-11-30T21:59:51.000Z"
+},{
+  "type": "message",
+  "user": "U1F0M8ZTP",
+  "text": "<@U1F0P4FA5> because some *students* might have problems with mentors or leads, and if we get enough data saying that this is true, i don’t see why we would ignore it.",
+  "ts": "1512079159.000612",
+  "timestamp": 1512079159000,
+  "isoDate": "2017-11-30T21:59:19.000Z"
+},{
+  "type": "message",
+  "user": "U1F1ETJM7",
+  "text": "if its relevant, we use it",
+  "ts": "1512078972.000038",
+  "timestamp": 1512078972000,
+  "isoDate": "2017-11-30T21:56:12.000Z"
+},{
+  "type": "message",
+  "user": "U27TQ5U7K",
+  "text": "Because, as it current stands, some student relations are being affected by mentor interactions",
+  "ts": "1512078971.000325",
+  "timestamp": 1512078971000,
+  "isoDate": "2017-11-30T21:56:11.000Z"
+},{
+  "type": "message",
+  "user": "U1F1ETJM7",
+  "text": "if its not relevant, its not relevant, and we dont' use it",
+  "ts": "1512078968.000731",
+  "timestamp": 1512078968000,
+  "isoDate": "2017-11-30T21:56:08.000Z"
+},{
+  "type": "message",
+  "user": "U1F1ETJM7",
+  "text": "does it matter?",
+  "ts": "1512078961.000338",
+  "timestamp": 1512078961000,
+  "isoDate": "2017-11-30T21:56:01.000Z"
+},{
+  "type": "message",
+  "user": "U1F1ETJM7",
+  "text": "izzie",
+  "ts": "1512078959.000375",
+  "timestamp": 1512078959000,
+  "isoDate": "2017-11-30T21:55:59.000Z"
+},{
+  "type": "message",
+  "user": "U1F1ETJM7",
+  "text": "in case it comes up",
+  "ts": "1512078958.000531",
+  "timestamp": 1512078958000,
+  "isoDate": "2017-11-30T21:55:58.000Z"
+},{
+  "type": "message",
+  "user": "U1F0P4FA5",
+  "text": "But if the Wombold meeting is about student relations, why are mentors and lead performance relevant? <@U1F0M8ZTP> ",
+  "ts": "1512078803.000030",
+  "timestamp": 1512078803000,
+  "isoDate": "2017-11-30T21:53:23.000Z"
+},{
+  "user": "U1JM7GF7E",
+  "inviter": "U1F408NA0",
+  "text": "<@U1JM7GF7E> has joined the group",
+  "type": "message",
+  "subtype": "group_join",
+  "ts": "1512076472.000214",
+  "timestamp": 1512076472000,
+  "isoDate": "2017-11-30T21:14:32.000Z"
+},{
+  "type": "message",
+  "subtype": "file_share",
+  "text": "<@U1F408NA0> uploaded a file: <https://skunkworksteam1983.slack.com/files/U1F408NA0/F87ES4K7T/20a2s2.jpg|20a2s2.jpg>",
+  "file": {
+    "id": "F87ES4K7T",
+    "created": 1512075314,
+    "timestamp": 1512075314,
+    "name": "20a2s2.jpg",
+    "title": "20a2s2.jpg",
+    "mimetype": "image/jpeg",
+    "filetype": "jpg",
+    "pretty_type": "JPEG",
+    "user": "U1F408NA0",
+    "editable": false,
+    "size": 29063,
+    "mode": "hosted",
+    "is_external": false,
+    "external_type": "",
+    "is_public": false,
+    "public_url_shared": false,
+    "display_as_bot": false,
+    "username": "",
+    "url_private": "https://files.slack.com/files-pri/T1F0J3JF3-F87ES4K7T/20a2s2.jpg",
+    "url_private_download": "https://files.slack.com/files-pri/T1F0J3JF3-F87ES4K7T/download/20a2s2.jpg",
+    "thumb_64": "https://files.slack.com/files-tmb/T1F0J3JF3-F87ES4K7T-3a11956468/20a2s2_64.jpg",
+    "thumb_80": "https://files.slack.com/files-tmb/T1F0J3JF3-F87ES4K7T-3a11956468/20a2s2_80.jpg",
+    "thumb_360": "https://files.slack.com/files-tmb/T1F0J3JF3-F87ES4K7T-3a11956468/20a2s2_360.jpg",
+    "thumb_360_w": 321,
+    "thumb_360_h": 283,
+    "thumb_160": "https://files.slack.com/files-tmb/T1F0J3JF3-F87ES4K7T-3a11956468/20a2s2_160.jpg",
+    "image_exif_rotation": 1,
+    "original_w": 321,
+    "original_h": 283,
+    "permalink": "https://skunkworksteam1983.slack.com/files/U1F408NA0/F87ES4K7T/20a2s2.jpg",
+    "permalink_public": "https://slack-files.com/T1F0J3JF3-F87ES4K7T-6de86b4911",
+    "channels": [],
+    "groups": [
+      "G76M3SUDC"
+    ],
+    "ims": [],
+    "comments_count": 0
+  },
+  "user": "U1F408NA0",
+  "upload": true,
+  "display_as_bot": false,
+  "username": "thejudgefudge",
+  "bot_id": null,
+  "ts": "1512075315.000267",
+  "timestamp": 1512075315000,
+  "isoDate": "2017-11-30T20:55:15.000Z"
+},{
+  "type": "message",
+  "user": "U1F0M8ZTP",
+  "text": "<@U1F0P4FA5> it’s not all about the mentors, it’s about all parts of the team. Mentors, students, subteam relations, etc. This survey will give us an idea of what people think are issues or unsatisfactory on the team anonymously, so we can bring it up at the wombold meeting and no single person has to be uncomfortable bringing it up",
+  "ts": "1512074316.000263",
+  "timestamp": 1512074316000,
+  "isoDate": "2017-11-30T20:38:36.000Z"
+},{
+  "type": "message",
+  "subtype": "file_share",
+  "text": "<@U1F0QEL0Z> uploaded a file: <https://skunkworksteam1983.slack.com/files/U1F0QEL0Z/F88RG8MJS/1511871226795.jpg|1511871226795.jpg> and commented: Another survey",
+  "file": {
+    "id": "F88RG8MJS",
+    "created": 1512072635,
+    "timestamp": 1512072635,
+    "name": "1511871226795.jpg",
+    "title": "1511871226795.jpg",
+    "mimetype": "image/jpeg",
+    "filetype": "jpg",
+    "pretty_type": "JPEG",
+    "user": "U1F0QEL0Z",
+    "editable": false,
+    "size": 70994,
+    "mode": "hosted",
+    "is_external": false,
+    "external_type": "",
+    "is_public": false,
+    "public_url_shared": false,
+    "display_as_bot": false,
+    "username": "",
+    "url_private": "https://files.slack.com/files-pri/T1F0J3JF3-F88RG8MJS/1511871226795.jpg",
+    "url_private_download": "https://files.slack.com/files-pri/T1F0J3JF3-F88RG8MJS/download/1511871226795.jpg",
+    "thumb_64": "https://files.slack.com/files-tmb/T1F0J3JF3-F88RG8MJS-41baea5e7c/1511871226795_64.jpg",
+    "thumb_80": "https://files.slack.com/files-tmb/T1F0J3JF3-F88RG8MJS-41baea5e7c/1511871226795_80.jpg",
+    "thumb_360": "https://files.slack.com/files-tmb/T1F0J3JF3-F88RG8MJS-41baea5e7c/1511871226795_360.jpg",
+    "thumb_360_w": 360,
+    "thumb_360_h": 330,
+    "thumb_480": "https://files.slack.com/files-tmb/T1F0J3JF3-F88RG8MJS-41baea5e7c/1511871226795_480.jpg",
+    "thumb_480_w": 480,
+    "thumb_480_h": 440,
+    "thumb_160": "https://files.slack.com/files-tmb/T1F0J3JF3-F88RG8MJS-41baea5e7c/1511871226795_160.jpg",
+    "image_exif_rotation": 1,
+    "original_w": 498,
+    "original_h": 456,
+    "permalink": "https://skunkworksteam1983.slack.com/files/U1F0QEL0Z/F88RG8MJS/1511871226795.jpg",
+    "permalink_public": "https://slack-files.com/T1F0J3JF3-F88RG8MJS-8a000033b2",
+    "channels": [],
+    "groups": [
+      "G76M3SUDC"
+    ],
+    "ims": [],
+    "comments_count": 1,
+    "initial_comment": {
+      "id": "Fc8813GCJY",
+      "created": 1512072635,
+      "timestamp": 1512072635,
+      "user": "U1F0QEL0Z",
+      "is_intro": true,
+      "comment": "Another survey"
+    }
+  },
+  "user": "U1F0QEL0Z",
+  "upload": true,
+  "display_as_bot": false,
+  "username": "uribe0areo",
+  "bot_id": null,
+  "ts": "1512072637.000124",
+  "timestamp": 1512072637000,
+  "isoDate": "2017-11-30T20:10:37.000Z"
+},{
+  "type": "message",
+  "user": "U1F408NA0",
+  "text": "I mean if its not a big deal then who cares, we can use the results somewhat casually. Depends how seriously we want to take the results of the survey for freshman and sophomores. <@U1F1ETJM7>",
+  "edited": {
+    "user": "U1F408NA0",
+    "ts": "1512072898.000000"
+  },
+  "ts": "1512072634.000486",
+  "timestamp": 1512072634000,
+  "isoDate": "2017-11-30T20:10:34.000Z"
+},{
+  "type": "message",
+  "user": "U1F1ETJM7",
+  "text": "also we can filter the responses by junior/senior submission",
+  "ts": "1512072560.000190",
+  "timestamp": 1512072560000,
+  "isoDate": "2017-11-30T20:09:20.000Z"
+},{
+  "type": "message",
+  "user": "U1F1ETJM7",
+  "text": "do you want a third survey, juniors and seniors only? I think we can just use the results from this one, even if freshman/sophomores submitted it. Its not that big of a deal",
+  "ts": "1512072455.000665",
+  "timestamp": 1512072455000,
+  "isoDate": "2017-11-30T20:07:35.000Z"
+},{
+  "type": "message",
+  "user": "U1F408NA0",
+  "text": "But anyways, I still think that because the purpose of the survey is for the Wombold meeting, which only juniors and seniors are attending, the survey should only be for juniors and seniors in the upperclassmen group chat. Furthermore, a lot of freshmen and sophomores don't have opinions on lots of this stuff yet, or are not informed on some of the questions yet.",
+  "ts": "1512072312.000012",
+  "timestamp": 1512072312000,
+  "isoDate": "2017-11-30T20:05:12.000Z"
+},{
+  "type": "message",
+  "user": "U1F408NA0",
+  "text": "Is it just me or did my comment get deleted not by me",
+  "ts": "1512072084.000005",
+  "timestamp": 1512072084000,
+  "isoDate": "2017-11-30T20:01:24.000Z"
+},{
+  "type": "message",
+  "user": "U1F09HT4N",
+  "text": "Please fill out the survey:smiley:",
+  "ts": "1512070085.000098",
+  "timestamp": 1512070085000,
+  "isoDate": "2017-11-30T19:28:05.000Z"
+},{
+  "type": "message",
+  "user": "U1F0P4FA5",
+  "text": "I still don't understand how this helps with the Wombold meeting if it is all about the mentors now <@U1F0M8ZTP> ",
+  "edited": {
+    "user": "U1F0P4FA5",
+    "ts": "1512060792.000000"
+  },
+  "ts": "1512060506.000574",
+  "timestamp": 1512060506000,
+  "isoDate": "2017-11-30T16:48:26.000Z"
+},{
+  "type": "message",
+  "user": "U1F0M8ZTP",
+  "text": "<https://goo.gl/forms/ZRZW1WBPGkH7Uq3n1>",
+  "attachments": [
+    {
+      "service_name": "Google Docs",
+      "title": "Robotics Informational Survey",
+      "title_link": "https://goo.gl/forms/ZRZW1WBPGkH7Uq3n1",
+      "text": "This is just a quick way to get anonymous information about the team so we can address issues that the students have when we meet with Ms. Wombold. Please only submit one response, and try to take this seriously.",
+      "fallback": "Google Docs: Robotics Informational Survey",
+      "image_url": "https://lh6.googleusercontent.com/J3KpX-5OE9OAkF6mdWm6LPDamyT9W4Yei_B3W15s45aGN5zHfOaGHvx_ejqfwGMaARQ",
+      "image_width": 333,
+      "image_height": 250,
+      "from_url": "https://goo.gl/forms/ZRZW1WBPGkH7Uq3n1",
+      "image_bytes": 72625,
+      "service_icon": "http://ssl.gstatic.com/docs/forms/device_home/ios_120.png",
+      "id": 1
+    }
+  ],
+  "ts": "1512027067.000285",
+  "timestamp": 1512027067000,
+  "isoDate": "2017-11-30T07:31:07.000Z"
+},{
+  "type": "message",
+  "user": "U1F0M8ZTP",
+  "text": "<!channel> last notification I promise! Here is the final survey link. A few people filled out the old one, but *please* fill it out again; changes were made so those responses had to be deleted. All members are encouraged but not required to fill it out. The survey is anonymous, but please only submit one response. Response data will be published sometime tomorrow. Goodnight everyone!",
+  "ts": "1512027066.000192",
+  "timestamp": 1512027066000,
+  "isoDate": "2017-11-30T07:31:06.000Z"
+},{
+  "type": "message",
+  "user": "U7PBR1J4B",
+  "text": "Gotcha",
+  "ts": "1512025401.000048",
+  "timestamp": 1512025401000,
+  "isoDate": "2017-11-30T07:03:21.000Z"
+},{
+  "type": "message",
+  "user": "U1F0M8ZTP",
+  "text": "it will be published results, it is all anonymous so people can be honest",
+  "ts": "1512025392.000065",
+  "timestamp": 1512025392000,
+  "isoDate": "2017-11-30T07:03:12.000Z"
+},{
+  "type": "message",
+  "user": "U7PBR1J4B",
+  "text": "<@U1F0M8ZTP> Will we get a chance to see the results, or is the survey to better guide the team leads?",
+  "ts": "1512024927.000023",
+  "reactions": [
+    {
+      "name": "question",
+      "users": [
+        "U1F0QEL0Z",
+        "U1F0P4FA5"
+      ],
+      "count": 2
+    },
+    {
+      "name": "eye",
+      "users": [
+        "U1F0BJN5U"
+      ],
+      "count": 1
+    }
+  ],
+  "timestamp": 1512024927000,
+  "isoDate": "2017-11-30T06:55:27.000Z"
+},{
+  "type": "message",
+  "user": "U1F0P4FA5",
+  "text": "Oh okay....",
+  "ts": "1512021549.000137",
+  "timestamp": 1512021549000,
+  "isoDate": "2017-11-30T05:59:09.000Z"
+},{
+  "type": "message",
+  "user": "U1F0KHF71",
+  "text": "Deleted ",
+  "ts": "1512021517.000115",
+  "timestamp": 1512021517000,
+  "isoDate": "2017-11-30T05:58:37.000Z"
+},{
+  "type": "message",
+  "user": "U1F0P4FA5",
+  "text": "Was that in this thread? If so I am missing a message. First one I saw rn was Evan's question ",
+  "ts": "1512021496.000167",
+  "timestamp": 1512021496000,
+  "isoDate": "2017-11-30T05:58:16.000Z"
+},{
+  "type": "message",
+  "user": "U1F408NA0",
+  "text": "Another survey",
+  "ts": "1512021463.000068",
+  "timestamp": 1512021463000,
+  "isoDate": "2017-11-30T05:57:43.000Z"
+},{
+  "type": "message",
+  "user": "U1F0P4FA5",
+  "text": "What being moved?",
+  "ts": "1512021452.000060",
+  "timestamp": 1512021452000,
+  "isoDate": "2017-11-30T05:57:32.000Z"
+},{
+  "type": "message",
+  "user": "U1F1ETJM7",
+  "text": "its being moved",
+  "ts": "1512021412.000021",
+  "timestamp": 1512021412000,
+  "isoDate": "2017-11-30T05:56:52.000Z"
+},{
+  "type": "message",
+  "user": "U1F0P4FA5",
+  "text": "What approved?",
+  "ts": "1512021399.000217",
+  "timestamp": 1512021399000,
+  "isoDate": "2017-11-30T05:56:39.000Z"
+},{
+  "type": "message",
+  "user": "U1F0M8ZTP",
+  "text": "Erin approved it <@U1F05PEAY>",
+  "ts": "1512021289.000059",
+  "timestamp": 1512021289000,
+  "isoDate": "2017-11-30T05:54:49.000Z"
+},{
+  "type": "message",
+  "user": "U1F05PEAY",
+  "text": "Was this approved by any of the team leads or anyone?",
+  "ts": "1512021269.000058",
+  "timestamp": 1512021269000,
+  "isoDate": "2017-11-30T05:54:29.000Z"
+},{
+  "type": "message",
+  "user": "U1F1ETJM7",
+  "text": "interesting",
+  "ts": "1511996852.000305",
+  "reactions": [
+    {
+      "name": "alien",
+      "users": [
+        "U1F1NQKAN",
+        "U1F408NA0",
+        "U1F0P4FA5"
+      ],
+      "count": 3
+    },
+    {
+      "name": "eli_irl",
+      "users": [
+        "U1F0BJN5U",
+        "U1F0WAUUS",
+        "U1F408NA0",
+        "U1F1NQKAN",
+        "U1F0P4FA5",
+        "U5NTUE2CE",
+        "U1F0M8ZTP"
+      ],
+      "count": 7
+    }
+  ],
+  "timestamp": 1511996852000,
+  "isoDate": "2017-11-29T23:07:32.000Z"
+},{
+  "type": "message",
+  "user": "U1F1NQKAN",
+  "text": "<!channel> anyone interested in attending who did not contribute food can give me money for admission right after school or now and then if I get enough I can run to costco and pick something extra up for everyone",
+  "ts": "1511996836.000317",
+  "timestamp": 1511996836000,
+  "isoDate": "2017-11-29T23:07:16.000Z"
+},{
+  "type": "message",
+  "user": "U7PE9838S",
+  "text": "ok",
+  "ts": "1511982414.000696",
+  "timestamp": 1511982414000,
+  "isoDate": "2017-11-29T19:06:54.000Z"
+},{
+  "type": "message",
+  "user": "U1F1ETJM7",
+  "text": "Juniors and Seniors are going on Thursday. most of these messages should have been posted in a different channel, sorry for the confusion",
+  "ts": "1511981823.000480",
+  "timestamp": 1511981823000,
+  "isoDate": "2017-11-29T18:57:03.000Z"
+},{
+  "type": "message",
+  "user": "U7PE9838S",
+  "text": "is everyone going to group therapy?",
+  "edited": {
+    "user": "U7PE9838S",
+    "ts": "1511981746.000000"
+  },
+  "ts": "1511981733.000673",
+  "timestamp": 1511981733000,
+  "isoDate": "2017-11-29T18:55:33.000Z"
+},{
+  "type": "message",
+  "user": "U1F408NA0",
+  "text": "Well at the moment this has next to no context for the entire team, it just seems like it's coming out of nowhere because it came from design. So the team as a whole needs to address specific issues one at a time and come up with solutions instead of complaining. Right now, one of those solutions is the group therapy, so it doesn't make much to bring up a ton of more issues when tomorrow we're going to work on fixing issues during the group therapy <@U2A68KU8K> ",
+  "edited": {
+    "user": "U1F408NA0",
+    "ts": "1511975998.000000"
+  },
+  "ts": "1511975881.000701",
+  "timestamp": 1511975881000,
+  "isoDate": "2017-11-29T17:18:01.000Z"
+},{
+  "type": "message",
+  "user": "U2A68KU8K",
+  "text": "Do it if you want, tell me how to make it better.",
+  "ts": "1511975551.000495",
+  "timestamp": 1511975551000,
+  "isoDate": "2017-11-29T17:12:31.000Z"
+},{
+  "type": "message",
+  "user": "U1F408NA0",
+  "text": "Everyone not in design is probably super confused where this is coming from, because it started in design and migrated over here",
+  "ts": "1511975509.000202",
+  "reactions": [
+    {
+      "name": "+1",
+      "users": [
+        "U1F0P4FA5",
+        "U1F0BGMLN"
+      ],
+      "count": 2
+    }
+  ],
+  "timestamp": 1511975509000,
+  "isoDate": "2017-11-29T17:11:49.000Z"
+},{
+  "type": "message",
+  "user": "U2AB9BZDG",
+  "text": "Jesus Christ we have group therapy for this just hold off",
+  "ts": "1511975499.000343",
+  "timestamp": 1511975499000,
+  "isoDate": "2017-11-29T17:11:39.000Z"
+},{
+  "type": "message",
+  "user": "U1F1ETJM7",
+  "text": "^ that, I feel like the questions are in the wrong pretense for the meeting tomorrow, if that was the original intent.",
+  "ts": "1511975393.000294",
+  "timestamp": 1511975393000,
+  "isoDate": "2017-11-29T17:09:53.000Z"
+},{
+  "type": "message",
+  "user": "U1F0BJN5U",
+  "text": "Do we need a survey at all?",
+  "ts": "1511975366.000808",
+  "timestamp": 1511975366000,
+  "isoDate": "2017-11-29T17:09:26.000Z"
+},{
+  "type": "message",
+  "user": "U2A68KU8K",
+  "text": "If people want to give me input and/or add questions let me know and I am more than willing. I have already done it ",
+  "ts": "1511975346.000517",
+  "timestamp": 1511975346000,
+  "isoDate": "2017-11-29T17:09:06.000Z"
+},{
+  "type": "message",
+  "user": "U1F408NA0",
+  "text": "Why didn't you just edit the first one???",
+  "ts": "1511975257.000333",
+  "reactions": [
+    {
+      "name": "thinking_face",
+      "users": [
+        "U1F0BJN5U",
+        "U7NQFDYBS",
+        "U1F0P4FA5"
+      ],
+      "count": 3
+    }
+  ],
+  "timestamp": 1511975257000,
+  "isoDate": "2017-11-29T17:07:37.000Z"
+},{
+  "type": "message",
+  "user": "U7PE9838S",
+  "text": "*confused",
+  "edited": {
+    "user": "U7PE9838S",
+    "ts": "1511974659.000000"
+  },
+  "ts": "1511974638.000747",
+  "timestamp": 1511974638000,
+  "isoDate": "2017-11-29T16:57:18.000Z"
+},{
+  "type": "message",
+  "user": "U7PE9838S",
+  "text": "im so cnfused",
+  "ts": "1511974629.000326",
+  "timestamp": 1511974629000,
+  "isoDate": "2017-11-29T16:57:09.000Z"
+},{
+  "type": "message",
+  "user": "U1F408NA0",
+  "text": "Don't worry, everyone loves pie :D",
+  "ts": "1511974617.000418",
+  "timestamp": 1511974617000,
+  "isoDate": "2017-11-29T16:56:57.000Z"
+},{
+  "type": "message",
+  "user": "U1FAR4AJU",
+  "text": "Well Friendsgiving just got a whole lot more awkward ",
+  "ts": "1511974523.000459",
+  "reactions": [
+    {
+      "name": "benton_irl",
+      "users": [
+        "U1F0P4FA5",
+        "U1F408NA0",
+        "U7NQFDYBS",
+        "U1F0BJN5U",
+        "U1F0KHF71"
+      ],
+      "count": 5
+    },
+    {
+      "name": "davin_irl",
+      "users": [
+        "U1F0BJN5U",
+        "U1F408NA0",
+        "U1F0KHF71"
+      ],
+      "count": 3
+    }
+  ],
+  "timestamp": 1511974523000,
+  "isoDate": "2017-11-29T16:55:23.000Z"
+},{
+  "type": "message",
+  "user": "U1F408NA0",
+  "text": "In front of literally everyone",
+  "ts": "1511974504.000607",
+  "timestamp": 1511974504000,
+  "isoDate": "2017-11-29T16:55:04.000Z"
+},{
+  "type": "message",
+  "user": "U1F0P4FA5",
+  "text": "Discussing this at the meeting will just make it take forever and stir up bad feelings.",
+  "ts": "1511974488.000428",
+  "timestamp": 1511974488000,
+  "isoDate": "2017-11-29T16:54:48.000Z"
+},{
+  "type": "message",
+  "user": "U1F408NA0",
+  "text": "Same <@U1F0QEL0Z>",
+  "thread_ts": "1511973767.000077",
+  "parent_user_id": "U1F408NA0",
+  "ts": "1511973916.000090",
+  "timestamp": 1511973916000,
+  "isoDate": "2017-11-29T16:45:16.000Z"
+},{
+  "type": "message",
+  "user": "U1F0QEL0Z",
+  "text": "<https://youtu.be/JR5_ytqLXXM>",
+  "attachments": [
+    {
+      "service_name": "YouTube",
+      "service_url": "https://www.youtube.com/",
+      "title": "American millennial Communists questioned by someone who lived in the U.S.S.R.",
+      "title_link": "https://youtu.be/JR5_ytqLXXM",
+      "author_name": "Anime Politics Science Theology",
+      "author_link": "https://www.youtube.com/channel/UCzzlutl0MG0WVHEydvgjp3g",
+      "thumb_url": "https://i.ytimg.com/vi/JR5_ytqLXXM/hqdefault.jpg",
+      "thumb_width": 480,
+      "thumb_height": 360,
+      "fallback": "YouTube Video: American millennial Communists questioned by someone who lived in the U.S.S.R.",
+      "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/JR5_ytqLXXM?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" gesture=\"media\" allow=\"encrypted-media\" allowfullscreen></iframe>",
+      "video_html_width": 400,
+      "video_html_height": 225,
+      "from_url": "https://youtu.be/JR5_ytqLXXM",
+      "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png",
+      "id": 1
+    }
+  ],
+  "thread_ts": "1511973767.000077",
+  "parent_user_id": "U1F408NA0",
+  "ts": "1511973801.000657",
+  "timestamp": 1511973801000,
+  "isoDate": "2017-11-29T16:43:21.000Z"
+},{
+  "type": "message",
+  "user": "U1F408NA0",
+  "text": "I think the vote is clear, the answer is :glory:",
+  "thread_ts": "1511973767.000077",
+  "reply_count": 2,
+  "replies": [
+    {
+      "user": "U1F0QEL0Z",
+      "ts": "1511973801.000657"
+    },
+    {
+      "user": "U1F408NA0",
+      "ts": "1511973916.000090"
+    }
+  ],
+  "subscribed": false,
+  "unread_count": 2,
+  "ts": "1511973767.000077",
+  "timestamp": 1511973767000,
+  "isoDate": "2017-11-29T16:42:47.000Z"
+},{
+  "type": "message",
+  "user": "U1F408NA0",
+  "text": "Exactly <@U1F0KHF71>",
+  "ts": "1511973409.000096",
+  "timestamp": 1511973409000,
+  "isoDate": "2017-11-29T16:36:49.000Z"
+},{
+  "type": "message",
+  "user": "U1F0KHF71",
+  "text": "Wait what",
+  "ts": "1511973376.000321",
+  "timestamp": 1511973376000,
+  "isoDate": "2017-11-29T16:36:16.000Z"
+},{
+  "type": "message",
+  "user": "U1F408NA0",
+  "text": "A vote on whether we should have a vote lmao",
+  "ts": "1511973349.000520",
+  "timestamp": 1511973349000,
+  "isoDate": "2017-11-29T16:35:49.000Z"
+},{
+  "text": "should we put out the survey through the vote function on slack",
+  "bot_id": "B4EG6SWUR",
+  "attachments": [
+    {
+      "callback_id": "agxzfnNsYWNrLXZvdGVyFAsSB01lYXN1cmUYgICAiMGF1QgM",
+      "fallback": "You are unable to vote",
+      "id": 1,
+      "color": "3AA3E3",
+      "actions": [
+        {
+          "id": "1",
+          "name": "Yes",
+          "text": "Yes",
+          "type": "button",
+          "value": "Yes",
+          "style": ""
+        },
+        {
+          "id": "2",
+          "name": "No",
+          "text": "No",
+          "type": "button",
+          "value": "No",
+          "style": ""
+        },
+        {
+          "id": "3",
+          "name": "Abstain",
+          "text": "Abstain",
+          "type": "button",
+          "value": "Abstain",
+          "style": "danger"
+        }
+      ]
+    },
+    {
+      "text": "Yes: 8, Abstain: 5, No: 6",
+      "title": "Results",
+      "id": 2,
+      "fallback": "Results"
+    }
+  ],
+  "type": "message",
+  "subtype": "bot_message",
+  "ts": "1511973328.000277",
+  "reactions": [
+    {
+      "name": "glory",
+      "users": [
+        "U1F0P4FA5",
+        "U1F408NA0",
+        "U7NQFDYBS",
+        "U7PFDAPJQ",
+        "U7QAUH4ES",
+        "U1F0BGMLN",
+        "U1F0BJN5U"
+      ],
+      "count": 7
+    }
+  ],
+  "timestamp": 1511973328000,
+  "isoDate": "2017-11-29T16:35:28.000Z"
+},{
+  "type": "message",
+  "user": "U1F0QEL0Z",
+  "text": "I'd say that works",
+  "ts": "1511973287.000236",
+  "timestamp": 1511973287000,
+  "isoDate": "2017-11-29T16:34:47.000Z"
+},{
+  "type": "message",
+  "user": "U1F408NA0",
+  "text": "You mean the initial meeting with literally everyone there?",
+  "ts": "1511973171.000388",
+  "timestamp": 1511973171000,
+  "isoDate": "2017-11-29T16:32:51.000Z"
+},{
+  "type": "message",
+  "user": "U1FAR4AJU",
+  "text": "We should discuss it at the meeting tonight",
+  "ts": "1511973149.000195",
+  "timestamp": 1511973149000,
+  "isoDate": "2017-11-29T16:32:29.000Z"
+},{
+  "type": "message",
+  "user": "U1F408NA0",
+  "text": "Should we have a poll/vote on using that survey or not",
+  "ts": "1511973073.000294",
+  "timestamp": 1511973073000,
+  "isoDate": "2017-11-29T16:31:13.000Z"
+},{
+  "type": "message",
+  "user": "U1FAR4AJU",
+  "text": "Maybe hold off on the surveys until tonight’s meeting.",
+  "ts": "1511972952.000439",
+  "timestamp": 1511972952000,
+  "isoDate": "2017-11-29T16:29:12.000Z"
+},{
+  "type": "message",
+  "user": "U1F408NA0",
+  "text": "So do we agree that the survey shouldn't be used because of the bias involved with the questions? And that perhaps someone else should make a survey?",
+  "ts": "1511972901.000482",
+  "timestamp": 1511972901000,
+  "isoDate": "2017-11-29T16:28:21.000Z"
+},{
+  "type": "message",
+  "user": "U2A68KU8K",
+  "text": "Well I do apologize. This was not meant to target a specific person and if someone else would like to make a more unbiased survey I would be more than happy to fill it out ",
+  "ts": "1511969930.000340",
+  "timestamp": 1511969930000,
+  "isoDate": "2017-11-29T15:38:50.000Z"
+},{
+  "type": "message",
+  "user": "U1FAR4AJU",
+  "text": "This really hurt. It might not have been easy for you to send out a survey like that <@U2A68KU8K> but it definitely wasn't easy for me to read and I feel targeted by that survey. That was unacceptable.",
+  "ts": "1511947839.000069",
+  "timestamp": 1511947839000,
+  "isoDate": "2017-11-29T09:30:39.000Z"
+},{
+  "type": "message",
+  "user": "U1F0M8ZTP",
+  "text": "Payton I must say that the way the questions in this survey were worded made them seem very biased and created false dilemmas. I think it was worth gathering some anonymous information about team sentiments as a whole but the questions need to be more objective.",
+  "ts": "1511947118.000427",
+  "timestamp": 1511947118000,
+  "isoDate": "2017-11-29T09:18:38.000Z"
+},{
+  "type": "message",
+  "user": "U2A68KU8K",
+  "text": "<@U1F0P4FA5> <@U1F0QEL0Z> i just want to know what everyone thinks about everything. I asked about leads, sub-teams, mentors, so its only fair to ask about drive team too. I would rather know where everyone stands and focus on those points than take random shots in the dark and hope people agree with me. If we try to improve something i want us all to know we are doing it for the entire team and not just a small group. I want to focus on the things that we all want to focus on. Ill publish all results so we can see where we are all at. I apologize if this seems biased. i have always had a vision of this team, i believed that we could be (and believe that we can still) this great powerful positive, a team that helped each other up and strived to be the best while being a family. Ive been let down a little to much lately. I dont want to push myself up, i want to lead from within just like Bowlin wants. I made this survey quickly and i apologize for showing bias. My intent was to collect information that would be helpful for all. I believe this will help or else i wouldnt be doing it. If i didnt care i wouldnt be on the team. I wouldnt have spent my own personal time trying to figure out where everyone stands so I know the issues so i know im not trying to fix things that dont need to be fixed. There are so many problems going on and i feel like everyone is scared to speak up and say whats on their mind. that's the goal of the survey, speak your mind. No one seems to try and fix the problem. We all know there is multiple, especially in design build, but no one is truly willing to stand up and try and solve it. Was this easy for me to send out a survey like this??? NO! I know people wont like me for this but im willing to take that hit so everyone can see what everyone is thinking, to show we all want the same things. I am sorry if i ever came off like a rude arrogant ass, it has never, and will never, be my intent or goal. again i want to help fix things but i want to know where to focus my energy. I want us to all stand together happy, healthy, and a strong family. I have a vision for the team that i hope many of you share. This is the way i think we can be this strong united force we all want to be. WE all want that, getting there is how we all differ. I challenge all of us to work toward that goal together",
+  "ts": "1511943096.000134",
+  "timestamp": 1511943096000,
+  "isoDate": "2017-11-29T08:11:36.000Z"
+},{
+  "type": "message",
+  "user": "U1F0QEL0Z",
+  "text": "To me Payton it seems like you made this to try and create some sort of false pretense that you are a commissar of truth and help for the team, while actively trying to subvert your peers in a way to push your self up. You made this survey with useful topics mixed in with topics that do not need to be brought up right now, and to me it seems as though you are doing this under an emotional knee-jerk reaction to your feelings. You know this and try and base your self in some sort of truth by being helpful. I appreciate you trying to help, but when you actively try and pull people to your point of view it seems to me extremely inappropriate in this context. I know you want to help the team, but in a way like this it does not help your case.",
+  "ts": "1511942070.000195",
+  "reactions": [
+    {
+      "name": "+1",
+      "users": [
+        "U1F0P4FA5",
+        "U1F0BGMLN",
+        "U1FAR4AJU",
+        "U1F408NA0",
+        "U1F0KHF71",
+        "U7388S8CF",
+        "U1F0QEL0Z"
+      ],
+      "count": 7
+    }
+  ],
+  "timestamp": 1511942070000,
+  "isoDate": "2017-11-29T07:54:30.000Z"
+},{
+  "type": "message",
+  "user": "U1F0P4FA5",
+  "text": "Well I would like to know the purpose of this survey, and that's not really relevant to healing",
+  "ts": "1511941766.000223",
+  "timestamp": 1511941766000,
+  "isoDate": "2017-11-29T07:49:26.000Z"
+},{
+  "type": "message",
+  "user": "U1F1ETJM7",
+  "text": "izzie, we can bring these concerns up on thursday",
+  "ts": "1511941721.000118",
+  "timestamp": 1511941721000,
+  "isoDate": "2017-11-29T07:48:41.000Z"
+},{
+  "type": "message",
+  "user": "U1F0P4FA5",
+  "text": "About drive team performance? That's pointed at three specific people",
+  "ts": "1511941695.000149",
+  "timestamp": 1511941695000,
+  "isoDate": "2017-11-29T07:48:15.000Z"
+},{
+  "type": "message",
+  "user": "U2A68KU8K",
+  "text": "It was more a way to see where everyone stands on everything. A way to get our thoughts in the open",
+  "ts": "1511941604.000093",
+  "timestamp": 1511941604000,
+  "isoDate": "2017-11-29T07:46:44.000Z"
+},{
+  "type": "message",
+  "user": "U1F0P4FA5",
+  "text": "But how would drive team and lead performance inform a meeting with Wombold?",
+  "ts": "1511941441.000182",
+  "timestamp": 1511941441000,
+  "isoDate": "2017-11-29T07:44:01.000Z"
+},{
+  "type": "message",
+  "user": "U27TQ5U7K",
+  "text": "would people agree with that?",
+  "ts": "1511941405.000023",
+  "reactions": [
+    {
+      "name": "+1",
+      "users": [
+        "U1F0BJN5U",
+        "U1F09HT4N"
+      ],
+      "count": 2
+    }
+  ],
+  "timestamp": 1511941405000,
+  "isoDate": "2017-11-29T07:43:25.000Z"
+},{
+  "type": "message",
+  "user": "U27TQ5U7K",
+  "text": "I hope that we can use this information to better inform our discussions with Wombold, hopefully moving us forward enough that we won’t need to ever use the data again.",
+  "ts": "1511941399.000009",
+  "timestamp": 1511941399000,
+  "isoDate": "2017-11-29T07:43:19.000Z"
+},{
+  "type": "message",
+  "user": "U1F0P4FA5",
+  "text": "What will be done with this information? Other than the Wombold meeting",
+  "ts": "1511940993.000011",
+  "timestamp": 1511940993000,
+  "isoDate": "2017-11-29T07:36:33.000Z"
+},{
+  "type": "message",
+  "user": "U2A68KU8K",
+  "text": "fixed",
+  "ts": "1511940474.000010",
+  "timestamp": 1511940474000,
+  "isoDate": "2017-11-29T07:27:54.000Z"
+},{
+  "type": "message",
+  "user": "U1F0P4FA5",
+  "text": "I was thinking you should revise it so freshmen don't have to answer drive team questions, the point is so the survey gets fixed",
+  "ts": "1511940433.000164",
+  "timestamp": 1511940433000,
+  "isoDate": "2017-11-29T07:27:13.000Z"
+},{
+  "type": "message",
+  "subtype": "pinned_item",
+  "user": "U2A68KU8K",
+  "item_type": "G",
+  "attachments": [
+    {
+      "fallback": "[November 28th, 2017 11:11 PM] maxhot16: <!channel> <https://goo.gl/forms/Lv9rWVSiW23NWI4u1>",
+      "ts": "1511939496.000033",
+      "author_id": "U2A68KU8K",
+      "author_subname": "PΛΥͲΘΠ ΛδΛΜϞ",
+      "channel_id": "G76M3SUDC",
+      "channel_name": "students",
+      "is_msg_unfurl": true,
+      "text": "<!channel> <https://goo.gl/forms/Lv9rWVSiW23NWI4u1>",
+      "author_name": "PΛΥͲΘΠ ΛδΛΜϞ",
+      "author_link": "https://skunkworksteam1983.slack.com/team/U2A68KU8K",
+      "author_icon": "https://avatars.slack-edge.com/2017-05-18/185555609269_e924cfa55cd44cb373cd_48.png",
+      "mrkdwn_in": [
+        "text"
+      ]
+    }
+  ],
+  "text": "<@U2A68KU8K> pinned a message to this channel.",
+  "ts": "1511940406.000073",
+  "timestamp": 1511940406000,
+  "isoDate": "2017-11-29T07:26:46.000Z"
+},{
+  "type": "message",
+  "user": "U2A68KU8K",
+  "text": "I dont see your point in nit picking. Its just to get info. Im not perfect im sorry",
+  "ts": "1511940388.000043",
+  "timestamp": 1511940388000,
+  "isoDate": "2017-11-29T07:26:28.000Z"
+},{
+  "type": "message",
+  "user": "U2A68KU8K",
+  "text": "you can abstain and put 0",
+  "ts": "1511940357.000173",
+  "timestamp": 1511940357000,
+  "isoDate": "2017-11-29T07:25:57.000Z"
+},{
+  "type": "message",
+  "user": "U1F0P4FA5",
+  "text": "Also u made the drive team stuff required, but then u said only upperclassmen should answer...",
+  "ts": "1511940344.000211",
+  "timestamp": 1511940344000,
+  "isoDate": "2017-11-29T07:25:44.000Z"
+},{
+  "type": "message",
+  "user": "U2A68KU8K",
+  "text": "its just an option. its not perfect im sorry.",
+  "ts": "1511940301.000069",
+  "timestamp": 1511940301000,
+  "isoDate": "2017-11-29T07:25:01.000Z"
+},{
+  "type": "message",
+  "user": "U1F0P4FA5",
+  "text": "If anything why isn't it a specific name if u don't want it to be anonymous",
+  "ts": "1511939978.000019",
+  "timestamp": 1511939978000,
+  "isoDate": "2017-11-29T07:19:38.000Z"
+},{
+  "type": "message",
+  "user": "U1F0P4FA5",
+  "text": "But why is it an option",
+  "ts": "1511939964.000070",
+  "timestamp": 1511939964000,
+  "isoDate": "2017-11-29T07:19:24.000Z"
+},{
+  "type": "message",
+  "user": "U2A68KU8K",
+  "text": "not required",
+  "ts": "1511939798.000109",
+  "timestamp": 1511939798000,
+  "isoDate": "2017-11-29T07:16:38.000Z"
+},{
+  "type": "message",
+  "user": "U1F0P4FA5",
+  "text": "Why is there a student ID #",
+  "ts": "1511939717.000076",
+  "timestamp": 1511939717000,
+  "isoDate": "2017-11-29T07:15:17.000Z"
+},{
+  "type": "message",
+  "user": "U27TQ5U7K",
+  "text": "Especially before the meeting that we’ll be having with Wombold.",
+  "ts": "1511939616.000265",
+  "timestamp": 1511939616000,
+  "isoDate": "2017-11-29T07:13:36.000Z"
+},{
+  "type": "message",
+  "user": "U2A68KU8K",
+  "text": "Hey guys if you could all fill this out so we can all have a better understanding of what everyone's thoughts of the team are it'd be really helpful",
+  "ts": "1511939568.000257",
+  "timestamp": 1511939568000,
+  "isoDate": "2017-11-29T07:12:48.000Z"
+},{
+  "type": "message",
+  "user": "U2A68KU8K",
+  "text": "<!channel> <https://goo.gl/forms/Lv9rWVSiW23NWI4u1>",
+  "attachments": [
+    {
+      "service_name": "Google Docs",
+      "title": "Robotics Informational Survey",
+      "title_link": "https://goo.gl/forms/Lv9rWVSiW23NWI4u1",
+      "text": "This is to gauge everyone's thoughts on the team and what we can do to improve. You have the option to remain anonymous.",
+      "fallback": "Google Docs: Robotics Informational Survey",
+      "image_url": "https://lh3.googleusercontent.com/2LYESNrUuYSlBzzWNfmwMoiUytXJ_TPaI0RdytXRTVxWfHRK4bOYLIIaxcm5viWrBmk",
+      "image_width": 333,
+      "image_height": 250,
+      "from_url": "https://goo.gl/forms/Lv9rWVSiW23NWI4u1",
+      "image_bytes": 69288,
+      "service_icon": "http://ssl.gstatic.com/docs/forms/device_home/ios_120.png",
+      "id": 1
+    }
+  ],
+  "edited": {
+    "user": "U2A68KU8K",
+    "ts": "1511939583.000000"
+  },
+  "ts": "1511939496.000033",
+  "pinned_to": [
+    "G76M3SUDC"
+  ],
+  "timestamp": 1511939496000,
+  "isoDate": "2017-11-29T07:11:36.000Z"
+},{
+  "type": "message",
+  "user": "U2AB9BZDG",
+  "text": "I swear y’all better sign up to bring something for Friendsgiving ",
+  "ts": "1511930673.000047",
+  "reactions": [
+    {
+      "name": "fork_and_knife",
+      "users": [
+        "U1F0P4FA5",
+        "U7PE9838S"
+      ],
+      "count": 2
+    },
+    {
+      "name": "pasta",
+      "users": [
+        "U1F0QEL0Z"
+      ],
+      "count": 1
+    },
+    {
+      "name": "flag-tr",
+      "users": [
+        "U1F0BJN5U"
+      ],
+      "count": 1
+    }
+  ],
+  "timestamp": 1511930673000,
+  "isoDate": "2017-11-29T04:44:33.000Z"
+},{
+  "type": "message",
+  "user": "U7NQG5GTS",
+  "text": "Ok",
+  "ts": "1511915430.000260",
+  "timestamp": 1511915430000,
+  "isoDate": "2017-11-29T00:30:30.000Z"
+},{
+  "type": "message",
+  "user": "U1F0P4FA5",
+  "text": "Iron Man 2 starts in like three-ish minutes! <!channel>",
+  "ts": "1511915406.000173",
+  "timestamp": 1511915406000,
+  "isoDate": "2017-11-29T00:30:06.000Z"
+},{
+  "type": "message",
+  "user": "U1F0QEL0Z",
+  "text": "Get out",
+  "ts": "1511899505.000381",
+  "reactions": [
+    {
+      "name": "letterm",
+      "users": [
+        "U1F0BJN5U"
+      ],
+      "count": 1
+    }
+  ],
+  "timestamp": 1511899505000,
+  "isoDate": "2017-11-28T20:05:05.000Z"
+},{
+  "type": "message",
+  "subtype": "file_share",
+  "text": "<@U2AB9BZDG> uploaded a file: <https://skunkworksteam1983.slack.com/files/U2AB9BZDG/F86963JBC/image_uploaded_from_ios.jpg|@tucker where's your dad pics>",
+  "file": {
+    "id": "F86963JBC",
+    "created": 1511845325,
+    "timestamp": 1511845325,
+    "name": "Image uploaded from iOS.jpg",
+    "title": "@tucker where's your dad pics",
+    "mimetype": "image/jpeg",
+    "filetype": "jpg",
+    "pretty_type": "JPEG",
+    "user": "U2AB9BZDG",
+    "editable": false,
+    "size": 3872679,
+    "mode": "hosted",
+    "is_external": false,
+    "external_type": "",
+    "is_public": false,
+    "public_url_shared": false,
+    "display_as_bot": false,
+    "username": "",
+    "url_private": "https://files.slack.com/files-pri/T1F0J3JF3-F86963JBC/image_uploaded_from_ios.jpg",
+    "url_private_download": "https://files.slack.com/files-pri/T1F0J3JF3-F86963JBC/download/image_uploaded_from_ios.jpg",
+    "thumb_64": "https://files.slack.com/files-tmb/T1F0J3JF3-F86963JBC-ad9aee9874/image_uploaded_from_ios_64.jpg",
+    "thumb_80": "https://files.slack.com/files-tmb/T1F0J3JF3-F86963JBC-ad9aee9874/image_uploaded_from_ios_80.jpg",
+    "thumb_360": "https://files.slack.com/files-tmb/T1F0J3JF3-F86963JBC-ad9aee9874/image_uploaded_from_ios_360.jpg",
+    "thumb_360_w": 270,
+    "thumb_360_h": 360,
+    "thumb_480": "https://files.slack.com/files-tmb/T1F0J3JF3-F86963JBC-ad9aee9874/image_uploaded_from_ios_480.jpg",
+    "thumb_480_w": 360,
+    "thumb_480_h": 480,
+    "thumb_160": "https://files.slack.com/files-tmb/T1F0J3JF3-F86963JBC-ad9aee9874/image_uploaded_from_ios_160.jpg",
+    "thumb_720": "https://files.slack.com/files-tmb/T1F0J3JF3-F86963JBC-ad9aee9874/image_uploaded_from_ios_720.jpg",
+    "thumb_720_w": 540,
+    "thumb_720_h": 720,
+    "thumb_800": "https://files.slack.com/files-tmb/T1F0J3JF3-F86963JBC-ad9aee9874/image_uploaded_from_ios_800.jpg",
+    "thumb_800_w": 800,
+    "thumb_800_h": 1067,
+    "thumb_960": "https://files.slack.com/files-tmb/T1F0J3JF3-F86963JBC-ad9aee9874/image_uploaded_from_ios_960.jpg",
+    "thumb_960_w": 720,
+    "thumb_960_h": 960,
+    "thumb_1024": "https://files.slack.com/files-tmb/T1F0J3JF3-F86963JBC-ad9aee9874/image_uploaded_from_ios_1024.jpg",
+    "thumb_1024_w": 768,
+    "thumb_1024_h": 1024,
+    "image_exif_rotation": 1,
+    "original_w": 2448,
+    "original_h": 3264,
+    "permalink": "https://skunkworksteam1983.slack.com/files/U2AB9BZDG/F86963JBC/image_uploaded_from_ios.jpg",
+    "permalink_public": "https://slack-files.com/T1F0J3JF3-F86963JBC-e847ae704c",
+    "channels": [],
+    "groups": [
+      "G76M3SUDC"
+    ],
+    "ims": [],
+    "comments_count": 0
+  },
+  "user": "U2AB9BZDG",
+  "upload": true,
+  "display_as_bot": false,
+  "username": "nick.lt",
+  "bot_id": null,
+  "upload_reply_to": "ECF34996-F6A0-4CE6-A78A-F86D1CD99E4C",
+  "ts": "1511845325.000154",
+  "timestamp": 1511845325000,
+  "isoDate": "2017-11-28T05:02:05.000Z"
+},{
+  "type": "message",
+  "user": "U2AB9BZDG",
+  "text": "You gotta bring something",
+  "ts": "1511759329.000163",
+  "timestamp": 1511759329000,
+  "isoDate": "2017-11-27T05:08:49.000Z"
+},{
+  "type": "message",
+  "user": "U2AB9BZDG",
+  "text": "If you wanna be a part of it, join the channel @friendsgiving17 and sign up for bringing something ",
+  "ts": "1511759309.000095",
+  "timestamp": 1511759309000,
+  "isoDate": "2017-11-27T05:08:29.000Z"
+},{
+  "type": "message",
+  "user": "U2AB9BZDG",
+  "text": "Also: @underclassman we have a robo Friendsgiving on Wednesday at 345 ",
+  "ts": "1511759257.000018",
+  "timestamp": 1511759257000,
+  "isoDate": "2017-11-27T05:07:37.000Z"
+},{
+  "type": "message",
+  "user": "U2AB9BZDG",
+  "text": "Ok sounds good thx guys",
+  "ts": "1511514507.000315",
+  "timestamp": 1511514507000,
+  "isoDate": "2017-11-24T09:08:27.000Z"
+},{
+  "type": "message",
+  "user": "U7PF8BHTN",
+  "text": "What about the pursuit of happiness. Got Will smith.",
+  "ts": "1511514469.000059",
+  "timestamp": 1511514469000,
+  "isoDate": "2017-11-24T09:07:49.000Z"
+},{
+  "type": "message",
+  "user": "U5M1Q2ZJT",
+  "text": "Keeping up with the Jones’",
+  "ts": "1511514393.000100",
+  "timestamp": 1511514393000,
+  "isoDate": "2017-11-24T09:06:33.000Z"
+},{
+  "type": "message",
+  "user": "U1F0QEL0Z",
+  "text": "The secret life of walter mitty",
+  "ts": "1511514393.000091",
+  "timestamp": 1511514393000,
+  "isoDate": "2017-11-24T09:06:33.000Z"
+},{
+  "type": "message",
+  "user": "U2AB9BZDG",
+  "text": "Ahahaha thanks now what’s a good non horror movie so I can sleep at night ",
+  "ts": "1511514361.000317",
+  "timestamp": 1511514361000,
+  "isoDate": "2017-11-24T09:06:01.000Z"
+},{
+  "type": "message",
+  "user": "U1F0QEL0Z",
+  "text": "The cube is the movie with cubes in it right?",
+  "ts": "1511513338.000288",
+  "timestamp": 1511513338000,
+  "isoDate": "2017-11-24T08:48:58.000Z"
+},{
+  "type": "message",
+  "subtype": "file_share",
+  "text": "<@U1F0QEL0Z> uploaded a file: <https://skunkworksteam1983.slack.com/files/U1F0QEL0Z/F84UM40QK/screenshot_2017-09-25-05-11-24.png|Screenshot_2017-09-25-05-11-24.png>",
+  "file": {
+    "id": "F84UM40QK",
+    "created": 1511513330,
+    "timestamp": 1511513330,
+    "name": "Screenshot_2017-09-25-05-11-24.png",
+    "title": "Screenshot_2017-09-25-05-11-24.png",
+    "mimetype": "image/png",
+    "filetype": "png",
+    "pretty_type": "PNG",
+    "user": "U1F0QEL0Z",
+    "editable": false,
+    "size": 2715674,
+    "mode": "hosted",
+    "is_external": false,
+    "external_type": "",
+    "is_public": false,
+    "public_url_shared": false,
+    "display_as_bot": false,
+    "username": "",
+    "url_private": "https://files.slack.com/files-pri/T1F0J3JF3-F84UM40QK/screenshot_2017-09-25-05-11-24.png",
+    "url_private_download": "https://files.slack.com/files-pri/T1F0J3JF3-F84UM40QK/download/screenshot_2017-09-25-05-11-24.png",
+    "thumb_64": "https://files.slack.com/files-tmb/T1F0J3JF3-F84UM40QK-6f5005dd35/screenshot_2017-09-25-05-11-24_64.png",
+    "thumb_80": "https://files.slack.com/files-tmb/T1F0J3JF3-F84UM40QK-6f5005dd35/screenshot_2017-09-25-05-11-24_80.png",
+    "thumb_360": "https://files.slack.com/files-tmb/T1F0J3JF3-F84UM40QK-6f5005dd35/screenshot_2017-09-25-05-11-24_360.png",
+    "thumb_360_w": 250,
+    "thumb_360_h": 360,
+    "thumb_480": "https://files.slack.com/files-tmb/T1F0J3JF3-F84UM40QK-6f5005dd35/screenshot_2017-09-25-05-11-24_480.png",
+    "thumb_480_w": 334,
+    "thumb_480_h": 480,
+    "thumb_160": "https://files.slack.com/files-tmb/T1F0J3JF3-F84UM40QK-6f5005dd35/screenshot_2017-09-25-05-11-24_160.png",
+    "thumb_720": "https://files.slack.com/files-tmb/T1F0J3JF3-F84UM40QK-6f5005dd35/screenshot_2017-09-25-05-11-24_720.png",
+    "thumb_720_w": 501,
+    "thumb_720_h": 720,
+    "thumb_800": "https://files.slack.com/files-tmb/T1F0J3JF3-F84UM40QK-6f5005dd35/screenshot_2017-09-25-05-11-24_800.png",
+    "thumb_800_w": 800,
+    "thumb_800_h": 1151,
+    "thumb_960": "https://files.slack.com/files-tmb/T1F0J3JF3-F84UM40QK-6f5005dd35/screenshot_2017-09-25-05-11-24_960.png",
+    "thumb_960_w": 668,
+    "thumb_960_h": 960,
+    "thumb_1024": "https://files.slack.com/files-tmb/T1F0J3JF3-F84UM40QK-6f5005dd35/screenshot_2017-09-25-05-11-24_1024.png",
+    "thumb_1024_w": 712,
+    "thumb_1024_h": 1024,
+    "image_exif_rotation": 1,
+    "original_w": 1440,
+    "original_h": 2071,
+    "permalink": "https://skunkworksteam1983.slack.com/files/U1F0QEL0Z/F84UM40QK/screenshot_2017-09-25-05-11-24.png",
+    "permalink_public": "https://slack-files.com/T1F0J3JF3-F84UM40QK-f25710b729",
+    "channels": [],
+    "groups": [
+      "G76M3SUDC"
+    ],
+    "ims": [],
+    "comments_count": 0
+  },
+  "user": "U1F0QEL0Z",
+  "upload": true,
+  "display_as_bot": false,
+  "username": "uribe0areo",
+  "bot_id": null,
+  "ts": "1511513336.000212",
+  "timestamp": 1511513336000,
+  "isoDate": "2017-11-24T08:48:56.000Z"
+},{
+  "type": "message",
+  "user": "U7PF8BHTN",
+  "text": "*schindler’s",
+  "thread_ts": "1511513216.000140",
+  "parent_user_id": "U7PF8BHTN",
+  "ts": "1511513331.000118",
+  "timestamp": 1511513331000,
+  "isoDate": "2017-11-24T08:48:51.000Z"
+},{
+  "type": "message",
+  "user": "U1F0BJN5U",
+  "text": "The Cube is also a really shitty horror movie",
+  "ts": "1511513314.000181",
+  "timestamp": 1511513314000,
+  "isoDate": "2017-11-24T08:48:34.000Z"
+},{
+  "type": "message",
+  "user": "U5M1Q2ZJT",
+  "text": "The Babysitter is also a good movie, if you’re up for cheesy horror \n",
+  "ts": "1511513287.000113",
+  "timestamp": 1511513287000,
+  "isoDate": "2017-11-24T08:48:07.000Z"
+},{
+  "type": "message",
+  "user": "U1F0BJN5U",
+  "text": "Schindler. It's right there",
+  "ts": "1511513283.000234",
+  "timestamp": 1511513283000,
+  "isoDate": "2017-11-24T08:48:03.000Z"
+},{
+  "type": "message",
+  "user": "U7PF8BHTN",
+  "text": "Good to know",
+  "ts": "1511513280.000393",
+  "timestamp": 1511513280000,
+  "isoDate": "2017-11-24T08:48:00.000Z"
+},{
+  "type": "message",
+  "user": "U7PF8BHTN",
+  "text": "Oh. Rip",
+  "ts": "1511513270.000176",
+  "timestamp": 1511513270000,
+  "isoDate": "2017-11-24T08:47:50.000Z"
+},{
+  "type": "message",
+  "user": "U1F0QEL0Z",
+  "text": "There is a edit button",
+  "ts": "1511513253.000084",
+  "timestamp": 1511513253000,
+  "isoDate": "2017-11-24T08:47:33.000Z"
+},{
+  "type": "message",
+  "user": "U7PF8BHTN",
+  "text": "Autocorrect got me",
+  "ts": "1511513224.000264",
+  "timestamp": 1511513224000,
+  "isoDate": "2017-11-24T08:47:04.000Z"
+},{
+  "type": "message",
+  "user": "U7PF8BHTN",
+  "text": "*shindler’s",
+  "thread_ts": "1511513216.000140",
+  "reply_count": 1,
+  "replies": [
+    {
+      "user": "U7PF8BHTN",
+      "ts": "1511513331.000118"
+    }
+  ],
+  "subscribed": false,
+  "unread_count": 1,
+  "ts": "1511513216.000140",
+  "timestamp": 1511513216000,
+  "isoDate": "2017-11-24T08:46:56.000Z"
+},{
+  "type": "message",
+  "user": "U7PF8BHTN",
+  "text": "Shoulders list is actually pretty good",
+  "ts": "1511513206.000276",
+  "timestamp": 1511513206000,
+  "isoDate": "2017-11-24T08:46:46.000Z"
+},{
+  "type": "message",
+  "user": "U1F0QEL0Z",
+  "text": "Schindlers list",
+  "ts": "1511512706.000100",
+  "timestamp": 1511512706000,
+  "isoDate": "2017-11-24T08:38:26.000Z"
+},{
+  "type": "message",
+  "user": "U5M1Q2ZJT",
+  "text": "Gerald’s Game ",
+  "ts": "1511512670.000005",
+  "timestamp": 1511512670000,
+  "isoDate": "2017-11-24T08:37:50.000Z"
+},{
+  "type": "message",
+  "user": "U1F0BJN5U",
+  "text": "Cabin in the Woods",
+  "ts": "1511512645.000155",
+  "timestamp": 1511512645000,
+  "isoDate": "2017-11-24T08:37:25.000Z"
+},{
+  "type": "message",
+  "user": "U1F0QEL0Z",
+  "text": "Nuremberg",
+  "ts": "1511512635.000114",
+  "timestamp": 1511512635000,
+  "isoDate": "2017-11-24T08:37:15.000Z"
+},{
+  "type": "message",
+  "user": "U2AB9BZDG",
+  "text": "Y’all what’s a good movie to watch",
+  "ts": "1511512617.000430",
+  "timestamp": 1511512617000,
+  "isoDate": "2017-11-24T08:36:57.000Z"
+},{
+  "type": "message",
+  "user": "U7PBL4GTV",
+  "text": "Oh",
+  "ts": "1510935472.000486",
+  "reactions": [
+    {
+      "name": "david_irl",
+      "users": [
+        "U1F0BJN5U",
+        "U1F408NA0",
+        "U7NQFDYBS",
+        "U7PE9838S"
+      ],
+      "count": 4
+    }
+  ],
+  "timestamp": 1510935472000,
+  "isoDate": "2017-11-17T16:17:52.000Z"
+},{
+  "type": "message",
+  "user": "U1F1NQKAN",
+  "text": "Check the message in the new student channel <@U7PBL4GTV> ",
+  "ts": "1510935423.000716",
+  "timestamp": 1510935423000,
+  "isoDate": "2017-11-17T16:17:03.000Z"
+},{
+  "type": "message",
+  "user": "U7PBL4GTV",
+  "text": "I printed my time card and downloaded a qr scanner app but it’s not working properly",
+  "ts": "1510935325.000484",
+  "timestamp": 1510935325000,
+  "isoDate": "2017-11-17T16:15:25.000Z"
+},{
+  "type": "message",
+  "user": "U1F0P4FA5",
+  "text": "Second half of Thor in 5 min!",
+  "ts": "1510878418.000069",
+  "timestamp": 1510878418000,
+  "isoDate": "2017-11-17T00:26:58.000Z"
+},{
+  "type": "message",
+  "user": "U1F0P4FA5",
+  "text": "It's chronological!",
+  "ts": "1510703966.000342",
+  "timestamp": 1510703966000,
+  "isoDate": "2017-11-14T23:59:26.000Z"
+},{
+  "type": "message",
+  "user": "U1F0P4FA5",
+  "text": "The first one",
+  "ts": "1510703957.000116",
+  "timestamp": 1510703957000,
+  "isoDate": "2017-11-14T23:59:17.000Z"
+},{
+  "type": "message",
+  "user": "U7PE9838S",
+  "text": "wich one",
+  "ts": "1510703944.000048",
+  "timestamp": 1510703944000,
+  "isoDate": "2017-11-14T23:59:04.000Z"
+},{
+  "type": "message",
+  "user": "U1F0P4FA5",
+  "text": "Thor! (At 4:45 this time)",
+  "edited": {
+    "user": "U1F0P4FA5",
+    "ts": "1510703935.000000"
+  },
+  "ts": "1510703920.000053",
+  "timestamp": 1510703920000,
+  "isoDate": "2017-11-14T23:58:40.000Z"
+},{
+  "type": "message",
+  "user": "U7PE9838S",
+  "text": "what movie is it today",
+  "ts": "1510703062.000087",
+  "timestamp": 1510703062000,
+  "isoDate": "2017-11-14T23:44:22.000Z"
+},{
+  "type": "message",
   "user": "U1F0P4FA5",
   "text": "Yo iron man starting now!",
   "ts": "1510274182.000183",
@@ -415,9 +2090,10 @@
         "U7PE9838S",
         "U1F0BJN5U",
         "U7LGS4HA4",
-        "U7PDTAFNE"
+        "U7PDTAFNE",
+        "U7NQFRW8Y"
       ],
-      "count": 12
+      "count": 13
     }
   ],
   "timestamp": 1509914791000,
@@ -495,18 +2171,20 @@
         "users": [
           "U1F408NA0",
           "U1F09GL5S",
-          "U5NTUE2CE"
+          "U5NTUE2CE",
+          "U7NQFRW8Y"
         ],
-        "count": 3
+        "count": 4
       },
       {
         "name": "eli_irl",
         "users": [
           "U1F0BJN5U",
           "U1F0KHF71",
-          "U5NTUE2CE"
+          "U5NTUE2CE",
+          "U7NQFRW8Y"
         ],
-        "count": 3
+        "count": 4
       }
     ]
   },
@@ -1017,7 +2695,7 @@
       ]
     },
     {
-      "text": "Yes: 13, Abstain: 1",
+      "text": "Yes: 13, Abstain: 1, No: 1",
       "title": "Results",
       "id": 2,
       "fallback": "Results"
@@ -1189,7 +2867,7 @@
       ]
     },
     {
-      "text": "Yes: 11, Abstain: 3",
+      "text": "Yes: 11, Abstain: 4",
       "title": "Results",
       "id": 2,
       "fallback": "Results"
@@ -13329,1414 +15007,4 @@
   "ts": "1506119705.000291",
   "timestamp": 1506119705000,
   "isoDate": "2017-09-22T22:35:05.000Z"
-},{
-  "type": "message",
-  "user": "U5M1Q2ZJT",
-  "text": "Oh my gosh, I didn't realize I had done that, I'm extremely sorry ",
-  "ts": "1506114208.000444",
-  "timestamp": 1506114208000,
-  "isoDate": "2017-09-22T21:03:28.000Z"
-},{
-  "type": "message",
-  "user": "U1F0P4FA5",
-  "text": "I believe she removed herself",
-  "ts": "1506113999.000002",
-  "timestamp": 1506113999000,
-  "isoDate": "2017-09-22T20:59:59.000Z"
-},{
-  "type": "message",
-  "user": "U1F0P4FA5",
-  "text": "To be clear: Izzie and Angelina are students, Elizabeth is a mentor",
-  "ts": "1506113946.000310",
-  "reactions": [
-    {
-      "name": "xhelan_irl",
-      "users": [
-        "U1F0WAUUS",
-        "U1F1ETJM7",
-        "U1F1NQKAN",
-        "U1F408NA0",
-        "U1F0KR9BR"
-      ],
-      "count": 5
-    },
-    {
-      "name": "eli_irl",
-      "users": [
-        "U1F0BJN5U",
-        "U1F408NA0"
-      ],
-      "count": 2
-    }
-  ],
-  "timestamp": 1506113946000,
-  "isoDate": "2017-09-22T20:59:06.000Z"
-},{
-  "type": "message",
-  "user": "U1F0WAUUS",
-  "text": "<https://skunkworksteam1983.slack.com/archives/G76M3SUDC/p1505884673000127>",
-  "attachments": [
-    {
-      "from_url": "https://skunkworksteam1983.slack.com/archives/G76M3SUDC/p1505884673000127",
-      "fallback": "[September 19th, 2017 10:17 PM] ebaileytorres: <@U4YA0M2QJ> has joined the channel",
-      "ts": "1505884673.000127",
-      "msg_subtype": "channel_join",
-      "author_id": "U4YA0M2QJ",
-      "author_subname": "Elizabeth Torres",
-      "channel_id": "G76M3SUDC",
-      "channel_name": "students",
-      "is_msg_unfurl": true,
-      "text": "<@U4YA0M2QJ> has joined the channel",
-      "author_name": "Elizabeth Torres",
-      "author_link": "https://skunkworksteam1983.slack.com/team/U4YA0M2QJ",
-      "author_icon": "https://secure.gravatar.com/avatar/045efb3e5e1df2e8acefe554ffa1ec83.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0011-48.png",
-      "mrkdwn_in": [
-        "text"
-      ],
-      "id": 1,
-      "footer": "Posted in #students"
-    }
-  ],
-  "ts": "1506113929.000266",
-  "timestamp": 1506113929000,
-  "isoDate": "2017-09-22T20:58:49.000Z"
-},{
-  "type": "message",
-  "user": "U1F0P4FA5",
-  "text": "Cora added her accidentally",
-  "ts": "1506113911.000073",
-  "timestamp": 1506113911000,
-  "isoDate": "2017-09-22T20:58:31.000Z"
-},{
-  "type": "message",
-  "user": "U2A68KU8K",
-  "text": "<@U1F408NA0> yeah wth???",
-  "ts": "1506113398.000171",
-  "timestamp": 1506113398000,
-  "isoDate": "2017-09-22T20:49:58.000Z"
-},{
-  "type": "message",
-  "user": "U1F408NA0",
-  "text": "Uh why was izzies mom in this groupchat and how long was she here for?",
-  "ts": "1506112274.000158",
-  "timestamp": 1506112274000,
-  "isoDate": "2017-09-22T20:31:14.000Z"
-},{
-  "user": "U4YA0M2QJ",
-  "text": "<@U4YA0M2QJ> has left the group",
-  "type": "message",
-  "subtype": "group_leave",
-  "ts": "1506109716.000243",
-  "timestamp": 1506109716000,
-  "isoDate": "2017-09-22T19:48:36.000Z"
-},{
-  "type": "message",
-  "user": "U1F0P4FA5",
-  "text": "<!channel> Okay, we are almost halfway through the day and we have only 20 responses! That means about 18 more people need to respond ASAP! We need responses by 2 pm!",
-  "ts": "1506105295.000065",
-  "reactions": [
-    {
-      "name": "benton_irl",
-      "users": [
-        "U1F0QEL0Z",
-        "U1F05PEAY"
-      ],
-      "count": 2
-    }
-  ],
-  "timestamp": 1506105295000,
-  "isoDate": "2017-09-22T18:34:55.000Z"
-},{
-  "type": "message",
-  "user": "U1F0P4FA5",
-  "text": "Please read the job descriptions for coach and assistant coach! We have received at least one response saying that assistant coach does more interaction with the team. Actually we are looking at a scenario where the lead coach does more interaction with the team and the assistant coach does more admin so that the one interacting with the team is the one with the final say (addresses some communication breakdowns).",
-  "ts": "1506063826.000172",
-  "reactions": [
-    {
-      "name": "newtonskunk",
-      "users": [
-        "U1F06GSNQ",
-        "U1F0M8ZTP",
-        "U1F408NA0"
-      ],
-      "count": 3
-    },
-    {
-      "name": "k",
-      "users": [
-        "U1F0M8ZTP",
-        "U1F408NA0"
-      ],
-      "count": 2
-    }
-  ],
-  "timestamp": 1506063826000,
-  "isoDate": "2017-09-22T07:03:46.000Z"
-},{
-  "type": "message",
-  "user": "U1F0P4FA5",
-  "text": "<https://goo.gl/forms/T8IM0o0OnvqltUJe2>",
-  "attachments": [
-    {
-      "service_name": "Google Docs",
-      "title": "Updated Coach Survey",
-      "title_link": "https://goo.gl/forms/T8IM0o0OnvqltUJe2",
-      "text": "The first survey was a bit unclear and include people who were not options for coach, and didn't include people who are options, so this is a new survey. To be clear: this survey is for a LONG-TERM coach, NOT interim. Mr. Bowlin, Mr. Gudor, and Ms. Wilson are currently interim coaches.",
-      "fallback": "Google Docs: Updated Coach Survey",
-      "image_url": "https://lh4.googleusercontent.com/iPDr7LvmiHZtLiwsa67skSgkPdd_06G-QDxVGtrTwn_--Hl5yn9kpRuiCjfckyEkBUI",
-      "image_width": 333,
-      "image_height": 250,
-      "from_url": "https://goo.gl/forms/T8IM0o0OnvqltUJe2",
-      "image_bytes": 159820,
-      "service_icon": "http://ssl.gstatic.com/docs/forms/device_home/ios_120.png",
-      "id": 1
-    }
-  ],
-  "ts": "1506061440.000223",
-  "timestamp": 1506061440000,
-  "isoDate": "2017-09-22T06:24:00.000Z"
-},{
-  "type": "message",
-  "user": "U1F0P4FA5",
-  "text": "Here's the new survey! Please complete by end of school day tomorrow. To be clear: Mr. Gudor and Ms. Wilson do NOT want to be our coaches, they are just interim coaches.",
-  "ts": "1506061438.000197",
-  "timestamp": 1506061438000,
-  "isoDate": "2017-09-22T06:23:58.000Z"
-},{
-  "type": "message",
-  "user": "U1F0P4FA5",
-  "text": "Joshi too",
-  "ts": "1506031868.000180",
-  "timestamp": 1506031868000,
-  "isoDate": "2017-09-21T22:11:08.000Z"
-},{
-  "type": "message",
-  "user": "U1FAR4AJU",
-  "text": "Wilson and Gudor will be at the meeting tonight, and will help run things until a new coach is appointed.",
-  "ts": "1506031849.000150",
-  "timestamp": 1506031849000,
-  "isoDate": "2017-09-21T22:10:49.000Z"
-},{
-  "type": "message",
-  "user": "U1F0P4FA5",
-  "text": "I think Wilson and joshi have?",
-  "ts": "1506031614.000053",
-  "timestamp": 1506031614000,
-  "isoDate": "2017-09-21T22:06:54.000Z"
-},{
-  "type": "message",
-  "user": "U1F1ETJM7",
-  "text": "I know that Gudor has specifically expressed interest, I don't know about Wilson or others",
-  "ts": "1506031589.000326",
-  "timestamp": 1506031589000,
-  "isoDate": "2017-09-21T22:06:29.000Z"
-},{
-  "type": "message",
-  "user": "U1F0P4FA5",
-  "text": "Currently not an active mentor, maybe stepping down volunteer role?",
-  "ts": "1506030475.000262",
-  "timestamp": 1506030475000,
-  "isoDate": "2017-09-21T21:47:55.000Z"
-},{
-  "type": "message",
-  "user": "U1F0P4FA5",
-  "text": "For curious people, this is Chelsea Olsen: <https://www.linkedin.com/in/olschelsea/>",
-  "ts": "1506030455.000230",
-  "timestamp": 1506030455000,
-  "isoDate": "2017-09-21T21:47:35.000Z"
-},{
-  "type": "message",
-  "user": "U1F0P4FA5",
-  "text": "Okay <@U1F06GSNQ> ",
-  "ts": "1506029647.000466",
-  "timestamp": 1506029647000,
-  "isoDate": "2017-09-21T21:34:07.000Z"
-},{
-  "type": "message",
-  "user": "U1F0P4FA5",
-  "text": "Idk what Tipton's plan is <@U1F408NA0> ",
-  "ts": "1506029637.000151",
-  "timestamp": 1506029637000,
-  "isoDate": "2017-09-21T21:33:57.000Z"
-},{
-  "type": "message",
-  "user": "U1F06GSNQ",
-  "text": "Relating to robotics, the only thing Ms. Tipton said was that she acknowledges the stress levels coming from the students this week",
-  "ts": "1506029597.000153",
-  "timestamp": 1506029597000,
-  "isoDate": "2017-09-21T21:33:17.000Z"
-},{
-  "type": "message",
-  "user": "U1F408NA0",
-  "text": "How is our survey going to translate into some of us going to interview prospective coaches? Like I think that Bowlin should still be interviewed, and all prospective coaches shouldn't know what we're going to ask them so its fair. Also I'm not aware if some, like Joshi, want to be coach or assistant coach.",
-  "edited": {
-    "user": "U1F408NA0",
-    "ts": "1506028402.000000"
-  },
-  "ts": "1506028373.000091",
-  "timestamp": 1506028373000,
-  "isoDate": "2017-09-21T21:12:53.000Z"
-},{
-  "type": "message",
-  "user": "U1F0P4FA5",
-  "text": "Any more feedback?",
-  "ts": "1506027434.000058",
-  "timestamp": 1506027434000,
-  "isoDate": "2017-09-21T20:57:14.000Z"
-},{
-  "type": "message",
-  "user": "U1F06GSNQ",
-  "text": "You guys don't need to go, David and I will send you guys every detail of the meeting just in case she does talk about robotics",
-  "ts": "1506026780.000479",
-  "timestamp": 1506026780000,
-  "isoDate": "2017-09-21T20:46:20.000Z"
-},{
-  "type": "message",
-  "user": "U1F0P4FA5",
-  "text": "Plz post results",
-  "ts": "1506026748.000587",
-  "timestamp": 1506026748000,
-  "isoDate": "2017-09-21T20:45:48.000Z"
-},{
-  "type": "message",
-  "user": "U1F06GSNQ",
-  "text": "That's the main point of the meeting, but she'll most likely be stating concerns about robotics",
-  "ts": "1506026729.000074",
-  "timestamp": 1506026729000,
-  "isoDate": "2017-09-21T20:45:29.000Z"
-},{
-  "type": "message",
-  "user": "U1F1ETJM7",
-  "text": "Probably don't talk about this during that meeting for now?",
-  "ts": "1506026701.000318",
-  "timestamp": 1506026701000,
-  "isoDate": "2017-09-21T20:45:01.000Z"
-},{
-  "type": "message",
-  "user": "U1F1NQKAN",
-  "text": "The real question is, should we be trying to be there",
-  "ts": "1506026699.000374",
-  "timestamp": 1506026699000,
-  "isoDate": "2017-09-21T20:44:59.000Z"
-},{
-  "type": "message",
-  "user": "U1F06GSNQ",
-  "text": "Yeah",
-  "ts": "1506026695.000110",
-  "timestamp": 1506026695000,
-  "isoDate": "2017-09-21T20:44:55.000Z"
-},{
-  "type": "message",
-  "user": "U1F0P4FA5",
-  "text": "ASB stuff right?",
-  "ts": "1506026682.000287",
-  "timestamp": 1506026682000,
-  "isoDate": "2017-09-21T20:44:42.000Z"
-},{
-  "type": "message",
-  "user": "U1F06GSNQ",
-  "text": "David and I are about to meet with Ms. Tipton homies ",
-  "edited": {
-    "user": "U1F06GSNQ",
-    "ts": "1506026689.000000"
-  },
-  "ts": "1506026672.000322",
-  "timestamp": 1506026672000,
-  "isoDate": "2017-09-21T20:44:32.000Z"
-},{
-  "type": "message",
-  "user": "U1F1ETJM7",
-  "text": "Thanks.",
-  "ts": "1506026399.000179",
-  "timestamp": 1506026399000,
-  "isoDate": "2017-09-21T20:39:59.000Z"
-},{
-  "type": "message",
-  "user": "U1F0P4FA5",
-  "text": "I'll talk to him rn",
-  "ts": "1506026383.000300",
-  "timestamp": 1506026383000,
-  "isoDate": "2017-09-21T20:39:43.000Z"
-},{
-  "type": "message",
-  "user": "U1F0P4FA5",
-  "text": "I",
-  "ts": "1506026378.000142",
-  "timestamp": 1506026378000,
-  "isoDate": "2017-09-21T20:39:38.000Z"
-},{
-  "type": "message",
-  "user": "U1F1ETJM7",
-  "text": "When and who will share the info with Bowlin?",
-  "ts": "1506026370.000111",
-  "timestamp": 1506026370000,
-  "isoDate": "2017-09-21T20:39:30.000Z"
-},{
-  "type": "message",
-  "user": "U1F0P4FA5",
-  "text": "Yes",
-  "ts": "1506026359.000392",
-  "timestamp": 1506026359000,
-  "isoDate": "2017-09-21T20:39:19.000Z"
-},{
-  "type": "message",
-  "user": "U1F1ETJM7",
-  "text": "So this is open info at this point, the pie chart",
-  "ts": "1506026349.000186",
-  "timestamp": 1506026349000,
-  "isoDate": "2017-09-21T20:39:09.000Z"
-},{
-  "type": "message",
-  "user": "U1F0P4FA5",
-  "text": "You can talk with parents",
-  "ts": "1506026337.000055",
-  "timestamp": 1506026337000,
-  "isoDate": "2017-09-21T20:38:57.000Z"
-},{
-  "type": "message",
-  "user": "U1F1ETJM7",
-  "text": "...So we can talk with mentors but not parents?",
-  "ts": "1506026331.000046",
-  "timestamp": 1506026331000,
-  "isoDate": "2017-09-21T20:38:51.000Z"
-},{
-  "type": "message",
-  "user": "U1F0P4FA5",
-  "text": "We can suggest, it is up to her in the end.",
-  "ts": "1506026328.000351",
-  "timestamp": 1506026328000,
-  "isoDate": "2017-09-21T20:38:48.000Z"
-},{
-  "type": "message",
-  "user": "U1F0P4FA5",
-  "text": "We will share info with parents once Tipton makes a decision",
-  "ts": "1506026318.000043",
-  "timestamp": 1506026318000,
-  "isoDate": "2017-09-21T20:38:38.000Z"
-},{
-  "type": "message",
-  "user": "U1F0P4FA5",
-  "text": "Yes",
-  "ts": "1506026305.000355",
-  "timestamp": 1506026305000,
-  "isoDate": "2017-09-21T20:38:25.000Z"
-},{
-  "type": "message",
-  "user": "U1F1ETJM7",
-  "text": "(inside the team)",
-  "ts": "1506026285.000306",
-  "timestamp": 1506026285000,
-  "isoDate": "2017-09-21T20:38:05.000Z"
-},{
-  "type": "message",
-  "user": "U1F1ETJM7",
-  "text": "are we free to share the pie chart and the fact there was (basically) a vote other places?",
-  "ts": "1506026282.000101",
-  "timestamp": 1506026282000,
-  "isoDate": "2017-09-21T20:38:02.000Z"
-},{
-  "type": "message",
-  "user": "U1F1ETJM7",
-  "text": "when will we share this information with mentors/parents?",
-  "ts": "1506026265.000504",
-  "timestamp": 1506026265000,
-  "isoDate": "2017-09-21T20:37:45.000Z"
-},{
-  "type": "message",
-  "user": "U1F0P4FA5",
-  "text": "Chelsea Olsen is someone highly involved in FIRST",
-  "ts": "1506026256.000075",
-  "timestamp": 1506026256000,
-  "isoDate": "2017-09-21T20:37:36.000Z"
-},{
-  "type": "message",
-  "user": "U1F0P4FA5",
-  "text": "Best Case Scenario\nHead Coach: Mr. Bowlin\nAssistant Coach: Chelsea Olson/Gudor/Wilson/Joshi/Bien-Aime\nReach out for new mentors who have new ideas.",
-  "ts": "1506026232.000366",
-  "timestamp": 1506026232000,
-  "isoDate": "2017-09-21T20:37:12.000Z"
-},{
-  "type": "message",
-  "user": "U1F0P4FA5",
-  "text": "Here's what we will be saying to Tipton (summary):",
-  "ts": "1506026230.000126",
-  "timestamp": 1506026230000,
-  "isoDate": "2017-09-21T20:37:10.000Z"
-},{
-  "type": "message",
-  "user": "U1F0P4FA5",
-  "text": "Pink was involved, helpful, and open-minded",
-  "ts": "1506026203.000475",
-  "timestamp": 1506026203000,
-  "isoDate": "2017-09-21T20:36:43.000Z"
-},{
-  "type": "message",
-  "user": "U1F0P4FA5",
-  "text": "Light blue was staff OR FIRST",
-  "ts": "1506026179.000481",
-  "timestamp": 1506026179000,
-  "isoDate": "2017-09-21T20:36:19.000Z"
-},{
-  "type": "message",
-  "user": "U1F0P4FA5",
-  "text": "Purple was someone who doesn't know team or school for fresh start",
-  "ts": "1506026149.000562",
-  "timestamp": 1506026149000,
-  "isoDate": "2017-09-21T20:35:49.000Z"
-},{
-  "type": "message",
-  "user": "U1F0P4FA5",
-  "text": "They got cut off in what I'm seeing... I'll try to find it",
-  "ts": "1506026101.000112",
-  "timestamp": 1506026101000,
-  "isoDate": "2017-09-21T20:35:01.000Z"
-},{
-  "type": "message",
-  "subtype": "file_share",
-  "text": "<@U1F1ETJM7> uploaded a file: <https://skunkworksteam1983.slack.com/files/U1F1ETJM7/F76UPJZ34/image.png|image.png>",
-  "file": {
-    "id": "F76UPJZ34",
-    "created": 1506026053,
-    "timestamp": 1506026053,
-    "name": "image.png",
-    "title": "image.png",
-    "mimetype": "image/png",
-    "filetype": "png",
-    "pretty_type": "PNG",
-    "user": "U1F1ETJM7",
-    "editable": false,
-    "size": 69732,
-    "mode": "hosted",
-    "is_external": false,
-    "external_type": "",
-    "is_public": false,
-    "public_url_shared": false,
-    "display_as_bot": false,
-    "username": "",
-    "url_private": "https://files.slack.com/files-pri/T1F0J3JF3-F76UPJZ34/image.png",
-    "url_private_download": "https://files.slack.com/files-pri/T1F0J3JF3-F76UPJZ34/download/image.png",
-    "thumb_64": "https://files.slack.com/files-tmb/T1F0J3JF3-F76UPJZ34-78e6981cdc/image_64.png",
-    "thumb_80": "https://files.slack.com/files-tmb/T1F0J3JF3-F76UPJZ34-78e6981cdc/image_80.png",
-    "thumb_360": "https://files.slack.com/files-tmb/T1F0J3JF3-F76UPJZ34-78e6981cdc/image_360.png",
-    "thumb_360_w": 360,
-    "thumb_360_h": 183,
-    "thumb_480": "https://files.slack.com/files-tmb/T1F0J3JF3-F76UPJZ34-78e6981cdc/image_480.png",
-    "thumb_480_w": 480,
-    "thumb_480_h": 243,
-    "thumb_160": "https://files.slack.com/files-tmb/T1F0J3JF3-F76UPJZ34-78e6981cdc/image_160.png",
-    "image_exif_rotation": 1,
-    "original_w": 627,
-    "original_h": 318,
-    "permalink": "https://skunkworksteam1983.slack.com/files/U1F1ETJM7/F76UPJZ34/image.png",
-    "permalink_public": "https://slack-files.com/T1F0J3JF3-F76UPJZ34-3c4d57a0a9",
-    "channels": [],
-    "groups": [
-      "G76M3SUDC"
-    ],
-    "ims": [],
-    "comments_count": 0
-  },
-  "user": "U1F1ETJM7",
-  "upload": true,
-  "display_as_bot": false,
-  "username": "ronoman",
-  "bot_id": null,
-  "ts": "1506026054.000682",
-  "timestamp": 1506026054000,
-  "isoDate": "2017-09-21T20:34:14.000Z"
-},{
-  "type": "message",
-  "user": "U1F0BJN5U",
-  "text": "What do the options that were cut off in the pie chart say?",
-  "ts": "1506026042.000388",
-  "timestamp": 1506026042000,
-  "isoDate": "2017-09-21T20:34:02.000Z"
-},{
-  "type": "message",
-  "user": "U1F0P4FA5",
-  "text": "I have no idea.",
-  "ts": "1506026026.000512",
-  "timestamp": 1506026026000,
-  "isoDate": "2017-09-21T20:33:46.000Z"
-},{
-  "type": "message",
-  "user": "U1F1ETJM7",
-  "text": "we can decide to change coach*",
-  "ts": "1506026022.000049",
-  "timestamp": 1506026022000,
-  "isoDate": "2017-09-21T20:33:42.000Z"
-},{
-  "type": "message",
-  "user": "U1F1ETJM7",
-  "text": "this is a random question, don't take connotation with this. Does us being part of the interview committee instate the precendent that we can change at any time?",
-  "ts": "1506026014.000549",
-  "timestamp": 1506026014000,
-  "isoDate": "2017-09-21T20:33:34.000Z"
-},{
-  "type": "message",
-  "user": "U1F0P4FA5",
-  "text": "These were the results of the survey for first choice coach.",
-  "ts": "1506025922.000254",
-  "timestamp": 1506025922000,
-  "isoDate": "2017-09-21T20:32:02.000Z"
-},{
-  "type": "message",
-  "subtype": "file_share",
-  "text": "<@U1F0P4FA5> uploaded a file: <https://skunkworksteam1983.slack.com/files/U1F0P4FA5/F773C3EAH/pie_charts.docx|Pie Charts.docx>",
-  "file": {
-    "id": "F773C3EAH",
-    "created": 1506025900,
-    "timestamp": 1506025900,
-    "name": "Pie Charts.docx",
-    "title": "Pie Charts.docx",
-    "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-    "filetype": "docx",
-    "pretty_type": "Word Document",
-    "user": "U1F0P4FA5",
-    "editable": false,
-    "size": 166760,
-    "mode": "hosted",
-    "is_external": false,
-    "external_type": "",
-    "is_public": false,
-    "public_url_shared": false,
-    "display_as_bot": false,
-    "username": "",
-    "url_private": "https://files.slack.com/files-pri/T1F0J3JF3-F773C3EAH/pie_charts.docx",
-    "url_private_download": "https://files.slack.com/files-pri/T1F0J3JF3-F773C3EAH/download/pie_charts.docx",
-    "permalink": "https://skunkworksteam1983.slack.com/files/U1F0P4FA5/F773C3EAH/pie_charts.docx",
-    "permalink_public": "https://slack-files.com/T1F0J3JF3-F773C3EAH-1eafa21cdc",
-    "channels": [],
-    "groups": [
-      "G76M3SUDC"
-    ],
-    "ims": [],
-    "comments_count": 0
-  },
-  "user": "U1F0P4FA5",
-  "upload": true,
-  "display_as_bot": false,
-  "username": "grandmasterizzie",
-  "bot_id": null,
-  "ts": "1506025900.000414",
-  "timestamp": 1506025900000,
-  "isoDate": "2017-09-21T20:31:40.000Z"
-},{
-  "type": "message",
-  "user": "U1F1ETJM7",
-  "text": "That's the intent of the meeting tonight",
-  "ts": "1506023736.000093",
-  "timestamp": 1506023736000,
-  "isoDate": "2017-09-21T19:55:36.000Z"
-},{
-  "type": "message",
-  "user": "U1F1ETJM7",
-  "text": "Yes",
-  "ts": "1506023731.000391",
-  "timestamp": 1506023731000,
-  "isoDate": "2017-09-21T19:55:31.000Z"
-},{
-  "type": "message",
-  "user": "U27TQ5U7K",
-  "text": "are the prospective student’s parents invited to tonights meeting?",
-  "ts": "1506023441.000126",
-  "timestamp": 1506023441000,
-  "isoDate": "2017-09-21T19:50:41.000Z"
-},{
-  "type": "message",
-  "user": "U1F0P4FA5",
-  "text": "Okay, we are missing just a few more students! Last call!",
-  "ts": "1506021051.000274",
-  "timestamp": 1506021051000,
-  "isoDate": "2017-09-21T19:10:51.000Z"
-},{
-  "type": "message",
-  "user": "U1F09HT4N",
-  "text": "I just wanted to clarify that this survey is anonymous, your name isn't attached to it at all. Again please fill this out before lunch ",
-  "ts": "1506009172.000117",
-  "timestamp": 1506009172000,
-  "isoDate": "2017-09-21T15:52:52.000Z"
-},{
-  "type": "message",
-  "user": "U1F1NQKAN",
-  "text": "If you don’t respond by lunchtime we won’t be able to take your opinion into account before our meeting. ",
-  "ts": "1506004323.000229",
-  "timestamp": 1506004323000,
-  "isoDate": "2017-09-21T14:32:03.000Z"
-},{
-  "type": "message",
-  "user": "U1F0P4FA5",
-  "text": "Friendly reminder: We do need everyone to fill out this form! So far we have 18 responses, but it would be nice to get everyone's opinions to be taken into account.",
-  "ts": "1506003560.000272",
-  "timestamp": 1506003560000,
-  "isoDate": "2017-09-21T14:19:20.000Z"
-},{
-  "type": "message",
-  "user": "U1F1NQKAN",
-  "text": "Please fill out the form below ASAP. Erin, Izzie, and I would like input before our meeting with admin tomorrow afternoon. We need all the responses by our lunch meeting on Thursday at the absolute latest. \n\nStudents are welcome to sit in on and watch the lead meeting at lunch, to promote transparency, but not participate so that our meeting runs more efficiently.\n\n<https://goo.gl/forms/H6DC2t07DdaTdDOC2>",
-  "attachments": [
-    {
-      "service_name": "Google Docs",
-      "title": "Robotics Coach",
-      "title_link": "https://goo.gl/forms/H6DC2t07DdaTdDOC2",
-      "text": "This is a completely anonymous form for robotics students to fill out and provide the Erin, Izzie, and Ailis with information as they head into their meeting with Mrs. Tipton on Thursday afternoon. Please answer honestly and completely, even though it may seem hard to say. If you would like us to know who you are, feel free to include that in your response to one of the following questions.",
-      "fallback": "Google Docs: Robotics Coach",
-      "image_url": "https://lh6.googleusercontent.com/BPzVjO4F_yVjJuDhFVy02o43P6nO_rqERNJN_Lk2we3iPHtwKSq5gwIbvpEywrmHPbw",
-      "image_width": 333,
-      "image_height": 250,
-      "from_url": "https://goo.gl/forms/H6DC2t07DdaTdDOC2",
-      "image_bytes": 75627,
-      "service_icon": "http://ssl.gstatic.com/docs/forms/device_home/ios_120.png",
-      "id": 1
-    }
-  ],
-  "ts": "1505951919.000088",
-  "timestamp": 1505951919000,
-  "isoDate": "2017-09-20T23:58:39.000Z"
-},{
-  "type": "message",
-  "user": "U27TQ5U7K",
-  "text": "I will be (as apart of ASB)",
-  "ts": "1505939113.000068",
-  "timestamp": 1505939113000,
-  "isoDate": "2017-09-20T20:25:13.000Z"
-},{
-  "type": "message",
-  "user": "U1F1ETJM7",
-  "text": "Who's going to be at that meeting other than you, asb, and tipton?",
-  "ts": "1505939080.000102",
-  "timestamp": 1505939080000,
-  "isoDate": "2017-09-20T20:24:40.000Z"
-},{
-  "type": "message",
-  "user": "U1F0P4FA5",
-  "text": "Yeah, I don't think there are many rumors",
-  "ts": "1505939053.000198",
-  "timestamp": 1505939053000,
-  "isoDate": "2017-09-20T20:24:13.000Z"
-},{
-  "type": "message",
-  "user": "U1F06GSNQ",
-  "text": "Definitely",
-  "ts": "1505939037.000161",
-  "timestamp": 1505939037000,
-  "isoDate": "2017-09-20T20:23:57.000Z"
-},{
-  "type": "message",
-  "user": "U1F1ETJM7",
-  "text": "I haven't as of yet heard anything untrue",
-  "ts": "1505939022.000261",
-  "timestamp": 1505939022000,
-  "isoDate": "2017-09-20T20:23:42.000Z"
-},{
-  "type": "message",
-  "user": "U1F1ETJM7",
-  "text": "So are the rest of us",
-  "ts": "1505939015.000281",
-  "timestamp": 1505939015000,
-  "isoDate": "2017-09-20T20:23:35.000Z"
-},{
-  "type": "message",
-  "user": "U1F06GSNQ",
-  "text": "According to Catie (ASB President), Ms. Tipton is concerned with rumors spreading throughout the school relating to the robotics events of the past few days",
-  "ts": "1505939004.000211",
-  "timestamp": 1505939004000,
-  "isoDate": "2017-09-20T20:23:24.000Z"
-},{
-  "type": "message",
-  "user": "U1F0P4FA5",
-  "text": "Do you know what might be covered relevant to robots? (Sorry if u already said, I probably forgot)",
-  "ts": "1505938882.000624",
-  "timestamp": 1505938882000,
-  "isoDate": "2017-09-20T20:21:22.000Z"
-},{
-  "type": "message",
-  "user": "U1F06GSNQ",
-  "text": "Yup",
-  "ts": "1505938780.000399",
-  "timestamp": 1505938780000,
-  "isoDate": "2017-09-20T20:19:40.000Z"
-},{
-  "type": "message",
-  "user": "U1F1ETJM7",
-  "text": "Tomorrow during 6th?",
-  "ts": "1505938768.000476",
-  "timestamp": 1505938768000,
-  "isoDate": "2017-09-20T20:19:28.000Z"
-},{
-  "type": "message",
-  "user": "U1F06GSNQ",
-  "text": "Administration/ASB meeting is this Thursday at the beginning of 6th period, just in case any of you guys need the date",
-  "ts": "1505938746.000631",
-  "timestamp": 1505938746000,
-  "isoDate": "2017-09-20T20:19:06.000Z"
-},{
-  "type": "message",
-  "user": "U1F1ETJM7",
-  "text": "good to hear",
-  "ts": "1505930570.000232",
-  "timestamp": 1505930570000,
-  "isoDate": "2017-09-20T18:02:50.000Z"
-},{
-  "type": "message",
-  "user": "U1F0QEL0Z",
-  "text": "Sort of late to the party, but from what I discussed with Bowlin (in this sense I'm disconnecting the fact he is my dad), it seems as though the student message didn't fall flat. What was trying to be conveyed was that we haven't had the time to figure out what the future looked like exactly. Tipton forced the option with coach and the desilvas. Because each of our sides, students, mentors, parents haven't talked yet. I know what my opinion is, but how could I ever know what the parents or mentors really think.",
-  "ts": "1505929248.000204",
-  "timestamp": 1505929248000,
-  "isoDate": "2017-09-20T17:40:48.000Z"
-},{
-  "type": "message",
-  "user": "U1F1ETJM7",
-  "text": "<!channel> meeting has started in Joshi's room 2nd floor end of the hallway on the right, if you're running late just walk on in.",
-  "ts": "1505920535.000179",
-  "timestamp": 1505920535000,
-  "isoDate": "2017-09-20T15:15:35.000Z"
-},{
-  "type": "message",
-  "user": "U27TQ5U7K",
-  "text": "yup, just come when you can <@U7388S8CF> ",
-  "ts": "1505918416.000117",
-  "timestamp": 1505918416000,
-  "isoDate": "2017-09-20T14:40:16.000Z"
-},{
-  "type": "message",
-  "user": "U7388S8CF",
-  "text": "I won't be able to make it till after 8 is that okay? ",
-  "ts": "1505918351.000146",
-  "timestamp": 1505918351000,
-  "isoDate": "2017-09-20T14:39:11.000Z"
-},{
-  "type": "message",
-  "user": "U27TQ5U7K",
-  "text": "If someone is there before 8am, do we want to ask tipton if we can use the PLC?",
-  "ts": "1505917490.000239",
-  "timestamp": 1505917490000,
-  "isoDate": "2017-09-20T14:24:50.000Z"
-},{
-  "type": "message",
-  "user": "U1F0P4FA5",
-  "text": "Yeah, we misjudged it. However, we still answered \"What is your opinion?\" with \"We want our opinions heard.\"",
-  "ts": "1505893072.000077",
-  "timestamp": 1505893072000,
-  "isoDate": "2017-09-20T07:37:52.000Z"
-},{
-  "type": "message",
-  "user": "U1F1ETJM7",
-  "text": "I don't think our message fell flat, I think if there's one thing the parents will walk away with it's that we want to be involved. Next time we come with many many more questions and opinions, because they've made it clear that's what they're now looking for. Today was the first kind of meeting where they've asked for this; we prepared for the worst but weren't prepared for the best. That's not on us.",
-  "ts": "1505890778.000093",
-  "timestamp": 1505890778000,
-  "isoDate": "2017-09-20T06:59:38.000Z"
-},{
-  "type": "message",
-  "user": "U1F0P4FA5",
-  "text": "Our message fell flat though. We said we wanted our opinions heard, then said nothing else. The least we could have done was asked questions when the parents asked us if there was anything else we wanted to say",
-  "ts": "1505890682.000058",
-  "timestamp": 1505890682000,
-  "isoDate": "2017-09-20T06:58:02.000Z"
-},{
-  "type": "message",
-  "user": "U1F0M8ZTP",
-  "text": "I agree, I think we were far better prepared to be shut out of the meeting instead of being beckoned and asked for our opinions. I'm glad that <@U1F09HT4N> was able to summarize what we talked about, but at the same time I do wish we had asked more questions. I think some of us were worried (I know I was) that if we asked bad questions or stumbled over our words, we may not have been asked to come to future meetings. I would not be ashamed of tonight, we met like adults, we agreed on our position, and respectfully listened in on the meeting. Erin conveyed what we wanted for student involvement in the future, some of us asked clarifying questions, but we weren't an overbearing presence. We did what we set out to do: we stood our ground, we made our point about being included, and we didn't take over their meeting.",
-  "ts": "1505890599.000111",
-  "timestamp": 1505890599000,
-  "isoDate": "2017-09-20T06:56:39.000Z"
-},{
-  "type": "message",
-  "user": "U1F1ETJM7",
-  "text": "By the way <@U1F0P4FA5>, responding to your message in snapchat about it being a shame that we shut each other down for asking questions; (purely personal opinion and open to discussion) I do not believe that today was the day for unpolished questions to the general group. While it was embarrassing to me that we weren't able to come up with much to say. we weren't prepared to say much more. We didn't know that we were going to be as well accepted as we were; we were making plans of what do to if they wanted us to leave instead of preparing for a discussion with everybody included. Instead of Tipton being blindsided with the possibility of 4H, we were blindsided by the possibility that they wanted us to be included in the conversation. I think that students shutting other students down was simply so that we can continue to at least be on the same page on issues and where we stand, if not be in complete agreement on them. Again, this is purely from what I got out of the situation, so please feel free to say what you truly believe",
-  "ts": "1505890235.000270",
-  "timestamp": 1505890235000,
-  "isoDate": "2017-09-20T06:50:35.000Z"
-},{
-  "user": "U2KDG2552",
-  "inviter": "U1F1ETJM7",
-  "text": "<@U2KDG2552> has joined the group",
-  "type": "message",
-  "subtype": "group_join",
-  "ts": "1505887266.000075",
-  "timestamp": 1505887266000,
-  "isoDate": "2017-09-20T06:01:06.000Z"
-},{
-  "type": "message",
-  "user": "U1F09HT4N",
-  "text": "We need to talk about the future direction of the team",
-  "ts": "1505887185.000045",
-  "timestamp": 1505887185000,
-  "isoDate": "2017-09-20T05:59:45.000Z"
-},{
-  "type": "message",
-  "user": "U1F1ETJM7",
-  "text": "Just a student debrief",
-  "ts": "1505887183.000037",
-  "timestamp": 1505887183000,
-  "isoDate": "2017-09-20T05:59:43.000Z"
-},{
-  "type": "message",
-  "user": "U1F0CAU6L",
-  "text": "All good. I was wondering, what's gonna happen during the meeting? Or is that confidential? ",
-  "ts": "1505887121.000021",
-  "timestamp": 1505887121000,
-  "isoDate": "2017-09-20T05:58:41.000Z"
-},{
-  "type": "message",
-  "user": "U1F09HT4N",
-  "text": "if people need rides, i know we talked a little about that today, you can say where you live and somone close by can probably pick you up",
-  "ts": "1505887063.000019",
-  "timestamp": 1505887063000,
-  "isoDate": "2017-09-20T05:57:43.000Z"
-},{
-  "type": "message",
-  "user": "U1F1ETJM7",
-  "text": "Whenever you can make it",
-  "ts": "1505886978.000032",
-  "timestamp": 1505886978000,
-  "isoDate": "2017-09-20T05:56:18.000Z"
-},{
-  "type": "message",
-  "user": "U1F0CAU6L",
-  "text": "I'll probably get there at 8:30. I can't get there an earlier.",
-  "ts": "1505886803.000089",
-  "timestamp": 1505886803000,
-  "isoDate": "2017-09-20T05:53:23.000Z"
-},{
-  "type": "message",
-  "user": "U1F1ETJM7",
-  "text": "8-9 tomorrow morning.",
-  "ts": "1505886771.000079",
-  "timestamp": 1505886771000,
-  "isoDate": "2017-09-20T05:52:51.000Z"
-},{
-  "type": "message",
-  "user": "U1F0KR9BR",
-  "text": "8am?",
-  "ts": "1505886764.000053",
-  "timestamp": 1505886764000,
-  "isoDate": "2017-09-20T05:52:44.000Z"
-},{
-  "type": "message",
-  "user": "U1F1ETJM7",
-  "text": "Yes. If you can make it please do",
-  "ts": "1505886665.000112",
-  "timestamp": 1505886665000,
-  "isoDate": "2017-09-20T05:51:05.000Z"
-},{
-  "type": "message",
-  "user": "U1F0CAU6L",
-  "text": "So there's still a meeting in joshi's room at 8 tomorrow??? ",
-  "ts": "1505886652.000103",
-  "timestamp": 1505886652000,
-  "isoDate": "2017-09-20T05:50:52.000Z"
-},{
-  "type": "message",
-  "user": "U1F1ETJM7",
-  "text": "Also we're trying to keep most of this information within the team right now.",
-  "ts": "1505886323.000009",
-  "timestamp": 1505886323000,
-  "isoDate": "2017-09-20T05:45:23.000Z"
-},{
-  "type": "message",
-  "user": "U1F1ETJM7",
-  "text": "I think that's all I have thats directly pertinent to our situation right now. Anyone can ask clarifying questions or add to important parts I missed.",
-  "ts": "1505886223.000078",
-  "timestamp": 1505886223000,
-  "isoDate": "2017-09-20T05:43:43.000Z"
-},{
-  "type": "message",
-  "user": "U1F1ETJM7",
-  "text": "For the hiring process, Tipton promised that students (note the plural) would have a seat on the hiring team. From what Tipton said, she made it sound like it would most likely be Gudor, Wilson, or Bowlin. I do not recall if she mentioned the possibility of hiring from outside the current school staff. The other main point that was discussed is that there needs to be a Robotics ASB formed to manage the flow of money through the PTSA to the team. As of now (as far as I know) no decision has been finalized about how the ASB will be selected, and whether they will be elected by the students or not.",
-  "ts": "1505886200.000027",
-  "timestamp": 1505886200000,
-  "isoDate": "2017-09-20T05:43:20.000Z"
-},{
-  "type": "message",
-  "user": "U1F1ETJM7",
-  "text": "(little more coming)",
-  "ts": "1505886076.000154",
-  "timestamp": 1505886076000,
-  "isoDate": "2017-09-20T05:41:16.000Z"
-},{
-  "type": "message",
-  "user": "U1F1ETJM7",
-  "text": "The meeting started at 7 in the BPC, where many parents, many students, many mentors, and Ross (who doesn't really fit into those categories) came. The PTSA board was there, Connie was there, the DeSilvas were there, but Coach did not come (I do not know if he was invited or not.) Tipton would not answer questions about why coach had been removed, or what the interaction was between her and Thomas DeSilva. We learned about two possible options for the team. One was staying with the school, and losing coach definitaly as a paid position, but we don't even know if he will be welcomed back as a mentor for the team as a mentor. Tipton said she would have an answer soon about that. The other option is to become a 4H team, which means that we would separate from the school. This would almost garuntee that we would lose access to the shop in the immediate sense, but there is a chance that we would be able to work on school property in the future. This option has not been researched much yet (and if it has, the results of said research were not shared with the group). We don't know if we would get the money that we have with PTSA if we split from the team, so that would have to be considered as well. As of right now, we are staying with the team, and we do not have an interim coach announced yet before we go through the hiring process.",
-  "ts": "1505886071.000126",
-  "timestamp": 1505886071000,
-  "isoDate": "2017-09-20T05:41:11.000Z"
-},{
-  "type": "message",
-  "user": "U1F1ETJM7",
-  "text": "(part about the parent meeting coming next)",
-  "ts": "1505885806.000030",
-  "timestamp": 1505885806000,
-  "isoDate": "2017-09-20T05:36:46.000Z"
-},{
-  "type": "message",
-  "user": "U1F1ETJM7",
-  "text": "The situation was that coach was removed from the team by decree of Tipton. At the parent meeting tonight, it because unclear exactly who made the final call, as she was not allowed to answer (she did this many times where she said she couldn't answer. We don't know the exact reason but we have to assume its legitimate). Many students met after school on property that Erin's dad had access to. We mostly discussed what we wanted to do at the parent meeting, and in the 2 and a half hours we had we decided that we wanted to sit and listen to everybody's point of view, and if we were going to ask questions they would be either personal questions, or questions agreed upon by the group so that it was clear that each student spoke for themselves. We did not have enough time to discuss questions we wanted to ask as a group, which was a mistake, as we were asked many times questions that we had for them which caught us very off guard.",
-  "ts": "1505885798.000107",
-  "timestamp": 1505885798000,
-  "isoDate": "2017-09-20T05:36:38.000Z"
-},{
-  "type": "message",
-  "user": "U1F1ETJM7",
-  "text": "ill do my best",
-  "ts": "1505885447.000004",
-  "timestamp": 1505885447000,
-  "isoDate": "2017-09-20T05:30:47.000Z"
-},{
-  "type": "message",
-  "user": "U1F09HT4N",
-  "text": "Also all team meeting tomorrow at 8am in Joshi's room",
-  "ts": "1505885441.000123",
-  "timestamp": 1505885441000,
-  "isoDate": "2017-09-20T05:30:41.000Z"
-},{
-  "type": "message",
-  "user": "U1F09HT4N",
-  "text": "Eli can you please give a brief summary of our student meeting and the parent meeting as many of the people on here were not there",
-  "ts": "1505885418.000110",
-  "timestamp": 1505885418000,
-  "isoDate": "2017-09-20T05:30:18.000Z"
-},{
-  "type": "message",
-  "user": "U1F0KR9BR",
-  "text": "only the stuff in the emails",
-  "ts": "1505885371.000199",
-  "timestamp": 1505885371000,
-  "isoDate": "2017-09-20T05:29:31.000Z"
-},{
-  "type": "message",
-  "user": "U1F1ETJM7",
-  "text": "How much do you know?",
-  "ts": "1505885329.000186",
-  "timestamp": 1505885329000,
-  "isoDate": "2017-09-20T05:28:49.000Z"
-},{
-  "type": "message",
-  "user": "U1F0KR9BR",
-  "text": "ye",
-  "ts": "1505885307.000156",
-  "timestamp": 1505885307000,
-  "isoDate": "2017-09-20T05:28:27.000Z"
-},{
-  "type": "message",
-  "user": "U1F1ETJM7",
-  "text": "<@U1F0KR9BR> Are you online?",
-  "ts": "1505885303.000041",
-  "timestamp": 1505885303000,
-  "isoDate": "2017-09-20T05:28:23.000Z"
-},{
-  "type": "message",
-  "user": "USLACKBOT",
-  "text": "This channel is now *private*, and can only be viewed or joined by invitation. Note: older messages might be inaccessible for a few minutes while this change is completed.",
-  "ts": "1505885275.000087",
-  "timestamp": 1505885275000,
-  "isoDate": "2017-09-20T05:27:55.000Z"
-},{
-  "type": "message",
-  "user": "U1HABM1NE",
-  "text": "I added him like 5 mins ago",
-  "ts": "1505885256.000191",
-  "timestamp": 1505885256000,
-  "isoDate": "2017-09-20T05:27:36.000Z"
-},{
-  "user": "U1F0WAUUS",
-  "inviter": "U1F06GSNQ",
-  "text": "<@U1F0WAUUS> has joined the channel",
-  "type": "message",
-  "subtype": "channel_join",
-  "ts": "1505885250.000064",
-  "timestamp": 1505885250000,
-  "isoDate": "2017-09-20T05:27:30.000Z"
-},{
-  "user": "U1F0QEL0Z",
-  "inviter": "U1F06GSNQ",
-  "text": "<@U1F0QEL0Z> has joined the channel",
-  "type": "message",
-  "subtype": "channel_join",
-  "ts": "1505885250.000054",
-  "timestamp": 1505885250000,
-  "isoDate": "2017-09-20T05:27:30.000Z"
-},{
-  "type": "message",
-  "user": "U1HABM1NE",
-  "text": "He is",
-  "ts": "1505885242.000045",
-  "timestamp": 1505885242000,
-  "isoDate": "2017-09-20T05:27:22.000Z"
-},{
-  "type": "message",
-  "user": "U1F1ETJM7",
-  "text": "He should get on slack. WE can fill in here.",
-  "ts": "1505885184.000161",
-  "timestamp": 1505885184000,
-  "isoDate": "2017-09-20T05:26:24.000Z"
-},{
-  "type": "message",
-  "user": "U1HABM1NE",
-  "text": "Someone should fill in Tanvir as he was not able to make it today and he doesn't have a sc",
-  "ts": "1505885069.000123",
-  "timestamp": 1505885069000,
-  "isoDate": "2017-09-20T05:24:29.000Z"
-},{
-  "user": "U1F0KR9BR",
-  "inviter": "U1HABM1NE",
-  "text": "<@U1F0KR9BR> has joined the channel",
-  "type": "message",
-  "subtype": "channel_join",
-  "ts": "1505884707.000020",
-  "timestamp": 1505884707000,
-  "isoDate": "2017-09-20T05:18:27.000Z"
-},{
-  "user": "U7388S8CF",
-  "inviter": "U5M1Q2ZJT",
-  "text": "<@U7388S8CF> has joined the channel",
-  "type": "message",
-  "subtype": "channel_join",
-  "ts": "1505884673.000151",
-  "timestamp": 1505884673000,
-  "isoDate": "2017-09-20T05:17:53.000Z"
-},{
-  "user": "U5M1PPYNA",
-  "inviter": "U5M1Q2ZJT",
-  "text": "<@U5M1PPYNA> has joined the channel",
-  "type": "message",
-  "subtype": "channel_join",
-  "ts": "1505884673.000138",
-  "timestamp": 1505884673000,
-  "isoDate": "2017-09-20T05:17:53.000Z"
-},{
-  "user": "U4YA0M2QJ",
-  "inviter": "U5M1Q2ZJT",
-  "text": "<@U4YA0M2QJ> has joined the channel",
-  "type": "message",
-  "subtype": "channel_join",
-  "ts": "1505884673.000127",
-  "timestamp": 1505884673000,
-  "isoDate": "2017-09-20T05:17:53.000Z"
-},{
-  "user": "U1F0CAU6L",
-  "inviter": "U5M1Q2ZJT",
-  "text": "<@U1F0CAU6L> has joined the channel",
-  "type": "message",
-  "subtype": "channel_join",
-  "ts": "1505884673.000111",
-  "timestamp": 1505884673000,
-  "isoDate": "2017-09-20T05:17:53.000Z"
-},{
-  "user": "U5MMM4HB7",
-  "inviter": "U5M1Q2ZJT",
-  "text": "<@U5MMM4HB7> has joined the channel",
-  "type": "message",
-  "subtype": "channel_join",
-  "ts": "1505884673.000098",
-  "timestamp": 1505884673000,
-  "isoDate": "2017-09-20T05:17:53.000Z"
-},{
-  "user": "U5L84PEEL",
-  "inviter": "U5M1Q2ZJT",
-  "text": "<@U5L84PEEL> has joined the channel",
-  "type": "message",
-  "subtype": "channel_join",
-  "ts": "1505884673.000087",
-  "timestamp": 1505884673000,
-  "isoDate": "2017-09-20T05:17:53.000Z"
-},{
-  "type": "message",
-  "user": "U1F6AR1NF",
-  "text": "who else is on?",
-  "ts": "1505884598.000022",
-  "timestamp": 1505884598000,
-  "isoDate": "2017-09-20T05:16:38.000Z"
-},{
-  "type": "message",
-  "user": "U1F09HT4N",
-  "text": "I know we are missing people, add who you know",
-  "ts": "1505884595.000179",
-  "timestamp": 1505884595000,
-  "isoDate": "2017-09-20T05:16:35.000Z"
-},{
-  "type": "message",
-  "user": "U1F1ETJM7",
-  "text": "Test",
-  "ts": "1505884587.000107",
-  "timestamp": 1505884587000,
-  "isoDate": "2017-09-20T05:16:27.000Z"
-},{
-  "user": "U1F7M4J8M",
-  "inviter": "U1F09HT4N",
-  "text": "<@U1F7M4J8M> has joined the channel",
-  "type": "message",
-  "subtype": "channel_join",
-  "ts": "1505884571.000250",
-  "timestamp": 1505884571000,
-  "isoDate": "2017-09-20T05:16:11.000Z"
-},{
-  "user": "U5M1QEQ22",
-  "inviter": "U1F09HT4N",
-  "text": "<@U5M1QEQ22> has joined the channel",
-  "type": "message",
-  "subtype": "channel_join",
-  "ts": "1505884571.000237",
-  "timestamp": 1505884571000,
-  "isoDate": "2017-09-20T05:16:11.000Z"
-},{
-  "user": "U5NTUE2CE",
-  "inviter": "U1F09HT4N",
-  "text": "<@U5NTUE2CE> has joined the channel",
-  "type": "message",
-  "subtype": "channel_join",
-  "ts": "1505884571.000218",
-  "timestamp": 1505884571000,
-  "isoDate": "2017-09-20T05:16:11.000Z"
-},{
-  "user": "U1F0EN0A2",
-  "inviter": "U1F09HT4N",
-  "text": "<@U1F0EN0A2> has joined the channel",
-  "type": "message",
-  "subtype": "channel_join",
-  "ts": "1505884571.000199",
-  "timestamp": 1505884571000,
-  "isoDate": "2017-09-20T05:16:11.000Z"
-},{
-  "user": "U1F0M8ZTP",
-  "inviter": "U1F09HT4N",
-  "text": "<@U1F0M8ZTP> has joined the channel",
-  "type": "message",
-  "subtype": "channel_join",
-  "ts": "1505884571.000190",
-  "timestamp": 1505884571000,
-  "isoDate": "2017-09-20T05:16:11.000Z"
-},{
-  "user": "U1F408NA0",
-  "inviter": "U1F09HT4N",
-  "text": "<@U1F408NA0> has joined the channel",
-  "type": "message",
-  "subtype": "channel_join",
-  "ts": "1505884571.000180",
-  "timestamp": 1505884571000,
-  "isoDate": "2017-09-20T05:16:11.000Z"
-},{
-  "user": "U1F1395TK",
-  "inviter": "U1F09HT4N",
-  "text": "<@U1F1395TK> has joined the channel",
-  "type": "message",
-  "subtype": "channel_join",
-  "ts": "1505884571.000170",
-  "timestamp": 1505884571000,
-  "isoDate": "2017-09-20T05:16:11.000Z"
-},{
-  "user": "U27TQ5U7K",
-  "inviter": "U1F09HT4N",
-  "text": "<@U27TQ5U7K> has joined the channel",
-  "type": "message",
-  "subtype": "channel_join",
-  "ts": "1505884571.000154",
-  "timestamp": 1505884571000,
-  "isoDate": "2017-09-20T05:16:11.000Z"
-},{
-  "user": "U1FA2S7PY",
-  "inviter": "U1F09HT4N",
-  "text": "<@U1FA2S7PY> has joined the channel",
-  "type": "message",
-  "subtype": "channel_join",
-  "ts": "1505884571.000147",
-  "timestamp": 1505884571000,
-  "isoDate": "2017-09-20T05:16:11.000Z"
-},{
-  "user": "U1F09GL5S",
-  "inviter": "U1F09HT4N",
-  "text": "<@U1F09GL5S> has joined the channel",
-  "type": "message",
-  "subtype": "channel_join",
-  "ts": "1505884571.000139",
-  "timestamp": 1505884571000,
-  "isoDate": "2017-09-20T05:16:11.000Z"
-},{
-  "user": "U1F0GBU5B",
-  "inviter": "U1F09HT4N",
-  "text": "<@U1F0GBU5B> has joined the channel",
-  "type": "message",
-  "subtype": "channel_join",
-  "ts": "1505884571.000127",
-  "timestamp": 1505884571000,
-  "isoDate": "2017-09-20T05:16:11.000Z"
-},{
-  "user": "U73DQN95H",
-  "inviter": "U1F09HT4N",
-  "text": "<@U73DQN95H> has joined the channel",
-  "type": "message",
-  "subtype": "channel_join",
-  "ts": "1505884571.000121",
-  "timestamp": 1505884571000,
-  "isoDate": "2017-09-20T05:16:11.000Z"
-},{
-  "user": "U1F05PEAY",
-  "inviter": "U1F09HT4N",
-  "text": "<@U1F05PEAY> has joined the channel",
-  "type": "message",
-  "subtype": "channel_join",
-  "ts": "1505884571.000112",
-  "timestamp": 1505884571000,
-  "isoDate": "2017-09-20T05:16:11.000Z"
-},{
-  "user": "U1F0W3FFC",
-  "inviter": "U1F09HT4N",
-  "text": "<@U1F0W3FFC> has joined the channel",
-  "type": "message",
-  "subtype": "channel_join",
-  "ts": "1505884571.000095",
-  "timestamp": 1505884571000,
-  "isoDate": "2017-09-20T05:16:11.000Z"
-},{
-  "user": "U1F06GSNQ",
-  "inviter": "U1F09HT4N",
-  "text": "<@U1F06GSNQ> has joined the channel",
-  "type": "message",
-  "subtype": "channel_join",
-  "ts": "1505884571.000083",
-  "timestamp": 1505884571000,
-  "isoDate": "2017-09-20T05:16:11.000Z"
-},{
-  "user": "U5M1Q2ZJT",
-  "inviter": "U1F09HT4N",
-  "text": "<@U5M1Q2ZJT> has joined the channel",
-  "type": "message",
-  "subtype": "channel_join",
-  "ts": "1505884571.000073",
-  "timestamp": 1505884571000,
-  "isoDate": "2017-09-20T05:16:11.000Z"
-},{
-  "user": "U1F0BGMLN",
-  "inviter": "U1F09HT4N",
-  "text": "<@U1F0BGMLN> has joined the channel",
-  "type": "message",
-  "subtype": "channel_join",
-  "ts": "1505884571.000060",
-  "timestamp": 1505884571000,
-  "isoDate": "2017-09-20T05:16:11.000Z"
-},{
-  "user": "U1F0M69LH",
-  "inviter": "U1F09HT4N",
-  "text": "<@U1F0M69LH> has joined the channel",
-  "type": "message",
-  "subtype": "channel_join",
-  "ts": "1505884571.000050",
-  "timestamp": 1505884571000,
-  "isoDate": "2017-09-20T05:16:11.000Z"
-},{
-  "user": "U2AB9BZDG",
-  "inviter": "U1F09HT4N",
-  "text": "<@U2AB9BZDG> has joined the channel",
-  "type": "message",
-  "subtype": "channel_join",
-  "ts": "1505884571.000039",
-  "timestamp": 1505884571000,
-  "isoDate": "2017-09-20T05:16:11.000Z"
-},{
-  "user": "U1HABM1NE",
-  "inviter": "U1F09HT4N",
-  "text": "<@U1HABM1NE> has joined the channel",
-  "type": "message",
-  "subtype": "channel_join",
-  "ts": "1505884571.000017",
-  "timestamp": 1505884571000,
-  "isoDate": "2017-09-20T05:16:11.000Z"
-},{
-  "user": "U1F0KHF71",
-  "inviter": "U1F09HT4N",
-  "text": "<@U1F0KHF71> has joined the channel",
-  "type": "message",
-  "subtype": "channel_join",
-  "ts": "1505884571.000007",
-  "timestamp": 1505884571000,
-  "isoDate": "2017-09-20T05:16:11.000Z"
-},{
-  "user": "U1FAR4AJU",
-  "inviter": "U1F09HT4N",
-  "text": "<@U1FAR4AJU> has joined the channel",
-  "type": "message",
-  "subtype": "channel_join",
-  "ts": "1505884570.000130",
-  "timestamp": 1505884570000,
-  "isoDate": "2017-09-20T05:16:10.000Z"
-},{
-  "user": "U1F6AR1NF",
-  "inviter": "U1F09HT4N",
-  "text": "<@U1F6AR1NF> has joined the channel",
-  "type": "message",
-  "subtype": "channel_join",
-  "ts": "1505884570.000117",
-  "timestamp": 1505884570000,
-  "isoDate": "2017-09-20T05:16:10.000Z"
-},{
-  "user": "U1F1ETJM7",
-  "inviter": "U1F09HT4N",
-  "text": "<@U1F1ETJM7> has joined the channel",
-  "type": "message",
-  "subtype": "channel_join",
-  "ts": "1505884570.000105",
-  "timestamp": 1505884570000,
-  "isoDate": "2017-09-20T05:16:10.000Z"
-},{
-  "user": "U1F0BJN5U",
-  "inviter": "U1F09HT4N",
-  "text": "<@U1F0BJN5U> has joined the channel",
-  "type": "message",
-  "subtype": "channel_join",
-  "ts": "1505884570.000097",
-  "timestamp": 1505884570000,
-  "isoDate": "2017-09-20T05:16:10.000Z"
-},{
-  "user": "U5MHBBXD0",
-  "inviter": "U1F09HT4N",
-  "text": "<@U5MHBBXD0> has joined the channel",
-  "type": "message",
-  "subtype": "channel_join",
-  "ts": "1505884570.000086",
-  "timestamp": 1505884570000,
-  "isoDate": "2017-09-20T05:16:10.000Z"
-},{
-  "user": "U2A68KU8K",
-  "inviter": "U1F09HT4N",
-  "text": "<@U2A68KU8K> has joined the channel",
-  "type": "message",
-  "subtype": "channel_join",
-  "ts": "1505884570.000077",
-  "timestamp": 1505884570000,
-  "isoDate": "2017-09-20T05:16:10.000Z"
-},{
-  "user": "U1F1NQKAN",
-  "inviter": "U1F09HT4N",
-  "text": "<@U1F1NQKAN> has joined the channel",
-  "type": "message",
-  "subtype": "channel_join",
-  "ts": "1505884570.000062",
-  "timestamp": 1505884570000,
-  "isoDate": "2017-09-20T05:16:10.000Z"
-},{
-  "user": "U1F0P4FA5",
-  "inviter": "U1F09HT4N",
-  "text": "<@U1F0P4FA5> has joined the channel",
-  "type": "message",
-  "subtype": "channel_join",
-  "ts": "1505884570.000055",
-  "timestamp": 1505884570000,
-  "isoDate": "2017-09-20T05:16:10.000Z"
-},{
-  "user": "U1JM7GF7E",
-  "inviter": "U1F09HT4N",
-  "text": "<@U1JM7GF7E> has joined the channel",
-  "type": "message",
-  "subtype": "channel_join",
-  "ts": "1505884570.000043",
-  "timestamp": 1505884570000,
-  "isoDate": "2017-09-20T05:16:10.000Z"
-},{
-  "user": "U1F09HT4N",
-  "text": "<@U1F09HT4N> has joined the channel",
-  "type": "message",
-  "subtype": "channel_join",
-  "ts": "1505882514.000162",
-  "timestamp": 1505882514000,
-  "isoDate": "2017-09-20T04:41:54.000Z"
 }]
