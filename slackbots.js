@@ -85,10 +85,7 @@ bot.on('message', function(data) {
                         });
                     });
                 } else if(message[1] == "markov") {
-					execSync("python3 markov.py " + message[2].toString() + " " + message[3].toString() + ".txt");
-					fs.readFile("line.txt", 'utf-8', function(err, res) {
-						postMessage(res, room, roomType);
-					});
+					postMarkov(messsage[3], message[2], room);
 				} else if(message[1] == "link" && message[3] != "key") {
                     if(message[2] == "calendar" || message[2] == "google") {
                         db.serialize(function() {
@@ -134,8 +131,11 @@ bot.on('message', function(data) {
                             });
                         });
                     } catch(err) {
-                        postMessage("Error occursed, contact Eli with this: " + err);
+                        postMessage("Error occured, contact Eli with this: " + err);
                     }
+                } else if(message[1] == "dx4g;[") {
+                    postMarkov(messsage[3], message[2], room);
+                    postMessage("Days until chezy champs: " + getDaysUntil(27, 9, 2018), "markov", "C");
                 } else {
                     if(roomType == "g" || roomType == "d") {
                         if(room != "programming") {
@@ -218,6 +218,25 @@ function formatUptime() {
       uptime = hours + "h " + minutes + "m " + seconds + "s";
     }
     return uptime;
+}
+
+function postMarkov(file, length, channel) {
+    execSync("python3 markov.py " + length + " " + file + ".txt");
+    fs.readFile("line.txt", 'utf-8', function(err, res) {
+        postMessage(res, channel, roomType);
+    });
+}
+
+function getDaysUntil(day, month, year) {
+    until = new Date(year, month-1, day);
+    now = new Date();
+
+    seconds = Math.floor((until - (now))/1000);
+    minutes = Math.floor(seconds/60);
+    hours = Math.floor(minutes/60);
+    days = Math.floor(hours/24);
+
+    return days;
 }
 
 function postMessage(message, room, type) {
