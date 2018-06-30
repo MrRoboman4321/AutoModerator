@@ -1,7 +1,6 @@
 var slackbot = require('slackbots');
 var sqlite3 = require('sqlite3').verbose();
 var db = new sqlite3.Database('memebot.db');
-var calendar = require('./calendar.js');
 var fs = require('fs');
 var execSync = require("child_process").execSync;
 var firstline = require("firstline")
@@ -15,8 +14,6 @@ var bot = new slackbot({
 });
 var timeStart = 0;
 
-var mBuffer = [];
-
 var params = {
   as_user: true
 };
@@ -27,11 +24,6 @@ bot.on('start', function() {
         db.run("CREATE TABLE if not exists users (name TEXT, calendar TEXT, github TEXT)");
     });
     timeStart = Date.now();
-
-    //https://api.slack.com/methods/chat.postMessage
-
-
-    //bot.postMessageToUser('katanacorgi', 'I AM BEAUTIFUL', params);
 });
 
 bot.on('close', function() {
@@ -92,9 +84,6 @@ commands = {
     'suggest': cSuggest,
     'register': cRegister,
     'markov': cMarkov,
-    /*'link': cLink,
-    'key': cKey,
-    'schedule': cSchedule,*/
     'dx4g;[': cTimeToChezy
 }
 
