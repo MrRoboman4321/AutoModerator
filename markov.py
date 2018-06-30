@@ -11,4 +11,5 @@ except OSError:
 	pass
 	
 with open("line.txt", "w") as line:
+	print(text_model.make_short_sentence(int(sys.argv[1])))
 	line.write(text_model.make_short_sentence(int(sys.argv[1])))

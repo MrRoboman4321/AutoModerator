@@ -85,8 +85,9 @@ bot.on('message', function(data) {
                         });
                     });
                 } else if(message[1] == "markov") {
-					postMarkov(messsage[3], message[2], room);
-				} else if(message[1] == "link" && message[3] != "key") {
+                    console.log(message);
+		    postMarkov(message[3], message[2], room, roomType);
+		} else if(message[1] == "link" && message[3] != "key") {
                     if(message[2] == "calendar" || message[2] == "google") {
                         db.serialize(function() {
                             db.get("SELECT * FROM users WHERE name = ?", user, function(err, row) {
@@ -134,8 +135,8 @@ bot.on('message', function(data) {
                         postMessage("Error occured, contact Eli with this: " + err);
                     }
                 } else if(message[1] == "dx4g;[") {
-                    postMarkov(messsage[3], message[2], room);
-                    postMessage("Days until chezy champs: " + getDaysUntil(27, 9, 2018), "markov", "C");
+                    postRandomCatPicture("design", "g");
+                    postMessage("Days until chezy champs: " + getDaysUntil(27, 9, 2018), "design", "g");
                 } else {
                     if(roomType == "g" || roomType == "d") {
                         if(room != "programming") {
@@ -220,10 +221,26 @@ function formatUptime() {
     return uptime;
 }
 
-function postMarkov(file, length, channel) {
+function postMarkov(file, length, channel, roomType) {
     execSync("python3 markov.py " + length + " " + file + ".txt");
     fs.readFile("line.txt", 'utf-8', function(err, res) {
+        console.log("Got here. channel: " + channel + ", roomType:" + roomType);
         postMessage(res, channel, roomType);
+    });
+}
+
+function postRandomCatPicture(channel, roomType){
+    fs.readFile("cats.txt", "utf8", function(err, data){
+        if(err) throw err;
+        var lines = data.split('\n');
+        line = lines[Math.floor(Math.random()*lines.length)];
+        if(line[0] != "<" && line[line.length-1] != ">") {
+            console.log("SKIPPING");
+            postRandomCatPicture(channel, roomType);
+            return;
+        }
+
+        postMessage(line, channel, roomType);
     });
 }
 
