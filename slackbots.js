@@ -31,7 +31,17 @@ bot.on('close', function() {
 });
 
 function cHelp(message, room, roomType) {
-    //TODO: iterate through commands and output (except for a few)
+    commandList = []
+    if(message[0] == "!automoderator" || message[0] == "<@UBGMPTN4V>" || message[0] == "!am") { //I've been mentioned in a command
+        for (var command in commands) {
+            if (commands.hasOwnProperty(command) && commands[command]["visible"]) {
+                commandList.push(command);
+            }
+        }
+    }
+
+    list = commandList.join(", ");
+    postMessage("Available commands: " + list, room, roomType);
 }
 
 function cVersion(message, room, roomType) {
@@ -78,13 +88,13 @@ function cTimeToChezy(message, room, roomType) {
 }
 
 commands = {
-    'help': cHelp,
-    'version': cVersion,
-    'uptime': cUptime,
-    'suggest': cSuggest,
-    'register': cRegister,
-    'markov': cMarkov,
-    'dx4g;[': cTimeToChezy
+    'help': {"function": cHelp, "visible": true}, //visible to the help command
+    'version': {"function": cVersion, "visible": true},
+    'uptime': {"function": cUptime, "visible": true},
+    'suggest': {"function": cSuggest, "visible": true},
+    'register': {"function": cRegister, "visible": true},
+    'markov': {"function": cMarkov, "visible": true},
+    'dx4g;[':{"function":  cTimeToChezy "visible": false}
 }
 
 bot.on('message', function(data) {
@@ -107,7 +117,7 @@ bot.on('message', function(data) {
             for (var command in commands) {
                 if (commands.hasOwnProperty(command)) {
                     if(command == message[1].toLowerCase()) { //The command is in the command table
-                        commands[command](message, room, roomType); //Call it with the standard parameters
+                        commands[command]["function"](message, room, roomType); //Call it with the standard parameters
                     }
                 }
             }
