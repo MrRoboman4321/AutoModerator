@@ -42,7 +42,7 @@ function cHelp(message, room, roomType) {
         list = commandList.join(", ");
         postMessage("Available commands: " + list, room, roomType);
     } else if(message.length == 3) { //Asking for help for a specific command
-        if(commands.hasOwnProperty(message[2]) { //Command actually exists
+        if(commands.hasOwnProperty(message[2])) { //Command actually exists
             postMessage(commands[message[2]]["help_string"], room, roomType);
         } else { postMessage(commands["help"]["help_string"], room, roomType); }
     } else { postMessage(commands["help"]["help_string"], room, roomType); }
@@ -98,7 +98,7 @@ commands = {
     'suggest': {"function": cSuggest, "visible": true, "help_string": "Usage: @automod suggest <message>\nSuggests features to be added. No, I won't look."},
     'register': {"function": cRegister, "visible": true, "help_string": "Usage: @automod register\nRegister's your username in the database. Not used."},
     'markov': {"function": cMarkov, "visible": true, "help_string": "Usage: @automod markov <max characters> <channel name>\nCreates a message that looks like it's from the channel specified."},
-    'dx4g;[':{"function":  cTimeToChezy "visible": false, "help_string": "Nope."}
+    'dx4g;[':{"function":  cTimeToChezy, "visible": false, "help_string": "Nope."}
 }
 
 bot.on('message', function(data) {
