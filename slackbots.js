@@ -32,16 +32,20 @@ bot.on('close', function() {
 
 function cHelp(message, room, roomType) {
     commandList = []
-    if(message[0] == "!automoderator" || message[0] == "<@UBGMPTN4V>" || message[0] == "!am") { //I've been mentioned in a command
+    if(message.length == 2) { //Asking for command list
         for (var command in commands) {
             if (commands.hasOwnProperty(command) && commands[command]["visible"]) {
                 commandList.push(command);
             }
         }
-    }
 
-    list = commandList.join(", ");
-    postMessage("Available commands: " + list, room, roomType);
+        list = commandList.join(", ");
+        postMessage("Available commands: " + list, room, roomType);
+    } else if(message.length == 3) { //Asking for help for a specific command
+        if(commands.hasOwnProperty(message[2]) { //Command actually exists
+            postMessage(commands[message[2]]["help_string"], room, roomType);
+        } else { postMessage(commands["help"]["help_string"], room, roomType); }
+    } else { postMessage(commands["help"]["help_string"], room, roomType); }
 }
 
 function cVersion(message, room, roomType) {
@@ -88,13 +92,13 @@ function cTimeToChezy(message, room, roomType) {
 }
 
 commands = {
-    'help': {"function": cHelp, "visible": true}, //visible to the help command
-    'version': {"function": cVersion, "visible": true},
-    'uptime': {"function": cUptime, "visible": true},
-    'suggest': {"function": cSuggest, "visible": true},
-    'register': {"function": cRegister, "visible": true},
-    'markov': {"function": cMarkov, "visible": true},
-    'dx4g;[':{"function":  cTimeToChezy "visible": false}
+    'help': {"function": cHelp, "visible": true, "help_string": "Usage: @automod help or @automod help <command>\nUsed to list all available commands, or to get specific help information about a command."}, //visible to the help command
+    'version': {"function": cVersion, "visible": true, "help_string": "Usage: @automod version\nShows the version number"},
+    'uptime': {"function": cUptime, "visible": true, "help_string": "Usage: @automod uptime\nDisplays time since last restart"},
+    'suggest': {"function": cSuggest, "visible": true, "help_string": "Usage: @automod suggest <message>\nSuggests features to be added. No, I won't look."},
+    'register': {"function": cRegister, "visible": true, "help_string": "Usage: @automod register\nRegister's your username in the database. Not used."},
+    'markov': {"function": cMarkov, "visible": true, "help_string": "Usage: @automod markov <max characters> <channel name>\nCreates a message that looks like it's from the channel specified."},
+    'dx4g;[':{"function":  cTimeToChezy "visible": false, "help_string": "Nope."}
 }
 
 bot.on('message', function(data) {
